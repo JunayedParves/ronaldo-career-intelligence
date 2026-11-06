@@ -1,0 +1,101 @@
+﻿player,player_id,team_id,club,season_id,competition_id,competition,competition_type,country,appearances,starts,substitute_appearances,minutes_played,goals,assists,assists_all_definitions,pens_scored,pens_missed,hat_tricks,free_kick_goals,headed_goals,left_foot_goals,right_foot_goals,winning_goals,yellow_cards,red_cards,goals_per_appearance,goals_per_90,assists_per_appearance,assists_per_90,wins,draws,losses,shots,source_id
+Cristiano Ronaldo,CR7,SPO,Sporting CP,2002-03,UCQ,UEFA Champions League qualifying,UEFA club competition,Continental,1,0,1,32,0,0,0,0,0,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,0,1,0,,S01+S17
+Cristiano Ronaldo,CR7,SPO,Sporting CP,2002-03,UEC,UEFA Cup,UEFA club competition,Continental,2,1,1,119,0,0,1,0,0,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,0,1,1,,S01+S17
+Cristiano Ronaldo,CR7,SPO,Sporting CP,2002-03,PRI,Primeira Liga,Domestic league,Portugal,25,11,14,1069,3,4,5,0,0,0,0,1,0,2,1,,0,0.12,0.253,0.16,0.337,11,6,8,,S01+S17
+Cristiano Ronaldo,CR7,SPO,Sporting CP,2002-03,TDP,Taça de Portugal,Domestic cup,Portugal,3,2,1,172,2,0,0,0,0,0,0,0,2,0,0,,0,0.667,1.047,0.0,0.0,2,0,1,,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2003-04,EPL,Premier League,Domestic league,England,29,15,14,1552,4,4,5,0,0,0,1,1,0,3,1,,1,0.138,0.232,0.138,0.232,18,3,8,,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2003-04,UCL,UEFA Champions League,UEFA club competition,Continental,5,3,2,291,0,0,1,0,0,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,2,1,2,7,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2003-04,ELC,Football League Cup,Domestic league cup,England,1,1,0,77,0,0,0,0,0,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,0,0,1,,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2003-04,FAC,FA Cup,Domestic cup,England,5,5,0,436,2,2,3,0,0,0,0,1,0,1,1,,0,0.4,0.413,0.4,0.413,5,0,0,,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2004-05,EPL,Premier League,Domestic league,England,33,25,8,2429,5,4,7,0,0,0,0,0,2,3,2,,0,0.152,0.185,0.121,0.148,18,11,4,,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2004-05,UCQ,UEFA Champions League qualifying,UEFA club competition,Continental,1,1,0,64,0,0,0,0,0,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,1,0,0,,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2004-05,UCL,UEFA Champions League,UEFA club competition,Continental,7,6,1,501,0,1,2,0,0,0,0,0,0,0,0,,0,0.0,0.0,0.143,0.18,2,2,3,20,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2004-05,FAC,FA Cup,Domestic cup,England,7,6,1,545,4,3,3,0,0,0,0,0,3,1,1,,0,0.571,0.661,0.429,0.495,5,2,0,,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2004-05,ELC,Football League Cup,Domestic league cup,England,2,2,0,180,0,0,0,0,0,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,0,1,1,,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2005-06,UCQ,UEFA Champions League qualifying,UEFA club competition,Continental,2,2,0,157,1,1,1,0,0,0,0,0,0,1,0,,0,0.5,0.573,0.5,0.573,2,0,0,,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2005-06,EPL,Premier League,Domestic league,England,33,24,9,2286,9,6,7,0,0,0,1,1,3,5,0,,1,0.273,0.354,0.182,0.236,21,7,5,,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2005-06,UCL,UEFA Champions League,UEFA club competition,Continental,6,6,0,506,0,0,0,0,0,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,1,3,2,20,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2005-06,ELC,Football League Cup,Domestic league cup,England,4,4,0,343,2,1,1,1,0,0,0,0,0,2,0,,0,0.5,0.525,0.25,0.262,3,1,0,,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2005-06,FAC,FA Cup,Domestic cup,England,2,1,1,121,0,0,0,0,0,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,0,1,1,,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2006-07,EPL,Premier League,Domestic league,England,34,31,3,2789,17,8,16,3,1,0,1,2,0,15,6,,0,0.5,0.549,0.235,0.258,25,4,5,,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2006-07,UCL,UEFA Champions League,UEFA club competition,Continental,11,11,0,959,3,5,5,0,0,0,0,1,0,2,0,,0,0.273,0.282,0.455,0.469,7,0,4,57,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2006-07,ELC,Football League Cup,Domestic league cup,England,1,1,0,90,0,0,0,0,0,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,0,0,1,,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2006-07,FAC,FA Cup,Domestic cup,England,7,6,1,560,3,1,1,2,0,0,0,0,0,3,2,,0,0.429,0.482,0.143,0.161,4,2,1,,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2007-08,FCS,FA Community Shield,Domestic super cup,England,1,1,0,120,0,0,0,0,0,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,0,1,0,,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2007-08,EPL,Premier League,Domestic league,England,34,31,3,2749,31,6,7,4,1,1,4,5,5,20,10,,1,0.912,1.015,0.176,0.196,25,6,3,,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2007-08,UCL,UEFA Champions League,UEFA club competition,Continental,11,11,0,1016,8,1,1,1,1,0,1,4,1,3,4,,0,0.727,0.709,0.091,0.089,8,3,0,56,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2007-08,FAC,FA Cup,Domestic cup,England,3,3,0,270,3,0,1,1,0,0,0,0,1,2,2,,0,1.0,1.0,0.0,0.0,2,0,1,,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2008-09,UCL,UEFA Champions League,UEFA club competition,Continental,12,11,1,1010,4,2,4,0,0,0,1,1,0,3,1,,0,0.333,0.356,0.167,0.178,6,5,1,72,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2008-09,EPL,Premier League,Domestic league,England,33,31,2,2748,18,6,7,4,0,0,4,2,4,12,7,,1,0.545,0.59,0.182,0.197,25,5,3,,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2008-09,ELC,Football League Cup,Domestic league cup,England,4,2,2,240,2,0,0,1,0,0,0,1,0,1,0,,0,0.5,0.75,0.0,0.0,2,1,1,,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2008-09,CWC,FIFA Club World Cup,FIFA club competition,Global,2,2,0,180,1,1,1,0,0,0,0,1,0,0,0,,0,0.5,0.5,0.5,0.5,2,0,0,,S01+S17
+Cristiano Ronaldo,CR7,MU1,Manchester United (2003-09),2008-09,FAC,FA Cup,Domestic cup,England,2,2,0,144,1,0,1,0,0,0,0,1,0,0,0,,0,0.5,0.625,0.0,0.0,2,0,0,,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2009-10,LAL,La Liga,Domestic league,Spain,29,28,1,2471,26,7,11,4,1,1,3,3,4,19,6,,2,0.897,0.947,0.241,0.255,24,2,3,211,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2009-10,UCL,UEFA Champions League,UEFA club competition,Continental,6,5,1,450,7,1,2,0,0,0,3,0,2,5,1,,0,1.167,1.4,0.167,0.2,4,1,1,32,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2010-11,LAL,La Liga,Domestic league,Spain,34,32,2,2902,40,11,13,8,0,6,4,4,8,28,5,,0,1.176,1.241,0.324,0.341,27,5,2,250,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2010-11,UCL,UEFA Champions League,UEFA club competition,Continental,12,12,0,1021,6,4,4,1,0,0,1,0,1,5,1,,0,0.5,0.529,0.333,0.353,8,3,1,73,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2010-11,CDR,Copa del Rey,Domestic cup,Spain,8,7,1,684,7,1,1,0,0,1,0,1,0,6,2,,0,0.875,0.921,0.125,0.132,7,1,0,,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2011-12,SCE,Supercopa de España,Domestic super cup,Spain,2,2,0,180,1,0,0,0,0,0,0,0,0,1,0,,0,0.5,0.5,0.0,0.0,0,1,1,,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2011-12,LAL,La Liga,Domestic league,Spain,38,37,1,3354,46,12,12,12,1,7,2,7,6,33,11,,0,1.211,1.234,0.316,0.322,32,4,2,264,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2011-12,UCL,UEFA Champions League,UEFA club competition,Continental,10,10,0,930,10,3,3,2,0,0,2,0,1,9,2,,0,1.0,0.968,0.3,0.29,8,1,1,74,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2011-12,CDR,Copa del Rey,Domestic cup,Spain,5,5,0,438,3,0,0,0,0,0,0,0,2,1,0,,0,0.6,0.616,0.0,0.0,3,1,1,,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2012-13,LAL,La Liga,Domestic league,Spain,34,30,4,2719,34,10,11,6,1,3,4,6,10,18,4,,0,1.0,1.125,0.294,0.331,24,5,5,235,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2012-13,SCE,Supercopa de España,Domestic super cup,Spain,2,2,0,180,2,0,0,0,0,0,0,1,0,1,1,,0,1.0,1.0,0.0,0.0,1,0,1,,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2012-13,UCL,UEFA Champions League,UEFA club competition,Continental,12,12,0,1080,12,1,1,0,0,1,0,1,2,9,3,,0,1.0,1.0,0.083,0.083,6,3,3,81,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2012-13,CDR,Copa del Rey,Domestic cup,Spain,7,7,0,655,7,1,1,1,0,1,0,1,4,2,1,,1,1.0,0.962,0.143,0.137,3,2,2,,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2013-14,LAL,La Liga,Domestic league,Spain,30,30,0,2540,31,9,11,6,0,2,3,3,2,26,10,,1,1.033,1.098,0.3,0.319,20,6,4,216,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2013-14,UCL,UEFA Champions League,UEFA club competition,Continental,11,11,0,993,17,4,5,2,1,1,1,2,4,11,2,,0,1.545,1.541,0.364,0.363,10,1,0,76,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2013-14,CDR,Copa del Rey,Domestic cup,Spain,6,6,0,497,3,1,1,2,0,0,1,0,0,3,1,,0,0.5,0.543,0.167,0.181,6,0,0,33,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2014-15,USC,UEFA Super Cup,UEFA club competition,Continental,1,1,0,90,2,0,0,0,0,0,0,0,1,1,1,,0,2.0,2.0,0.0,0.0,1,0,0,6,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2014-15,SCE,Supercopa de España,Domestic super cup,Spain,2,1,1,90,0,0,0,0,0,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,0,1,1,4,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2014-15,LAL,La Liga,Domestic league,Spain,35,35,0,3099,48,16,18,10,2,8,2,12,6,29,8,,1,1.371,1.394,0.457,0.465,28,2,5,225,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2014-15,UCL,UEFA Champions League,UEFA club competition,Continental,12,12,0,1065,10,3,4,3,1,0,0,4,1,5,4,,0,0.833,0.845,0.25,0.254,8,2,2,71,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2014-15,CWC,FIFA Club World Cup,FIFA club competition,Global,2,2,0,180,0,2,2,0,0,0,0,0,0,0,0,,0,0.0,0.0,1.0,1.0,2,0,0,,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2014-15,CDR,Copa del Rey,Domestic cup,Spain,2,1,1,117,1,0,0,0,0,0,0,1,0,0,0,,0,0.5,0.769,0.0,0.0,0,1,1,10,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2015-16,LAL,La Liga,Domestic league,Spain,36,36,0,3184,35,11,11,6,3,3,1,6,9,20,5,,0,0.972,0.989,0.306,0.311,26,6,4,227,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2015-16,UCL,UEFA Champions League,UEFA club competition,Continental,12,12,0,1109,16,4,4,2,0,3,2,3,2,11,3,,0,1.333,1.298,0.333,0.325,9,2,1,95,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2016-17,LAL,La Liga,Domestic league,Spain,29,29,0,2545,25,6,6,6,2,2,1,6,3,16,3,,0,0.862,0.884,0.207,0.212,20,6,3,162,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2016-17,UCL,UEFA Champions League,UEFA club competition,Continental,13,13,0,1200,12,5,6,0,0,2,1,2,1,9,3,,0,0.923,0.9,0.385,0.375,9,3,1,73,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2016-17,CWC,FIFA Club World Cup,FIFA club competition,Global,2,2,0,201,4,0,0,1,0,1,0,0,2,2,1,,0,2.0,1.791,0.0,0.0,2,0,0,,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2016-17,CDR,Copa del Rey,Domestic cup,Spain,2,2,0,180,1,0,0,0,0,0,1,0,0,1,0,,0,0.5,0.5,0.0,0.0,0,1,1,11,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2017-18,USC,UEFA Super Cup,UEFA club competition,Continental,1,0,1,7,0,0,0,0,0,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,1,0,0,1,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2017-18,SCE,Supercopa de España,Domestic super cup,Spain,1,0,1,24,1,0,0,0,0,0,0,0,0,1,1,,1,1.0,3.75,0.0,0.0,1,0,0,3,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2017-18,UCL,UEFA Champions League,UEFA club competition,Continental,13,13,0,1170,15,3,3,4,0,0,0,2,3,10,4,,0,1.154,1.154,0.231,0.231,9,2,2,82,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2017-18,LAL,La Liga,Domestic league,Spain,27,27,0,2289,26,5,5,3,1,2,0,5,7,14,4,,0,0.963,1.022,0.185,0.197,15,8,4,178,S01+S17
+Cristiano Ronaldo,CR7,RMA,Real Madrid,2017-18,CWC,FIFA Club World Cup,FIFA club competition,Global,2,2,0,180,2,0,0,0,0,0,1,0,0,2,1,,0,1.0,1.0,0.0,0.0,2,0,0,,S01+S17
+Cristiano Ronaldo,CR7,JUV,Juventus,2018-19,SEA,Serie A,Domestic league,Italy,31,30,1,2689,21,8,11,5,1,0,0,4,5,12,6,,0,0.677,0.703,0.258,0.268,24,6,1,177,S01+S17
+Cristiano Ronaldo,CR7,JUV,Juventus,2018-19,UCL,UEFA Champions League,UEFA club competition,Continental,9,9,0,749,6,2,2,1,0,1,0,4,0,2,1,,1,0.667,0.721,0.222,0.24,4,1,4,48,S01+S17
+Cristiano Ronaldo,CR7,JUV,Juventus,2018-19,COI,Coppa Italia,Domestic cup,Italy,2,1,1,118,0,0,0,0,0,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,1,0,1,4,S01+S17
+Cristiano Ronaldo,CR7,JUV,Juventus,2018-19,SCI,Supercoppa Italiana,Domestic super cup,Italy,1,1,0,90,1,0,0,0,0,0,0,1,0,0,1,,0,1.0,1.0,0.0,0.0,1,0,0,5,S01+S17
+Cristiano Ronaldo,CR7,JUV,Juventus,2019-20,SEA,Serie A,Domestic league,Italy,33,33,0,2918,31,5,7,12,1,1,1,2,5,24,9,,0,0.939,0.956,0.152,0.154,23,4,6,208,S01+S17
+Cristiano Ronaldo,CR7,JUV,Juventus,2019-20,UCL,UEFA Champions League,UEFA club competition,Continental,8,8,0,712,4,0,1,1,0,0,0,0,1,3,1,,0,0.5,0.506,0.0,0.0,6,1,1,40,S01+S17
+Cristiano Ronaldo,CR7,JUV,Juventus,2019-20,SCI,Supercoppa Italiana,Domestic super cup,Italy,1,1,0,90,0,0,1,0,0,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,0,0,1,5,S01+S17
+Cristiano Ronaldo,CR7,JUV,Juventus,2019-20,COI,Coppa Italia,Domestic cup,Italy,4,4,0,360,2,0,0,1,1,0,0,0,1,1,0,,0,0.5,0.5,0.0,0.0,1,3,0,20,S01+S17
+Cristiano Ronaldo,CR7,JUV,Juventus,2020-21,SEA,Serie A,Domestic league,Italy,33,31,2,2803,29,3,4,6,2,1,0,7,6,16,6,,0,0.879,0.931,0.091,0.096,22,6,5,168,S01+S17
+Cristiano Ronaldo,CR7,JUV,Juventus,2020-21,UCL,UEFA Champions League,UEFA club competition,Continental,6,6,0,570,4,2,2,2,0,0,0,0,1,3,1,,0,0.667,0.632,0.333,0.316,5,0,1,23,S01+S17
+Cristiano Ronaldo,CR7,JUV,Juventus,2020-21,COI,Coppa Italia,Domestic cup,Italy,4,3,1,288,2,0,0,1,0,0,0,0,1,1,1,,0,0.5,0.625,0.0,0.0,3,1,0,17,S01+S17
+Cristiano Ronaldo,CR7,JUV,Juventus,2020-21,SCI,Supercoppa Italiana,Domestic super cup,Italy,1,1,0,90,1,0,0,0,0,0,0,0,1,0,1,,0,1.0,1.0,0.0,0.0,1,0,0,6,S01+S17
+Cristiano Ronaldo,CR7,JUV,Juventus,2021-22,SEA,Serie A,Domestic league,Italy,1,0,1,30,0,0,0,0,0,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,0,1,0,1,S01+S17
+Cristiano Ronaldo,CR7,MU2,Manchester United (2021-22),2021-22,EPL,Premier League,Domestic league,England,30,27,3,2460,18,3,3,3,0,2,1,2,2,14,7,,0,0.6,0.659,0.1,0.11,14,7,9,110,S01+S17
+Cristiano Ronaldo,CR7,MU2,Manchester United (2021-22),2021-22,UCL,UEFA Champions League,UEFA club competition,Continental,7,7,0,612,6,0,0,0,0,0,0,1,0,5,3,,0,0.857,0.882,0.0,0.0,3,2,2,22,S01+S17
+Cristiano Ronaldo,CR7,MU2,Manchester United (2021-22),2021-22,FAC,FA Cup,Domestic cup,England,1,1,0,120,0,0,0,0,1,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,0,1,0,10,S01+S17
+Cristiano Ronaldo,CR7,MU2,Manchester United (2021-22),2022-23,EPL,Premier League,Domestic league,England,10,4,6,520,1,0,0,0,0,0,0,0,1,0,1,,0,0.1,0.173,0.0,0.0,6,1,3,25,S01+S17
+Cristiano Ronaldo,CR7,MU2,Manchester United (2021-22),2022-23,UEL,UEFA Europa League,UEFA club competition,Continental,6,6,0,531,2,2,2,1,0,0,0,0,1,1,0,,0,0.333,0.339,0.333,0.339,5,0,1,31,S01+S17
+Cristiano Ronaldo,CR7,NAS,Al Nassr,2022-23,SPL,Saudi Pro League,Domestic league,Saudi Arabia,16,16,0,1434,14,2,2,5,0,2,1,1,3,10,6,,0,0.875,0.879,0.125,0.126,10,4,2,80,S01+S17
+Cristiano Ronaldo,CR7,NAS,Al Nassr,2022-23,SSC,Saudi Super Cup,Domestic super cup,Saudi Arabia,1,1,0,90,0,0,0,0,0,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,0,0,1,2,S01+S17
+Cristiano Ronaldo,CR7,NAS,Al Nassr,2022-23,SKC,King's Cup (Saudi Arabia),Domestic cup,Saudi Arabia,2,2,0,177,0,0,0,0,0,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,1,0,1,11,S01+S17
+Cristiano Ronaldo,CR7,NAS,Al Nassr,2023-24,ARC,Arab Club Champions Cup,Regional club competition,Regional,6,5,1,503,6,0,1,1,0,0,0,3,1,2,3,,0,1.0,1.074,0.0,0.0,4,2,0,27,S01+S17
+Cristiano Ronaldo,CR7,NAS,Al Nassr,2023-24,SPL,Saudi Pro League,Domestic league,Saudi Arabia,31,30,1,2648,35,11,14,8,0,4,3,5,7,23,8,,0,1.129,1.19,0.355,0.374,25,3,3,181,S01+S17
+Cristiano Ronaldo,CR7,NAS,Al Nassr,2023-24,ACL,AFC Champions League,AFC club competition,Continental,9,9,0,828,6,2,2,1,0,0,0,0,3,3,1,,0,0.667,0.652,0.222,0.217,7,1,1,,S01+S17
+Cristiano Ronaldo,CR7,NAS,Al Nassr,2023-24,SKC,King's Cup (Saudi Arabia),Domestic cup,Saudi Arabia,4,4,0,412,3,0,0,0,0,0,0,0,2,1,0,,0,0.75,0.655,0.0,0.0,3,1,0,23,S01+S17
+Cristiano Ronaldo,CR7,NAS,Al Nassr,2023-24,SSC,Saudi Super Cup,Domestic super cup,Saudi Arabia,1,1,0,86,0,0,0,0,0,0,0,0,0,0,0,,1,0.0,0.0,0.0,0.0,0,0,1,6,S01+S17
+Cristiano Ronaldo,CR7,NAS,Al Nassr,2024-25,SSC,Saudi Super Cup,Domestic super cup,Saudi Arabia,2,2,0,171,2,1,1,0,0,0,0,0,0,2,0,,0,1.0,1.053,0.5,0.526,1,0,1,7,S01+S17
+Cristiano Ronaldo,CR7,NAS,Al Nassr,2024-25,SPL,Saudi Pro League,Domestic league,Saudi Arabia,30,30,0,2625,25,3,4,8,1,0,1,3,3,19,7,,0,0.833,0.857,0.1,0.103,18,5,7,149,S01+S17
+Cristiano Ronaldo,CR7,NAS,Al Nassr,2024-25,ACL,AFC Champions League Elite,AFC club competition,Continental,8,8,0,677,8,0,0,2,0,0,0,2,2,4,0,,0,1.0,1.064,0.0,0.0,7,0,1,50,S01+S17
+Cristiano Ronaldo,CR7,NAS,Al Nassr,2024-25,SKC,King's Cup (Saudi Arabia),Domestic cup,Saudi Arabia,1,1,0,90,0,0,0,0,1,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,0,0,1,4,S01+S17
+Cristiano Ronaldo,CR7,NAS,Al Nassr,2025-26,SSC,Saudi Super Cup,Domestic super cup,Saudi Arabia,2,2,0,179,1,1,1,1,0,0,0,0,0,1,0,,0,0.5,0.503,0.5,0.503,1,1,0,12,S01+S17
+Cristiano Ronaldo,CR7,NAS,Al Nassr,2025-26,SPL,Saudi Pro League,Domestic league,Saudi Arabia,30,30,0,2610,28,2,4,6,2,0,1,2,5,20,10,,0,0.933,0.966,0.067,0.069,24,2,4,161,S01+S17
+Cristiano Ronaldo,CR7,NAS,Al Nassr,2025-26,SKC,King's Cup (Saudi Arabia),Domestic cup,Saudi Arabia,1,1,0,90,0,0,0,0,0,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,0,0,1,5,S01+S17
+Cristiano Ronaldo,CR7,NAS,Al Nassr,2025-26,AC2,AFC Champions League Two,AFC club competition,Continental,4,4,0,280,1,1,1,0,0,0,0,0,0,1,1,,0,0.25,0.321,0.25,0.321,3,0,1,16,S01+S17
+Cristiano Ronaldo,CR7,NAS,Al Nassr,2026-27,SPL,Saudi Pro League,Domestic league,Saudi Arabia,10,9,1,783,8,0,0,0,1,1,0,3,2,3,2,,0,0.8,0.92,0.0,0.0,8,1,1,37,S01+S17
+Cristiano Ronaldo,CR7,NAS,Al Nassr,2026-27,ACL,AFC Champions League Elite,AFC club competition,Continental,2,2,0,180,1,0,0,0,0,0,0,0,0,1,0,,0,0.5,0.5,0.0,0.0,1,0,1,8,S01+S17

@@ -1,0 +1,38 @@
+﻿trophy_id,trophy_name,competition,trophy_category,competition_level,team_id,club_or_country,team,season_year,ronaldo_apps_in_competition,ronaldo_goals_in_competition,ronaldo_participation_status,counts_as_played,listed_by_wikipedia,listed_by_tracker,official_source,verification_status
+T01,Supertaça Cândido de Oliveira,Supertaça Cândido de Oliveira,Club trophy,Domestic super cup,SPO,Sporting CP,Sporting CP,2002-03,0,0,No recorded appearance,0,1,1,S05+S03,Disputed: see data_quality_report
+T02,Premier League,Premier League,Club trophy,League,MU1,Manchester United (2003-09),Manchester United,2006-07,34,17,Played in league (34 apps),1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T03,Premier League,Premier League,Club trophy,League,MU1,Manchester United (2003-09),Manchester United,2007-08,34,31,Played in league (34 apps),1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T04,Premier League,Premier League,Club trophy,League,MU1,Manchester United (2003-09),Manchester United,2008-09,33,18,Played in league (33 apps),1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T05,FA Cup,FA Cup,Club trophy,Domestic cup,MU1,Manchester United (2003-09),Manchester United,2003-04,5,2,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T06,Football League Cup,Football League Cup,Club trophy,Domestic cup,MU1,Manchester United (2003-09),Manchester United,2005-06,4,2,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T07,Football League Cup,Football League Cup,Club trophy,Domestic cup,MU1,Manchester United (2003-09),Manchester United,2008-09,4,2,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T08,FA Community Shield,FA Community Shield,Club trophy,Domestic super cup,MU1,Manchester United (2003-09),Manchester United,2007-08,1,0,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T09,FA Community Shield,FA Community Shield,Club trophy,Domestic super cup,MU1,Manchester United (2003-09),Manchester United,2008-09,0,0,No recorded appearance,0,0,1,S03,Disputed: see data_quality_report
+T10,UEFA Champions League,UEFA Champions League,Club trophy,Continental,MU1,Manchester United (2003-09),Manchester United,2007-08,11,8,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T11,FIFA Club World Cup,FIFA Club World Cup,Club trophy,Intercontinental,MU1,Manchester United (2003-09),Manchester United,2008-09,2,1,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T12,La Liga,La Liga,Club trophy,League,RMA,Real Madrid,Real Madrid,2011-12,38,46,Played in league (38 apps),1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T13,La Liga,La Liga,Club trophy,League,RMA,Real Madrid,Real Madrid,2016-17,29,25,Played in league (29 apps),1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T14,Copa del Rey,Copa del Rey,Club trophy,Domestic cup,RMA,Real Madrid,Real Madrid,2010-11,8,7,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T15,Copa del Rey,Copa del Rey,Club trophy,Domestic cup,RMA,Real Madrid,Real Madrid,2013-14,6,3,"Played in competition, not final (6 apps)",1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T16,Supercopa de España,Supercopa de España,Club trophy,Domestic super cup,RMA,Real Madrid,Real Madrid,2012-13,2,2,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T17,Supercopa de España,Supercopa de España,Club trophy,Domestic super cup,RMA,Real Madrid,Real Madrid,2017-18,1,1,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T18,UEFA Champions League,UEFA Champions League,Club trophy,Continental,RMA,Real Madrid,Real Madrid,2013-14,11,17,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T19,UEFA Champions League,UEFA Champions League,Club trophy,Continental,RMA,Real Madrid,Real Madrid,2015-16,12,16,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T20,UEFA Champions League,UEFA Champions League,Club trophy,Continental,RMA,Real Madrid,Real Madrid,2016-17,13,12,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T21,UEFA Champions League,UEFA Champions League,Club trophy,Continental,RMA,Real Madrid,Real Madrid,2017-18,13,15,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T22,UEFA Super Cup,UEFA Super Cup,Club trophy,Continental,RMA,Real Madrid,Real Madrid,2014-15,1,2,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T23,UEFA Super Cup,UEFA Super Cup,Club trophy,Continental,RMA,Real Madrid,Real Madrid,2016-17,0,0,No recorded appearance,0,0,1,S03,Disputed: see data_quality_report
+T24,UEFA Super Cup,UEFA Super Cup,Club trophy,Continental,RMA,Real Madrid,Real Madrid,2017-18,1,0,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T25,FIFA Club World Cup,FIFA Club World Cup,Club trophy,Intercontinental,RMA,Real Madrid,Real Madrid,2014-15,2,0,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T26,FIFA Club World Cup,FIFA Club World Cup,Club trophy,Intercontinental,RMA,Real Madrid,Real Madrid,2016-17,2,4,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T27,FIFA Club World Cup,FIFA Club World Cup,Club trophy,Intercontinental,RMA,Real Madrid,Real Madrid,2017-18,2,2,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T28,Serie A,Serie A,Club trophy,League,JUV,Juventus,Juventus,2018-19,31,21,Played in league (31 apps),1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T29,Serie A,Serie A,Club trophy,League,JUV,Juventus,Juventus,2019-20,33,31,Played in league (33 apps),1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T30,Coppa Italia,Coppa Italia,Club trophy,Domestic cup,JUV,Juventus,Juventus,2020-21,4,2,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T31,Supercoppa Italiana,Supercoppa Italiana,Club trophy,Domestic super cup,JUV,Juventus,Juventus,2018-19,1,1,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T32,Supercoppa Italiana,Supercoppa Italiana,Club trophy,Domestic super cup,JUV,Juventus,Juventus,2020-21,1,1,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T33,Saudi Pro League,Saudi Pro League,Club trophy,League,NAS,Al Nassr,Al Nassr,2025-26,30,28,Played in league (30 apps),1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T34,Arab Club Champions Cup,Arab Club Champions Cup,Club trophy,Regional,NAS,Al Nassr,Al Nassr,2023-24,6,6,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T35,UEFA European Championship,UEFA European Championship,International trophy,International tournament,POR,Portugal,Portugal,2015-16,7,3,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T36,UEFA Nations League,UEFA Nations League,International trophy,International tournament,POR,Portugal,Portugal,2018-19,2,3,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log
+T37,UEFA Nations League,UEFA Nations League,International trophy,International tournament,POR,Portugal,Portugal,2024-25,9,8,Played in final,1,1,1,S05+S03,Cross-checked (2 sources) and match log

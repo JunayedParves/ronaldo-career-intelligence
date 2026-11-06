@@ -1,0 +1,39 @@
+﻿metric_group,metric,value,notes,source_id,as_of
+Club,Total club appearances,1109,Official first-team. Excludes 2 Sporting CP B matches.,S01,2026-10-29
+Club,Total club goals,839,,S01+S06,2026-10-29
+Club,Total club assists (Opta),224,Broader definitions run higher,S01,2026-10-29
+Club,Total club minutes,91192,,S01,2026-10-29
+International,Portugal senior caps,234,Includes 56 FIFA-recognised friendlies,S01,2026-10-29
+International,Portugal senior goals,146,Includes 22 in friendlies,S01+S07+S16,2026-10-29
+International,Portugal assists (Opta),37,S10 reports 45 on a broader definition,S01,2026-10-29
+International,Competitive caps,178,,S01,2026-10-29
+International,Competitive goals,124,,S01,2026-10-29
+Career,Total appearances,1343,,S01,2026-10-29
+Career,Total goals,985,,S01+S06+S10+S11,2026-10-29
+Career,Total assists (Opta),261,,S01,2026-10-29
+Career,Total minutes,109812,,S01,2026-10-29
+Career,Competitive appearances (excl. friendlies),1287,,S01,2026-10-29
+Career,Competitive goals (excl. friendlies),963,,S01,2026-10-29
+Career,Hat-tricks,67,,S01,2026-10-29
+Career,Penalties scored,184,Shoot-outs excluded,S01,2026-10-29
+Career,Penalties missed,37,,S01,2026-10-29
+Career,Free-kick goals,65,,S01,2026-10-29
+Career,Headed goals,160,,S01,2026-10-29
+Career,Red cards (senior),13,"12 club, 1 Portugal",S17+S18,2026-10-29
+Career,Yellow cards,162,Press figure at 14 November 2025; scope not stated. Not derivable from match data.,S18,2026-10-29
+Honours,Trophies won with at least one appearance,34,See trophies.csv,S01+S03+S05,2026-10-29
+Honours,Trophies listed by Wikipedia,35,,S05,2026-10-29
+Honours,Trophies listed by tracker,37,Includes squad-only titles,S03,2026-10-29
+Honours,Ballon d'Or wins,5,"2008, 2013, 2014, 2016, 2017",S05+S03,2026-10-29
+Honours,European Golden Shoe wins,4,"2007-08, 2010-11, 2013-14, 2014-15",S05+S03,2026-10-29
+UEFA Champions League,Titles,5,"2007-08, 2013-14, 2015-16, 2016-17, 2017-18",S05+S03,2026-10-29
+UEFA Champions League,Appearances,183,,S01,2026-10-29
+UEFA Champions League,Goals,140,UEFA's official 141 adds one qualifying goal,S01+S12,2026-10-29
+FIFA World Cup,Tournaments,6,2006 to 2026,S01,2026-10-29
+FIFA World Cup,Appearances,27,,S01,2026-10-29
+FIFA World Cup,Goals,11,,S01,2026-10-29
+FIFA World Cup,Assists (Opta),2,,S01,2026-10-29
+UEFA Euro,Tournaments,6,2004 to 2024; Euro 2020 played in 2021,S01,2026-10-29
+UEFA Euro,Appearances,30,,S01,2026-10-29
+UEFA Euro,Goals,14,,S01,2026-10-29
+UEFA Euro,Assists (Opta),7,,S01,2026-10-29

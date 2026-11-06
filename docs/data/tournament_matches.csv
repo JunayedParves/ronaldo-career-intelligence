@@ -1,0 +1,58 @@
+﻿match_id,match_date,tournament_id,competition_id,stage,opponent,venue_type,team_score,opponent_score,result,shootout_result,started,minutes,goals,assists_opta,pens_scored,pens_missed,yellow_cards,red_cards,captain,shots,shots_on_target,match_rating,man_of_the_match,opponent_confederation
+M0079,2004-06-12,Euro 2004,EUR,Group stage,Greece,Home,1,2,L,,0,45,1,0,0,0,0,0,0,4,1,6.8,0,UEFA
+M0080,2004-06-16,Euro 2004,EUR,Group stage,Russia,Home,2,0,W,,0,12,0,1,0,0,0,0,0,0,0,7.3,0,UEFA
+M0081,2004-06-20,Euro 2004,EUR,Group stage,Spain,Home,1,0,W,,1,85,0,0,0,0,0,0,0,3,0,6.7,0,UEFA
+M0082,2004-06-24,Euro 2004,EUR,Quarter-final,England,Home,2,2,D,Won,1,120,0,0,0,0,0,0,0,6,0,7.1,0,UEFA
+M0083,2004-06-30,Euro 2004,EUR,Semi-final,Netherlands,Home,2,1,W,,1,67,1,1,0,0,1,0,0,2,2,7.5,0,UEFA
+M0084,2004-07-04,Euro 2004,EUR,Final,Greece,Home,0,1,L,,1,90,0,0,0,0,0,0,0,5,1,6.9,0,UEFA
+M0201,2006-06-11,2006 World Cup,WC,Group stage,Angola,Neutral,1,0,W,,1,60,0,0,0,0,1,0,0,4,1,6.5,0,CAF
+M0202,2006-06-17,2006 World Cup,WC,Group stage,Iran,Neutral,2,0,W,,1,90,1,0,1,0,0,0,0,7,3,7.8,0,AFC
+M0203,2006-06-25,2006 World Cup,WC,Round of 16,Netherlands,Neutral,1,0,W,,1,34,0,0,0,0,0,0,0,0,0,6.6,0,UEFA
+M0204,2006-07-01,2006 World Cup,WC,Quarter-final,England,Neutral,0,0,D,Won,1,120,0,0,0,0,0,0,0,6,2,6.8,0,UEFA
+M0205,2006-07-05,2006 World Cup,WC,Semi-final,France,Neutral,0,1,L,,1,90,0,0,0,0,0,0,0,4,1,7.2,0,UEFA
+M0206,2006-07-08,2006 World Cup,WC,Third-place play-off,Germany,Away,1,3,L,,1,90,0,0,0,0,0,0,0,5,2,6.6,0,UEFA
+M0326,2008-06-07,Euro 2008,EUR,Group stage,Turkey,Neutral,2,0,W,,1,90,0,0,0,0,0,0,0,6,2,7.5,0,UEFA
+M0327,2008-06-11,Euro 2008,EUR,Group stage,Czech Republic,Neutral,3,1,W,,1,90,1,1,0,0,0,0,0,7,5,7.5,0,UEFA
+M0328,2008-06-19,Euro 2008,EUR,Quarter-final,Germany,Neutral,2,3,L,,1,90,0,0,0,0,0,0,0,7,1,6.7,0,UEFA
+M0431,2010-06-15,2010 World Cup,WC,Group stage,Ivory Coast,Neutral,0,0,D,,1,90,0,0,0,0,1,0,1,3,0,7.0,0,CAF
+M0432,2010-06-21,2010 World Cup,WC,Group stage,North Korea,Neutral,7,0,W,,1,90,1,1,0,0,0,0,1,7,4,9.0,0,AFC
+M0433,2010-06-25,2010 World Cup,WC,Group stage,Brazil,Neutral,0,0,D,,1,90,0,0,0,0,0,0,1,8,1,6.7,0,CONMEBOL
+M0434,2010-06-29,2010 World Cup,WC,Round of 16,Spain,Neutral,0,1,L,,1,90,0,0,0,0,0,0,1,4,2,6.8,0,UEFA
+M0558,2012-06-09,Euro 2012,EUR,Group stage,Germany,Neutral,0,1,L,,1,90,0,0,0,0,0,0,1,4,2,6.87,0,UEFA
+M0559,2012-06-13,Euro 2012,EUR,Group stage,Denmark,Neutral,3,2,W,,1,90,0,0,0,0,1,0,1,6,2,6.41,0,UEFA
+M0560,2012-06-17,Euro 2012,EUR,Group stage,Netherlands,Neutral,2,1,W,,1,90,2,0,0,0,0,0,1,12,4,9.35,1,UEFA
+M0561,2012-06-21,Euro 2012,EUR,Quarter-final,Czech Republic,Neutral,1,0,W,,1,90,1,0,0,0,0,0,1,8,1,8.23,0,UEFA
+M0562,2012-06-27,Euro 2012,EUR,Semi-final,Spain,Neutral,0,0,D,,1,120,0,0,0,0,0,0,1,7,0,6.67,0,UEFA
+M0681,2014-06-16,2014 World Cup,WC,Group stage,Germany,Neutral,0,4,L,,1,90,0,0,0,0,0,0,1,7,2,6.17,0,UEFA
+M0682,2014-06-23,2014 World Cup,WC,Group stage,USA,Neutral,2,2,D,,1,90,0,1,0,0,0,0,1,7,1,7.9,0,CONCACAF
+M0683,2014-06-26,2014 World Cup,WC,Group stage,Ghana,Neutral,2,1,W,,1,90,1,0,0,0,0,0,1,8,6,7.57,0,CAF
+M0798,2016-06-14,Euro 2016,EUR,Group stage,Iceland,Neutral,1,1,D,,1,90,0,0,0,0,0,0,1,10,1,6.48,0,UEFA
+M0799,2016-06-18,Euro 2016,EUR,Group stage,Austria,Neutral,0,0,D,,1,90,0,0,0,1,0,0,1,10,3,6.87,0,UEFA
+M0800,2016-06-22,Euro 2016,EUR,Group stage,Hungary,Neutral,3,3,D,,1,90,2,1,0,0,0,0,1,10,3,9.14,1,UEFA
+M0801,2016-06-25,Euro 2016,EUR,Round of 16,Croatia,Neutral,1,0,W,,1,120,0,0,0,0,0,0,1,1,1,6.6,0,UEFA
+M0802,2016-06-30,Euro 2016,EUR,Quarter-final,Poland,Neutral,1,1,D,Won,1,120,0,0,0,0,0,0,1,5,1,7.34,0,UEFA
+M0803,2016-07-06,Euro 2016,EUR,Semi-final,Wales,Neutral,2,0,W,,1,90,1,1,0,0,1,0,1,9,2,8.18,1,UEFA
+M0804,2016-07-10,Euro 2016,EUR,Final,France,Away,1,0,W,,1,25,0,0,0,0,0,0,1,0,0,6.1,0,UEFA
+M0912,2018-06-15,2018 World Cup,WC,Group stage,Spain,Neutral,3,3,D,,1,90,3,0,1,0,0,0,1,4,3,9.83,1,UEFA
+M0913,2018-06-20,2018 World Cup,WC,Group stage,Morocco,Neutral,1,0,W,,1,90,1,0,0,0,0,0,1,6,1,7.46,0,CAF
+M0914,2018-06-25,2018 World Cup,WC,Group stage,Iran,Neutral,1,1,D,,1,90,0,0,0,1,1,0,1,5,3,6.96,0,AFC
+M0915,2018-06-30,2018 World Cup,WC,Round of 16,Uruguay,Neutral,1,2,L,,1,90,0,0,0,0,1,0,1,6,1,6.66,0,CONMEBOL
+M1070,2021-06-15,Euro 2020,EUR,Group stage,Hungary,Away,3,0,W,,1,90,2,0,1,0,0,0,1,4,2,8.14,1,UEFA
+M1071,2021-06-19,Euro 2020,EUR,Group stage,Germany,Away,2,4,L,,1,90,1,1,0,0,0,0,1,2,1,8.53,1,UEFA
+M1072,2021-06-23,Euro 2020,EUR,Group stage,France,Neutral,2,2,D,,1,90,2,0,2,0,0,0,1,5,3,7.52,0,UEFA
+M1073,2021-06-27,Euro 2020,EUR,Round of 16,Belgium,Neutral,0,1,L,,1,90,0,0,0,0,0,0,1,4,1,7.51,0,UEFA
+M1141,2022-11-24,2022 World Cup,WC,Group stage,Ghana,Neutral,3,2,W,,1,87,1,0,1,0,0,0,1,4,2,7.36,0,CAF
+M1142,2022-11-28,2022 World Cup,WC,Group stage,Uruguay,Neutral,2,0,W,,1,81,0,0,0,0,0,0,1,3,0,6.65,0,CONMEBOL
+M1143,2022-12-02,2022 World Cup,WC,Group stage,South Korea,Neutral,1,2,L,,1,65,0,0,0,0,0,0,1,2,0,5.11,0,AFC
+M1144,2022-12-06,2022 World Cup,WC,Round of 16,Switzerland,Neutral,6,1,W,,0,16,0,0,0,0,0,0,0,1,0,6.07,0,UEFA
+M1145,2022-12-10,2022 World Cup,WC,Quarter-final,Morocco,Neutral,0,1,L,,0,39,0,0,0,0,0,0,0,1,1,6.24,0,CAF
+M1227,2024-06-18,Euro 2024,EUR,Group stage,Czech Republic,Neutral,2,1,W,,1,90,0,0,0,0,0,0,1,5,3,6.97,0,UEFA
+M1228,2024-06-22,Euro 2024,EUR,Group stage,Turkey,Neutral,3,0,W,,1,90,0,1,0,0,0,0,1,4,1,8.01,0,UEFA
+M1229,2024-06-26,Euro 2024,EUR,Group stage,Georgia,Neutral,0,2,L,,1,66,0,0,0,0,1,0,1,3,1,6.2,0,UEFA
+M1230,2024-07-01,Euro 2024,EUR,Round of 16,Slovenia,Neutral,0,0,D,Won,1,120,0,0,0,1,0,0,1,8,4,6.73,0,UEFA
+M1231,2024-07-05,Euro 2024,EUR,Quarter-final,France,Neutral,0,0,D,Won,1,120,0,0,0,0,0,0,1,3,1,6.55,0,UEFA
+M1326,2026-06-17,2026 World Cup,WC,Group stage,DR Congo,Neutral,1,1,D,,1,90,0,0,0,0,0,0,1,3,0,6.33,0,CAF
+M1327,2026-06-23,2026 World Cup,WC,Group stage,Uzbekistan,Neutral,5,0,W,,1,90,2,0,0,0,0,0,1,7,5,8.99,1,AFC
+M1328,2026-06-27,2026 World Cup,WC,Group stage,Colombia,Neutral,0,0,D,,1,90,0,0,0,0,0,0,1,3,1,6.16,0,CONMEBOL
+M1329,2026-07-02,2026 World Cup,WC,Round of 32,Croatia,Neutral,2,1,W,,1,81,1,0,1,0,0,0,1,2,1,6.74,0,UEFA
+M1330,2026-07-06,2026 World Cup,WC,Round of 16,Spain,Neutral,0,1,L,,1,90,0,0,0,0,0,0,1,3,2,6.47,0,UEFA

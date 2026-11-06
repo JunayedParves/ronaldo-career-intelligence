@@ -1,0 +1,32 @@
+﻿competition_id,competition,competition_type,competition_group,organiser,scope,is_competitive,historical_note
+PRI,Primeira Liga,Domestic league,Club,Liga Portugal,Domestic,1,
+EPL,Premier League,Domestic league,Club,Premier League,Domestic,1,
+LAL,La Liga,Domestic league,Club,LaLiga,Domestic,1,
+SEA,Serie A,Domestic league,Club,Lega Serie A,Domestic,1,
+SPL,Saudi Pro League,Domestic league,Club,Saudi Pro League,Domestic,1,
+TDP,Taça de Portugal,Domestic cup,Club,FPF,Domestic,1,
+FAC,FA Cup,Domestic cup,Club,The FA,Domestic,1,
+CDR,Copa del Rey,Domestic cup,Club,RFEF,Domestic,1,
+COI,Coppa Italia,Domestic cup,Club,Lega Serie A,Domestic,1,
+SKC,King's Cup (Saudi Arabia),Domestic cup,Club,SAFF,Domestic,1,
+ELC,Football League Cup,Domestic league cup,Club,EFL,Domestic,1,
+FCS,FA Community Shield,Domestic super cup,Club,The FA,Domestic,1,
+SCE,Supercopa de España,Domestic super cup,Club,RFEF,Domestic,1,
+SCI,Supercoppa Italiana,Domestic super cup,Club,Lega Serie A,Domestic,1,
+SSC,Saudi Super Cup,Domestic super cup,Club,SAFF,Domestic,1,
+UCL,UEFA Champions League,UEFA club competition,Club,UEFA,Continental,1,
+UCQ,UEFA Champions League qualifying,UEFA club competition,Club,UEFA,Continental,1,UEFA includes these matches in its all-time Champions League totals; many databases do not.
+UEC,UEFA Cup,UEFA club competition,Club,UEFA,Continental,1,Renamed UEFA Europa League from 2009-10; he played it only in 2002-03.
+UEL,UEFA Europa League,UEFA club competition,Club,UEFA,Continental,1,Successor to the UEFA Cup.
+USC,UEFA Super Cup,UEFA club competition,Club,UEFA,Continental,1,
+ACL,AFC Champions League / Elite,AFC club competition,Club,AFC,Continental,1,AFC Champions League until 2023-24; AFC Champions League Elite from 2024-25.
+AC2,AFC Champions League Two,AFC club competition,Club,AFC,Continental,1,"Second-tier AFC club competition, launched 2024-25."
+ARC,Arab Club Champions Cup,Regional club competition,Club,UAFA,Regional,1,Run by UAFA; not an AFC competition.
+CWC,FIFA Club World Cup,FIFA club competition,Club,FIFA,Global,1,
+WC,FIFA World Cup,International tournament,International,FIFA,Global,1,
+WCQ,FIFA World Cup qualifiers,International qualifier,International,FIFA / UEFA,Global,1,
+EUR,UEFA European Championship,International tournament,International,UEFA,Continental,1,
+EUQ,UEFA European Championship qualifiers,International qualifier,International,UEFA,Continental,1,
+UNL,UEFA Nations League,International league,International,UEFA,Continental,1,First edition 2018-19.
+CFC,FIFA Confederations Cup,International tournament,International,FIFA,Global,1,Discontinued; last edition 2017.
+FRI,International friendly,International friendly,International,National associations,Friendly,0,Senior caps recognised by FIFA; held apart from competitive totals with is_competitive.

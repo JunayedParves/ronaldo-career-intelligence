@@ -1,0 +1,7 @@
+﻿team_id,club,appearances,starts,substitute_appearances,minutes_played,goals,assists,assists_all_definitions,pens_scored,pens_missed,hat_tricks,free_kick_goals,headed_goals,left_foot_goals,right_foot_goals,winning_goals,yellow_cards,red_cards,goals_per_appearance,goals_per_90,assists_per_appearance,assists_per_90,wins,draws,losses,shots,trophies_with_appearance,trophies_no_appearance,individual_awards_won,source_id
+SPO,Sporting CP,31,14,17,1392,5,4,6,0,0,0,0,1,2,2,1,,0,0.161,0.323,0.129,0.259,13,8,10,,0,1,1,S01+S17
+MU1,Manchester United (2003-09),292,244,48,22363,118,52,74,17,3,1,13,21,19,77,37,,4,0.404,0.475,0.178,0.209,186,59,47,,9,1,62,S01+S17
+RMA,Real Madrid,438,424,14,37824,450,120,135,79,13,44,33,70,81,298,88,,6,1.027,1.071,0.274,0.286,316,70,52,,15,1,192,S01+S17
+JUV,Juventus,134,128,6,11507,101,20,28,29,5,3,1,18,21,62,27,,1,0.754,0.79,0.149,0.156,91,23,20,722,5,0,67,S01+S17
+MU2,Manchester United (2021-22),54,45,9,4243,27,5,5,4,1,2,1,3,4,20,11,,0,0.5,0.573,0.093,0.106,28,11,15,198,0,0,12,S01+S17
+NAS,Al Nassr,160,157,3,13863,138,23,30,32,5,7,6,19,28,90,38,,1,0.863,0.896,0.144,0.149,113,20,27,,2,0,21,S01+S17

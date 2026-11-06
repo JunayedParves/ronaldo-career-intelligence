@@ -1,0 +1,986 @@
+﻿goal_no,match_id,player_id,match_date,season_id,calendar_year,team_id,competition_id,opponent,minute,minute_num,minute_band,body_part,situation,assisted_by,opponent_goalkeeper,stadium,city,country,game_state,is_winning_goal,wikipedia_check,source_id
+1,M0005,CR7,2002-10-07,2002-03,2002,SPO,PRI,Moreirense,34,34,31-45,Right foot,"Open play, inside box",Tonito,João Ricardo,Estádio José Alvalade,Lisbon,Portugal,Leading,0,Exact,S02+S06
+2,M0005,CR7,2002-10-07,2002-03,2002,SPO,PRI,Moreirense,90+5,90,76-90,Header,"Open play, inside box",Rui Jorge,João Ricardo,Estádio José Alvalade,Lisbon,Portugal,Leading,0,Exact,S02+S06
+3,M0007,CR7,2002-10-26,2002-03,2002,SPO,PRI,Boavista,88,88,76-90,Right foot,"Open play, inside box",Carlos Martins,Ricardo,Estádio do Bessa,Porto,Portugal,Level,1,Exact,S02+S06
+4,M0011,CR7,2002-11-24,2002-03,2002,SPO,TDP,Estarreja,67,67,61-75,Left foot,"Open play, inside box",César Prates,Apolo,Estádio José Alvalade,Lisbon,Portugal,Leading,0,Exact,S02+S06
+5,M0015,CR7,2002-12-18,2002-03,2002,SPO,TDP,FC Oliveira do Hospital,13,13,01-15,Left foot,"Open play, outside box",Ricardo Fernandes,Vitorino,Estádio José Alvalade,Lisbon,Portugal,Leading,0,Exact,S02+S06
+6,M0043,CR7,2003-11-01,2003-04,2003,MU1,EPL,Portsmouth,80,80,76-90,Right foot,Direct free kick,,Shaka Hislop,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+7,M0058,CR7,2004-02-14,2003-04,2004,MU1,FAC,Manchester City,74,74,61-75,Right foot,"Open play, inside box",,Arason,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+8,M0065,CR7,2004-03-20,2003-04,2004,MU1,EPL,Tottenham Hotspur,89,89,76-90,Right foot,"Open play, outside box",Roy Keane,Kasey Keller,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+9,M0068,CR7,2004-04-10,2003-04,2004,MU1,EPL,Birmingham City,60,60,46-60,Header,"Open play, inside box",Ryan Giggs,Maik Taylor,St Andrew's,Birmingham,England,Trailing,0,Exact,S02+S06
+10,M0075,CR7,2004-05-15,2003-04,2004,MU1,EPL,Aston Villa,04,4,01-15,Right foot,"Open play, outside box",Darren Fletcher,Thomas Sörensen,Villa Park,Birmingham,England,Level,1,Exact,S02+S06
+11,M0076,CR7,2004-05-22,2003-04,2004,MU1,FAC,Millwall,44,44,31-45,Header,"Open play, inside box",Gary Neville,Andy Marshall,Millennium Stadium,Cardiff,Wales,Level,1,Exact,S02+S06
+12,M0079,CR7,2004-06-12,2003-04,2004,POR,EUR,Greece,90+3,90,76-90,Header,"Open play, inside box",Luis Figo,Antonis Nikopolidis,Estádio do Dragão,Porto,Portugal,Trailing,0,Exact,S02+S06
+13,M0083,CR7,2004-06-30,2003-04,2004,POR,EUR,Netherlands,26,26,16-30,Header,"Open play, inside box",Deco,Edwin van der Sar,Estádio José Alvalade,Lisbon,Portugal,Level,0,Exact,S02+S06
+14,M0089,CR7,2004-09-04,2004-05,2004,POR,WCQ,Latvia,57,57,46-60,Left foot,"Open play, inside box",Jorge Andrade,Aleksandrs Kolinko,Skonto Stadium,Riga,Latvia,Level,1,Exact,S02+S06
+15,M0090,CR7,2004-09-08,2004-05,2004,POR,WCQ,Estonia,75,75,61-75,Header,"Open play, inside box",Deco,Mart Poom,Estádio Dr. Magalhães Pessoa,Leiria,Portugal,Level,1,Exact,S02+S06
+16,M0097,CR7,2004-10-13,2004-05,2004,POR,WCQ,Russia,39,39,31-45,Left foot,"Open play, inside box",Pauleta,Vyacheslav Malafeev,Estádio José Alvalade,Lisbon,Portugal,Leading,0,Exact,S02+S06
+17,M0097,CR7,2004-10-13,2004-05,2004,POR,WCQ,Russia,69,69,61-75,Right foot,"Open play, outside box",Maniche,Vyacheslav Malafeev,Estádio José Alvalade,Lisbon,Portugal,Leading,0,Exact,S02+S06
+18,M0105,CR7,2004-11-17,2004-05,2004,POR,WCQ,Luxembourg,28,28,16-30,Header,"Open play, inside box",Deco,Alija Besic,Stade Josy Barthel,Luxembourg City,Luxembourg,Leading,0,Exact,S02+S06
+19,M0108,CR7,2004-12-04,2004-05,2004,MU1,EPL,Southampton,87,87,76-90,Right foot,"Open play, inside box",Gary Neville,Kasey Keller,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+20,M0118,CR7,2005-01-19,2004-05,2005,MU1,FAC,Exeter City,09,9,01-15,Left foot,"Open play, inside box",Paul Scholes,Paul Jones,St James Park,Exeter,England,Level,1,Exact,S02+S06
+21,M0119,CR7,2005-01-22,2004-05,2005,MU1,EPL,Aston Villa,08,8,01-15,Right foot,"Open play, outside box",Louis Saha,Thomas Sörensen,Old Trafford,Manchester,England,Level,0,Exact,S02+S06
+22,M0122,CR7,2005-02-01,2004-05,2005,MU1,EPL,Arsenal,54,54,46-60,Left foot,"Open play, inside box",Ryan Giggs,Manuel Almunia,Highbury,London,England,Trailing,0,Exact,S02+S06
+23,M0122,CR7,2005-02-01,2004-05,2005,MU1,EPL,Arsenal,58,58,46-60,Left foot,"Open play, inside box",Ryan Giggs,Manuel Almunia,Highbury,London,England,Level,1,Exact,S02+S06
+24,M0126,CR7,2005-02-19,2004-05,2005,MU1,FAC,Everton,58,58,46-60,Left foot,"Open play, inside box",,Nigel Martyn,Goodison Park,Liverpool,England,Leading,0,Exact,S02+S06
+25,M0131,CR7,2005-03-12,2004-05,2005,MU1,FAC,Southampton,45,45,31-45,Left foot,"Open play, inside box",Ruud van Nistelrooy,Paul Smith,St Mary's Stadium,Southampton,England,Leading,0,Exact,S02+S06
+26,M0132,CR7,2005-03-19,2004-05,2005,MU1,EPL,Fulham,21,21,16-30,Right foot,"Open play, outside box",Roy Keane,Edwin van der Sar,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+27,M0137,CR7,2005-04-17,2004-05,2005,MU1,FAC,Newcastle United,76,76,76-90,Right foot,"Open play, inside box",Ruud van Nistelrooy,Shay Given,Millennium Stadium,Cardiff,Wales,Leading,0,Exact,S02+S06
+28,M0143,CR7,2005-06-04,2004-05,2005,POR,WCQ,Slovakia,42,42,31-45,Right foot,Direct free kick,,Kamil Contofalsky,Estádio da Luz,Lisbon,Portugal,Leading,0,Exact,S02+S06
+29,M0144,CR7,2005-06-08,2004-05,2005,POR,WCQ,Estonia,33,33,31-45,Header,"Open play, inside box",Luis Figo,Artur Kotenko,A. Le Coq Arena,Tallinn,Estonia,Level,1,Exact,S02+S06
+30,M0145,CR7,2005-08-09,2005-06,2005,MU1,UCQ,Debrecen,63,63,61-75,Right foot,"Open play, inside box",Paul Scholes,Norbert Csernyánszki,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+31,M0161,CR7,2005-10-29,2005-06,2005,MU1,EPL,Middlesbrough,90,90,76-90,Header,"Open play, inside box",Paul Scholes,Mark Schwarzer,Riverside Stadium,Middlesbrough,England,Trailing,0,Exact,S02+S06
+32,M0168,CR7,2005-11-30,2005-06,2005,MU1,ELC,West Bromwich Albion,12,12,01-15,Right foot,Penalty,,Russel Hoult,Old Trafford,Manchester,England,Trailing,0,Exact,S02+S06
+33,M0176,CR7,2005-12-31,2005-06,2005,MU1,EPL,Bolton Wanderers,68,68,61-75,Right foot,"Open play, inside box",Wayne Rooney,Jussi Jääskeläinen,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+34,M0176,CR7,2005-12-31,2005-06,2005,MU1,EPL,Bolton Wanderers,90,90,76-90,Left foot,"Open play, inside box",Ruud van Nistelrooy,Jussi Jääskeläinen,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+35,M0182,CR7,2006-02-04,2005-06,2006,MU1,EPL,Fulham,14,14,01-15,Right foot,Direct free kick,,Antti Niemi,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+36,M0182,CR7,2006-02-04,2005-06,2006,MU1,EPL,Fulham,87,87,76-90,Right foot,"Open play, inside box",,Antti Niemi,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+37,M0183,CR7,2006-02-11,2005-06,2006,MU1,EPL,Portsmouth,38,38,31-45,Left foot,"Open play, outside box",,Dean Kiely,Fratton Park,Portsmouth,England,Leading,0,Exact,S02+S06
+38,M0183,CR7,2006-02-11,2005-06,2006,MU1,EPL,Portsmouth,45,45,31-45,Right foot,"Open play, inside box",Wayne Rooney,Dean Kiely,Fratton Park,Portsmouth,England,Leading,0,Exact,S02+S06
+39,M0185,CR7,2006-02-26,2005-06,2006,MU1,ELC,Wigan Athletic,59,59,46-60,Right foot,"Open play, inside box",Louis Saha,John Filan,Millennium Stadium,Cardiff,Wales,Leading,0,Exact,S02+S06
+40,M0186,CR7,2006-03-01,2005-06,2006,POR,FRI,Saudi Arabia,29,29,16-30,Header,"Open play, inside box",Luis Figo,Mohammad Al-Deayea,LTU Arena,Düsseldorf,Germany,Level,1,Exact,S02+S06
+41,M0186,CR7,2006-03-01,2005-06,2006,POR,FRI,Saudi Arabia,84,84,76-90,Left foot,"Open play, inside box",Hugo Viana,Mohammad Al-Deayea,LTU Arena,Düsseldorf,Germany,Leading,0,Exact,S02+S06
+42,M0187,CR7,2006-03-06,2005-06,2006,MU1,EPL,Wigan Athletic,74,74,61-75,Right foot,"Open play, inside box",Ruud van Nistelrooy,John Filan,JJB Stadium,Wigan,England,Trailing,0,Exact,S02+S06
+43,M0198,CR7,2006-05-07,2005-06,2006,MU1,EPL,Charlton Athletic,23,23,16-30,Left foot,"Open play, inside box",Ryan Giggs,Stephan Andersen,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+44,M0202,CR7,2006-06-17,2005-06,2006,POR,WC,Iran,80,80,76-90,Right foot,Penalty,,Ebrahim Mirzapour,Commerzbank Arena,Frankfurt,Germany,Leading,0,Exact,S02+S06
+45,M0207,CR7,2006-08-20,2006-07,2006,MU1,EPL,Fulham,19,19,16-30,Right foot,"Open play, inside box",Wayne Rooney,Antti Niemi,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+46,M0214,CR7,2006-09-23,2006-07,2006,MU1,EPL,Reading,73,73,61-75,Right foot,"Open play, inside box",John O'Shea,Marcus Hahnemann,Madejski Stadium,Reading,England,Trailing,0,Exact,S02+S06
+47,M0217,CR7,2006-10-07,2006-07,2006,POR,EUQ,Azerbaijan,25,25,16-30,Left foot,"Open play, inside box",Deco,Farhad Valiyev,Estádio do Bessa Século XXI,Porto,Portugal,Level,1,Exact,S02+S06
+48,M0217,CR7,2006-10-07,2006-07,2006,POR,EUQ,Azerbaijan,63,63,61-75,Header,"Open play, inside box",Simão,Farhad Valiyev,Estádio do Bessa Século XXI,Porto,Portugal,Leading,0,Exact,S02+S06
+49,M0220,CR7,2006-10-28,2006-07,2006,MU1,EPL,Bolton Wanderers,82,82,76-90,Right foot,"Open play, inside box",Louis Saha,Jussi Jääskeläinen,Reebok Stadium,Bolton,England,Leading,0,Exact,S02+S06
+50,M0222,CR7,2006-11-04,2006-07,2006,MU1,EPL,Portsmouth,10,10,01-15,Right foot,Direct free kick,,David James,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+51,M0225,CR7,2006-11-15,2006-07,2006,POR,EUQ,Kazakhstan,29,29,16-30,Right foot,"Open play, outside box",Tiago Mendes,David Loria,Estádio Cidade de Coimbra,Coimbra,Portugal,Leading,0,Exact,S02+S06
+52,M0229,CR7,2006-11-29,2006-07,2006,MU1,EPL,Everton,39,39,31-45,Right foot,"Open play, outside box",,Richard Wright,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+53,M0232,CR7,2006-12-09,2006-07,2006,MU1,EPL,Manchester City,84,84,76-90,Right foot,"Open play, inside box",,Nicky Weaver,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+54,M0234,CR7,2006-12-23,2006-07,2006,MU1,EPL,Aston Villa,58,58,46-60,Right foot,"Open play, inside box",,Gabor Kiraly,Villa Park,Birmingham,England,Level,1,Exact,S02+S06
+55,M0234,CR7,2006-12-23,2006-07,2006,MU1,EPL,Aston Villa,85,85,76-90,Right foot,"Open play, inside box",Gary Neville,Gabor Kiraly,Villa Park,Birmingham,England,Leading,0,Exact,S02+S06
+56,M0235,CR7,2006-12-26,2006-07,2006,MU1,EPL,Wigan Athletic,47,47,46-60,Header,"Open play, inside box",Paul Scholes,Chris Kirkland,Old Trafford,Manchester,England,Level,0,Exact,S02+S06
+57,M0235,CR7,2006-12-26,2006-07,2006,MU1,EPL,Wigan Athletic,50,50,46-60,Right foot,"Open play, inside box",,Chris Kirkland,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+58,M0236,CR7,2006-12-30,2006-07,2006,MU1,EPL,Reading,58,58,46-60,Right foot,"Open play, inside box",,Marcus Hahnemann,Old Trafford,Manchester,England,Level,0,Exact,S02+S06
+59,M0236,CR7,2006-12-30,2006-07,2006,MU1,EPL,Reading,77,77,76-90,Right foot,"Open play, inside box",Ryan Giggs,Marcus Hahnemann,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+60,M0239,CR7,2007-01-13,2006-07,2007,MU1,EPL,Aston Villa,34,34,31-45,Header,"Open play, inside box",Michael Carrick,Thomas Sörensen,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+61,M0241,CR7,2007-01-31,2006-07,2007,MU1,EPL,Watford,12,12,01-15,Right foot,Penalty,,Richard Lee,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+62,M0242,CR7,2007-02-04,2006-07,2007,MU1,EPL,Tottenham Hotspur,45,45,31-45,Right foot,Penalty,,Paul Robinson,White Hart Lane,London,England,Level,1,Exact,S02+S06
+63,M0246,CR7,2007-02-24,2006-07,2007,MU1,EPL,Fulham,88,88,76-90,Right foot,"Open play, inside box",Patrice Evra,Jan Lastuvka,Craven Cottage,London,England,Level,1,Exact,S02+S06
+64,M0250,CR7,2007-03-10,2006-07,2007,MU1,FAC,Middlesbrough,68,68,61-75,Right foot,Penalty,,Mark Schwarzer,Riverside Stadium,Middlesbrough,England,Trailing,0,Exact,S02+S06
+65,M0252,CR7,2007-03-19,2006-07,2007,MU1,FAC,Middlesbrough,76,76,76-90,Right foot,Penalty,,Mark Schwarzer,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+66,M0253,CR7,2007-03-24,2006-07,2007,POR,EUQ,Belgium,55,55,46-60,Header,"Open play, inside box",Ricardo Quaresma,Stijn Stijnen,Estádio José Alvalade,Lisbon,Portugal,Leading,0,Exact,S02+S06
+67,M0253,CR7,2007-03-24,2006-07,2007,POR,EUQ,Belgium,75,75,61-75,Left foot,"Open play, outside box",Petit,Stijn Stijnen,Estádio José Alvalade,Lisbon,Portugal,Leading,0,Exact,S02+S06
+68,M0258,CR7,2007-04-10,2006-07,2007,MU1,UCL,Roma,44,44,31-45,Right foot,"Open play, inside box",Ryan Giggs,Doni,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+69,M0258,CR7,2007-04-10,2006-07,2007,MU1,UCL,Roma,49,49,46-60,Right foot,"Open play, inside box",Ryan Giggs,Doni,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+70,M0259,CR7,2007-04-14,2006-07,2007,MU1,FAC,Watford,28,28,16-30,Right foot,"Open play, inside box",Wayne Rooney,Richard Lee,Villa Park,Birmingham,England,Level,1,Exact,S02+S06
+71,M0262,CR7,2007-04-24,2006-07,2007,MU1,UCL,AC Milan,05,5,01-15,Header,"Open play, inside box",Ryan Giggs,Dida,Old Trafford,Manchester,England,Level,0,Exact,S02+S06
+72,M0265,CR7,2007-05-05,2006-07,2007,MU1,EPL,Manchester City,34,34,31-45,Right foot,Penalty,,Andreas Isaksson,City of Manchester Stadium,Manchester,England,Level,1,Exact,S02+S06
+73,M0271,CR7,2007-08-22,2007-08,2007,POR,EUQ,Armenia,37,37,31-45,Left foot,"Open play, inside box",,Roman Berezovskiy,Hrazdan Stadium,Yerevan,Armenia,Trailing,0,Exact,S02+S06
+74,M0272,CR7,2007-09-08,2007-08,2007,POR,EUQ,Poland,73,73,61-75,Right foot,"Open play, inside box",,Artur Boruc,Estádio da Luz,Lisbon,Portugal,Level,0,Exact,S02+S06
+75,M0275,CR7,2007-09-19,2007-08,2007,MU1,UCL,Sporting CP,62,62,61-75,Header,"Open play, inside box",Wes Brown,Vladimir Stojković,Estádio José Alvalade,Lisbon,Portugal,Level,1,Exact,S02+S06
+76,M0277,CR7,2007-09-29,2007-08,2007,MU1,EPL,Birmingham City,51,51,46-60,Left foot,"Open play, inside box",,Maik Taylor,St Andrew's,Birmingham,England,Level,1,Exact,S02+S06
+77,M0279,CR7,2007-10-06,2007-08,2007,MU1,EPL,Wigan Athletic,59,59,46-60,Header,"Open play, inside box",,Chris Kirkland,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+78,M0279,CR7,2007-10-06,2007-08,2007,MU1,EPL,Wigan Athletic,76,76,76-90,Right foot,"Open play, inside box",Wayne Rooney,Chris Kirkland,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+79,M0281,CR7,2007-10-17,2007-08,2007,POR,EUQ,Kazakhstan,90+1,90,76-90,Left foot,"Open play, inside box",Nani,David Loria,Central Stadium,Almaty,Kazakhstan,Leading,0,Exact,S02+S06
+80,M0283,CR7,2007-10-23,2007-08,2007,MU1,UCL,Dynamo Kyiv,41,41,31-45,Header,"Open play, inside box",,Oleksandr Shovkovskiy,NSC Olimpiyskiy,Kyiv,Ukraine,Leading,0,Exact,S02+S06
+81,M0283,CR7,2007-10-23,2007-08,2007,MU1,UCL,Dynamo Kyiv,68,68,61-75,Right foot,Penalty,,Oleksandr Shovkovskiy,NSC Olimpiyskiy,Kyiv,Ukraine,Leading,0,Exact,S02+S06
+82,M0285,CR7,2007-11-03,2007-08,2007,MU1,EPL,Arsenal,82,82,76-90,Left foot,"Open play, inside box",Patrice Evra,Manuel Almunia,Emirates Stadium,London,England,Level,0,Exact,S02+S06
+83,M0286,CR7,2007-11-07,2007-08,2007,MU1,UCL,Dynamo Kyiv,88,88,76-90,Right foot,"Open play, inside box",Patrice Evra,Oleksandr Shovkovskiy,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+84,M0287,CR7,2007-11-11,2007-08,2007,MU1,EPL,Blackburn Rovers,34,34,31-45,Header,"Open play, inside box",Ryan Giggs,Brad Friedel,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+85,M0287,CR7,2007-11-11,2007-08,2007,MU1,EPL,Blackburn Rovers,35,35,31-45,Right foot,"Open play, inside box",Carlos Tévez,Brad Friedel,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+86,M0290,CR7,2007-11-27,2007-08,2007,MU1,UCL,Sporting CP,90+3,90,76-90,Right foot,Direct free kick,,Rui Patricio,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+87,M0291,CR7,2007-12-03,2007-08,2007,MU1,EPL,Fulham,10,10,01-15,Right foot,"Open play, inside box",Nemanja Vidic,Antti Niemi,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+88,M0291,CR7,2007-12-03,2007-08,2007,MU1,EPL,Fulham,58,58,46-60,Header,"Open play, inside box",John O'Shea,Antti Niemi,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+89,M0292,CR7,2007-12-08,2007-08,2007,MU1,EPL,Derby County,90,90,76-90,Right foot,Penalty,,Stephen Bywater,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+90,M0294,CR7,2007-12-23,2007-08,2007,MU1,EPL,Everton,22,22,16-30,Left foot,"Open play, outside box",Carlos Tévez,Tim Howard,Old Trafford,Manchester,England,Level,0,Exact,S02+S06
+91,M0294,CR7,2007-12-23,2007-08,2007,MU1,EPL,Everton,87,87,76-90,Right foot,Penalty,,Tim Howard,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+92,M0295,CR7,2007-12-26,2007-08,2007,MU1,EPL,Sunderland,45,45,31-45,Right foot,Direct free kick,,Craig Gordon,Stadium of Light,Sunderland,England,Leading,0,Exact,S02+S06
+93,M0296,CR7,2007-12-29,2007-08,2007,MU1,EPL,West Ham United,14,14,01-15,Header,"Open play, inside box",Ryan Giggs,Rob Green,Boleyn Ground,London,England,Level,0,Exact,S02+S06
+94,M0298,CR7,2008-01-05,2007-08,2008,MU1,FAC,Aston Villa,81,81,76-90,Left foot,"Open play, inside box",Ryan Giggs,Martin O'Neill,Villa Park,Birmingham,England,Level,1,Exact,S02+S06
+95,M0299,CR7,2008-01-12,2007-08,2008,MU1,EPL,Newcastle United,48,48,46-60,Right foot,Direct free kick,,Shay Given,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+96,M0299,CR7,2008-01-12,2007-08,2008,MU1,EPL,Newcastle United,70,70,61-75,Right foot,"Open play, inside box",Carlos Tévez,Shay Given,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+97,M0299,CR7,2008-01-12,2007-08,2008,MU1,EPL,Newcastle United,88,88,76-90,Left foot,"Open play, inside box",,Shay Given,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+98,M0300,CR7,2008-01-19,2007-08,2008,MU1,EPL,Reading,90+2,90,76-90,Right foot,"Open play, inside box",Darren Fletcher,Marcus Hahnemann,Madejski Stadium,Reading,England,Leading,0,Exact,S02+S06
+99,M0301,CR7,2008-01-27,2007-08,2008,MU1,FAC,Tottenham Hotspur,69,69,61-75,Right foot,Penalty,,Radek Cerny,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+100,M0301,CR7,2008-01-27,2007-08,2008,MU1,FAC,Tottenham Hotspur,88,88,76-90,Right foot,"Open play, inside box",Ryan Giggs,Radek Cerny,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+101,M0302,CR7,2008-01-30,2007-08,2008,MU1,EPL,Portsmouth,10,10,01-15,Right foot,"Open play, inside box",Nani,David James,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+102,M0302,CR7,2008-01-30,2007-08,2008,MU1,EPL,Portsmouth,12,12,01-15,Right foot,Direct free kick,,David James,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+103,M0307,CR7,2008-02-23,2007-08,2008,MU1,EPL,Newcastle United,45,45,31-45,Right foot,"Open play, inside box",Michael Carrick,Shay Given,St James' Park,Newcastle upon Tyne,England,Leading,0,Exact,S02+S06
+104,M0307,CR7,2008-02-23,2007-08,2008,MU1,EPL,Newcastle United,56,56,46-60,Right foot,"Open play, inside box",Darren Fletcher,Shay Given,St James' Park,Newcastle upon Tyne,England,Leading,0,Exact,S02+S06
+105,M0309,CR7,2008-03-04,2007-08,2008,MU1,UCL,Lyon,41,41,31-45,Left foot,"Open play, inside box",,Grégory Coupet,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+106,M0311,CR7,2008-03-15,2007-08,2008,MU1,EPL,Derby County,76,76,76-90,Right foot,"Open play, inside box",Wayne Rooney,Roy Carroll,Pride Park Stadium,Derby,England,Level,1,Exact,S02+S06
+107,M0312,CR7,2008-03-19,2007-08,2008,MU1,EPL,Bolton Wanderers,08,8,01-15,Right foot,"Open play, inside box",,Gary Megson,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+108,M0312,CR7,2008-03-19,2007-08,2008,MU1,EPL,Bolton Wanderers,19,19,16-30,Right foot,Direct free kick,,Gary Megson,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+109,M0313,CR7,2008-03-23,2007-08,2008,MU1,EPL,Liverpool,79,79,76-90,Header,"Open play, inside box",Nani,Pepe Reina,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+110,M0314,CR7,2008-03-29,2007-08,2008,MU1,EPL,Aston Villa,16,16,16-30,Right foot,"Open play, inside box",,Scott Carson,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+111,M0315,CR7,2008-04-01,2007-08,2008,MU1,UCL,Roma,39,39,31-45,Header,"Open play, inside box",Paul Scholes,Doni,Stadio Olimpico,Rome,Italy,Level,1,Exact,S02+S06
+112,M0316,CR7,2008-04-06,2007-08,2008,MU1,EPL,Middlesbrough,09,9,01-15,Left foot,"Open play, inside box",Michael Carrick,Mark Schwarzer,Riverside Stadium,Middlesbrough,England,Level,0,Exact,S02+S06
+113,M0317,CR7,2008-04-13,2007-08,2008,MU1,EPL,Arsenal,53,53,46-60,Right foot,Penalty,,Jens Lehmann,Old Trafford,Manchester,England,Trailing,0,Exact,S02+S06
+114,M0322,CR7,2008-05-03,2007-08,2008,MU1,EPL,West Ham United,03,3,01-15,Right foot,"Open play, inside box",Edwin van der Sar,Rob Green,Old Trafford,Manchester,England,Level,0,Exact,S02+S06
+115,M0322,CR7,2008-05-03,2007-08,2008,MU1,EPL,West Ham United,24,24,16-30,Other,"Open play, inside box",Owen Hargreaves,Rob Green,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+116,M0323,CR7,2008-05-11,2007-08,2008,MU1,EPL,Wigan Athletic,32,32,31-45,Right foot,Penalty,,Chris Kirkland,JJB Stadium,Wigan,England,Level,1,Exact,S02+S06
+117,M0324,CR7,2008-05-21,2007-08,2008,MU1,UCL,Chelsea,26,26,16-30,Header,"Open play, inside box",Wes Brown,Petr Cech,Luzhniki Stadium,Moscow,Russia,Level,0,Exact,S02+S06
+118,M0327,CR7,2008-06-11,2007-08,2008,POR,EUR,Czech Republic,63,63,61-75,Right foot,"Open play, inside box",Deco,Petr Cech,Stade de Genève,Geneva,Switzerland,Level,1,Exact,S02+S06
+119,M0331,CR7,2008-09-23,2008-09,2008,MU1,ELC,Middlesbrough,25,25,16-30,Header,"Open play, inside box",Ryan Giggs,Brad Jones,Old Trafford,Manchester,England,Level,0,Exact,S02+S06
+120,M0332,CR7,2008-09-27,2008-09,2008,MU1,EPL,Bolton Wanderers,59,59,46-60,Right foot,Penalty,,Jussi Jääskeläinen,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+121,M0337,CR7,2008-10-18,2008-09,2008,MU1,EPL,West Bromwich Albion,69,69,61-75,Left foot,"Open play, inside box",Wayne Rooney,Scott Carson,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+122,M0340,CR7,2008-10-29,2008-09,2008,MU1,EPL,West Ham United,14,14,01-15,Left foot,"Open play, inside box",Nani,Rob Green,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+123,M0340,CR7,2008-10-29,2008-09,2008,MU1,EPL,West Ham United,30,30,16-30,Right foot,"Open play, inside box",Dimitar Berbatov,Rob Green,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+124,M0341,CR7,2008-11-01,2008-09,2008,MU1,EPL,Hull City,03,3,01-15,Left foot,"Open play, outside box",Dimitar Berbatov,Boaz Myhill,Old Trafford,Manchester,England,Level,0,Exact,S02+S06
+125,M0341,CR7,2008-11-01,2008-09,2008,MU1,EPL,Hull City,43,43,31-45,Header,"Open play, inside box",Nani,Boaz Myhill,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+126,M0344,CR7,2008-11-15,2008-09,2008,MU1,EPL,Stoke City,03,3,01-15,Right foot,Direct free kick,,Thomas Sörensen,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+127,M0344,CR7,2008-11-15,2008-09,2008,MU1,EPL,Stoke City,88,88,76-90,Right foot,Direct free kick,,Thomas Sörensen,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+128,M0351,CR7,2008-12-18,2008-09,2008,MU1,CWC,Gamba Osaka,45,45,31-45,Header,"Open play, inside box",Ryan Giggs,Yosuke Fujigaya,Nissan Stadium,Yokohama,Japan,Leading,0,Exact,S02+S06
+129,M0359,CR7,2009-01-20,2008-09,2009,MU1,ELC,Derby County,89,89,76-90,Right foot,Penalty,,Roy Carroll,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+130,M0361,CR7,2009-01-27,2008-09,2009,MU1,EPL,West Bromwich Albion,65,65,61-75,Right foot,"Open play, inside box",Ryan Giggs,Scott Carson,The Hawthorns,West Bromwich,England,Leading,0,Exact,S02+S06
+131,M0361,CR7,2009-01-27,2008-09,2009,MU1,EPL,West Bromwich Albion,73,73,61-75,Right foot,"Open play, inside box",Dimitar Berbatov,Scott Carson,The Hawthorns,West Bromwich,England,Leading,0,Exact,S02+S06
+132,M0362,CR7,2009-01-31,2008-09,2009,MU1,EPL,Everton,43,43,31-45,Right foot,Penalty,,Tim Howard,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+133,M0364,CR7,2009-02-11,2008-09,2009,POR,FRI,Finland,77,77,76-90,Right foot,Penalty,,Jussi Jääskeläinen,Estádio Algarve,Loulé,Portugal,Level,1,Exact,S02+S06
+134,M0365,CR7,2009-02-15,2008-09,2009,MU1,FAC,Derby County,68,68,61-75,Header,"Open play, inside box",Ryan Giggs,Stephen Bywater,Pride Park Stadium,Derby,England,Leading,0,Exact,S02+S06
+135,M0367,CR7,2009-02-21,2008-09,2009,MU1,EPL,Blackburn Rovers,60,60,46-60,Right foot,Direct free kick,,Paul Robinson,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+136,M0371,CR7,2009-03-11,2008-09,2009,MU1,UCL,Inter Milan,49,49,46-60,Header,"Open play, inside box",Wayne Rooney,Julio Cesar,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+137,M0372,CR7,2009-03-14,2008-09,2009,MU1,EPL,Liverpool,22,22,16-30,Right foot,Penalty,,Pepe Reina,Old Trafford,Manchester,England,Level,0,Exact,S02+S06
+138,M0376,CR7,2009-04-05,2008-09,2009,MU1,EPL,Aston Villa,11,11,01-15,Right foot,"Open play, inside box",,Brad Friedel,Old Trafford,Manchester,England,Level,0,Exact,S02+S06
+139,M0376,CR7,2009-04-05,2008-09,2009,MU1,EPL,Aston Villa,80,80,76-90,Left foot,"Open play, outside box",Michael Carrick,Brad Friedel,Old Trafford,Manchester,England,Trailing,0,Exact,S02+S06
+140,M0379,CR7,2009-04-15,2008-09,2009,MU1,UCL,FC Porto,06,6,01-15,Right foot,"Open play, outside box",Anderson,Hélton,Estádio do Dragão,Porto,Portugal,Level,1,Exact,S02+S06
+141,M0381,CR7,2009-04-25,2008-09,2009,MU1,EPL,Tottenham Hotspur,57,57,46-60,Right foot,Penalty,,Heurelho Gomes,Old Trafford,Manchester,England,Trailing,0,Exact,S02+S06
+142,M0381,CR7,2009-04-25,2008-09,2009,MU1,EPL,Tottenham Hotspur,68,68,61-75,Header,"Open play, inside box",Wayne Rooney,Heurelho Gomes,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+143,M0383,CR7,2009-05-05,2008-09,2009,MU1,UCL,Arsenal,11,11,01-15,Right foot,Direct free kick,,Manuel Almunia,Emirates Stadium,London,England,Leading,0,Exact,S02+S06
+144,M0383,CR7,2009-05-05,2008-09,2009,MU1,UCL,Arsenal,61,61,61-75,Right foot,"Open play, inside box",Wayne Rooney,Manuel Almunia,Emirates Stadium,London,England,Leading,0,Exact,S02+S06
+145,M0384,CR7,2009-05-10,2008-09,2009,MU1,EPL,Manchester City,17,17,16-30,Right foot,Direct free kick,,Shay Given,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+146,M0389,CR7,2009-08-29,2009-10,2009,RMA,LAL,Deportivo La Coruna,35,35,31-45,Right foot,Penalty,,Daniel Aranzubia,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+147,M0392,CR7,2009-09-12,2009-10,2009,RMA,LAL,Espanyol,90,90,76-90,Right foot,"Open play, inside box",Guti,Carlos Kameni,Estadio Cornellà-El Prat,Barcelona,Spain,Leading,0,Exact,S02+S06
+148,M0393,CR7,2009-09-15,2009-10,2009,RMA,UCL,FC Zurich,27,27,16-30,Right foot,Direct free kick,,Johnny Leoni,Letzigrund,Zurich,Switzerland,Level,0,Exact,S02+S06
+149,M0393,CR7,2009-09-15,2009-10,2009,RMA,UCL,FC Zurich,89,89,76-90,Right foot,Direct free kick,,Johnny Leoni,Letzigrund,Zurich,Switzerland,Leading,0,Exact,S02+S06
+150,M0394,CR7,2009-09-20,2009-10,2009,RMA,LAL,Xerez,01,1,01-15,Right foot,"Open play, inside box",,Renan,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+151,M0394,CR7,2009-09-20,2009-10,2009,RMA,LAL,Xerez,75,75,61-75,Header,"Open play, inside box",Esteban Granero,Renan,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+152,M0395,CR7,2009-09-23,2009-10,2009,RMA,LAL,Villarreal,02,2,01-15,Right foot,"Open play, outside box",Sergio Ramos,Diego López,El Madrigal,Villarreal,Spain,Level,1,Exact,S02+S06
+153,M0397,CR7,2009-09-30,2009-10,2009,RMA,UCL,Marseille,58,58,46-60,Left foot,"Open play, inside box",Pepe,Steve Mandanda,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+154,M0397,CR7,2009-09-30,2009-10,2009,RMA,UCL,Marseille,64,64,61-75,Right foot,"Open play, inside box",Karim Benzema,Steve Mandanda,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+155,M0401,CR7,2009-12-05,2009-10,2009,RMA,LAL,Almeria,84,84,76-90,Right foot,"Open play, inside box",Gonzalo Higuain,Diego Alves,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+156,M0402,CR7,2009-12-08,2009-10,2009,RMA,UCL,Marseille,05,5,01-15,Right foot,Direct free kick,,Steve Mandanda,Stade Vélodrome,Marseille,France,Level,0,Exact,S02+S06
+157,M0402,CR7,2009-12-08,2009-10,2009,RMA,UCL,Marseille,80,80,76-90,Right foot,"Open play, inside box",Lassana Diara,Steve Mandanda,Stade Vélodrome,Marseille,France,Leading,0,Exact,S02+S06
+158,M0403,CR7,2009-12-19,2009-10,2009,RMA,LAL,Real Zaragoza,50,50,46-60,Left foot,"Open play, inside box",Ezequiel Garay,Javier López Vallejo,Estadio Bernabéu,Madrid,Spain,Leading,0,Date differs by +1 day,S02+S06
+159,M0407,CR7,2010-01-24,2009-10,2010,RMA,LAL,Malaga,35,35,31-45,Right foot,"Open play, inside box",Kaka,Gustavo Munúa,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+160,M0407,CR7,2010-01-24,2009-10,2010,RMA,LAL,Malaga,39,39,31-45,Right foot,"Open play, outside box",Guti,Gustavo Munúa,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+161,M0408,CR7,2010-02-13,2009-10,2010,RMA,LAL,Xerez,69,69,61-75,Header,"Open play, inside box",Kaka,Renan,Estadio Municipal de Chapín,Jerez de la Frontera,Spain,Leading,0,Exact,S02+S06
+162,M0408,CR7,2010-02-13,2009-10,2010,RMA,LAL,Xerez,71,71,61-75,Left foot,"Open play, inside box",Kaka,Renan,Estadio Municipal de Chapín,Jerez de la Frontera,Spain,Leading,0,Exact,S02+S06
+163,M0410,CR7,2010-02-21,2009-10,2010,RMA,LAL,Villarreal,18,18,16-30,Right foot,Direct free kick,,Diego López,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+164,M0411,CR7,2010-02-27,2009-10,2010,RMA,LAL,Tenerife,78,78,76-90,Right foot,Penalty,,Sergio Aragoneses,Estadio Heliodoro Rodríguez López,Santa Cruz de Tenerife,Spain,Leading,0,Exact,S02+S06
+165,M0413,CR7,2010-03-06,2009-10,2010,RMA,LAL,Sevilla,59,59,46-60,Left foot,"Open play, inside box",,Andrés Palop,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+166,M0414,CR7,2010-03-10,2009-10,2010,RMA,UCL,Lyon,06,6,01-15,Left foot,"Open play, inside box",Guti,Hugo Lloris,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+167,M0415,CR7,2010-03-14,2009-10,2010,RMA,LAL,Real Valladolid,29,29,16-30,Right foot,Direct free kick,,Justo Villar,Estadio Municipal José Zorrilla,Valladolid,Spain,Level,0,Exact,S02+S06
+168,M0417,CR7,2010-03-25,2009-10,2010,RMA,LAL,Getafe,13,13,01-15,Right foot,Direct free kick,,Óscar Ustari,Coliseum Alfonso Pérez,Getafe,Spain,Level,0,Exact,S02+S06
+169,M0417,CR7,2010-03-25,2009-10,2010,RMA,LAL,Getafe,36,36,31-45,Right foot,"Open play, inside box",Sergio Ramos,Óscar Ustari,Coliseum Alfonso Pérez,Getafe,Spain,Leading,0,Exact,S02+S06
+170,M0419,CR7,2010-04-04,2009-10,2010,RMA,LAL,Racing Santander,23,23,16-30,Right foot,Penalty,,Fabio Coltorti,El Sardinero,Santander,Spain,Level,1,Exact,S02+S06
+171,M0421,CR7,2010-04-15,2009-10,2010,RMA,LAL,Almeria,26,26,16-30,Left foot,"Open play, inside box",Guti,Diego Alves,Estadio de los Juegos Mediterráneos,Almería,Spain,Trailing,0,Exact,S02+S06
+172,M0422,CR7,2010-04-18,2009-10,2010,RMA,LAL,Valencia,77,77,76-90,Right foot,"Open play, inside box",Marcelo,César Sánchez,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+173,M0424,CR7,2010-05-02,2009-10,2010,RMA,LAL,Osasuna,25,25,16-30,Right foot,"Open play, inside box",Fernando Gago,Ricardo Lopez,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+174,M0424,CR7,2010-05-02,2009-10,2010,RMA,LAL,Osasuna,89,89,76-90,Header,"Open play, inside box",Gonzalo Higuain,Ricardo Lopez,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+175,M0425,CR7,2010-05-05,2009-10,2010,RMA,LAL,Mallorca,26,26,16-30,Right foot,"Open play, inside box",Sergio Ramos,Dudu Aouate,ONO Estadi,Palma de Mallorca,Spain,Trailing,0,Exact,S02+S06
+176,M0425,CR7,2010-05-05,2009-10,2010,RMA,LAL,Mallorca,56,56,46-60,Right foot,"Open play, inside box",Sergio Ramos,Dudu Aouate,ONO Estadi,Palma de Mallorca,Spain,Level,1,Exact,S02+S06
+177,M0425,CR7,2010-05-05,2009-10,2010,RMA,LAL,Mallorca,71,71,61-75,Right foot,"Open play, inside box",Alvaro Arbeloa,Dudu Aouate,ONO Estadi,Palma de Mallorca,Spain,Leading,0,Exact,S02+S06
+178,M0426,CR7,2010-05-08,2009-10,2010,RMA,LAL,Athletic Bilbao,21,21,16-30,Right foot,Penalty,,Gorka Iraizoz,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+179,M0432,CR7,2010-06-21,2009-10,2010,POR,WC,North Korea,87,87,76-90,Right foot,"Open play, inside box",Liedson,Myong Guk Ri,Cape Town Stadium,Cape Town,South Africa,Leading,0,Exact,S02+S06
+180,M0439,CR7,2010-09-21,2010-11,2010,RMA,LAL,Espanyol,28,28,16-30,Right foot,Penalty,,Carlos Kameni,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+181,M0442,CR7,2010-10-03,2010-11,2010,RMA,LAL,Deportivo La Coruna,04,4,01-15,Header,"Open play, inside box",Mesut Ozil,Manu Fernández,Estadio Bernabéu,Madrid,Spain,Level,0,Date differs by -1 day,S02+S06
+182,M0442,CR7,2010-10-03,2010-11,2010,RMA,LAL,Deportivo La Coruna,89,89,76-90,Left foot,"Open play, inside box",Xabi Alonso,Manu Fernández,Estadio Bernabéu,Madrid,Spain,Leading,0,Date differs by -1 day,S02+S06
+183,M0443,CR7,2010-10-08,2010-11,2010,POR,EUQ,Denmark,85,85,76-90,Left foot,"Open play, inside box",Nani,Thomas Sörensen,Estádio do Dragão,Porto,Portugal,Leading,0,Exact,S02+S06
+184,M0444,CR7,2010-10-12,2010-11,2010,POR,EUQ,Iceland,03,3,01-15,Right foot,Direct free kick,,Gunnleifsson,Laugardalsvöllur,Reykjavík,Iceland,Level,0,Exact,S02+S06
+185,M0445,CR7,2010-10-16,2010-11,2010,RMA,LAL,Malaga,45,45,31-45,Right foot,"Open play, inside box",Mesut Ozil,Galatto,Estadio La Rosaleda,Málaga,Spain,Leading,0,Exact,S02+S06
+186,M0445,CR7,2010-10-16,2010-11,2010,RMA,LAL,Malaga,50,50,46-60,Right foot,Penalty,,Galatto,Estadio La Rosaleda,Málaga,Spain,Leading,0,Exact,S02+S06
+187,M0446,CR7,2010-10-19,2010-11,2010,RMA,UCL,AC Milan,13,13,01-15,Right foot,Direct free kick,,Marco Amelia,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+188,M0447,CR7,2010-10-23,2010-11,2010,RMA,LAL,Racing Santander,15,15,01-15,Right foot,"Open play, inside box",Gonzalo Higuain,Toño,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+189,M0447,CR7,2010-10-23,2010-11,2010,RMA,LAL,Racing Santander,26,26,16-30,Left foot,"Open play, inside box",Mesut Ozil,Toño,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+190,M0447,CR7,2010-10-23,2010-11,2010,RMA,LAL,Racing Santander,47,47,46-60,Right foot,"Open play, inside box",Angel Di Maria,Toño,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+191,M0447,CR7,2010-10-23,2010-11,2010,RMA,LAL,Racing Santander,55,55,46-60,Right foot,Penalty,,Toño,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+192,M0449,CR7,2010-10-30,2010-11,2010,RMA,LAL,Hercules,82,82,76-90,Right foot,"Open play, inside box",,Juan Calatayud,Estadio José Rico Pérez,Alicante,Spain,Level,1,Exact,S02+S06
+193,M0449,CR7,2010-10-30,2010-11,2010,RMA,LAL,Hercules,86,86,76-90,Right foot,"Open play, inside box",Karim Benzema,Juan Calatayud,Estadio José Rico Pérez,Alicante,Spain,Leading,0,Exact,S02+S06
+194,M0452,CR7,2010-11-10,2010-11,2010,RMA,CDR,Real Murcia,74,74,61-75,Right foot,"Open play, inside box",Angel Di Maria,Dani Hernández,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+195,M0455,CR7,2010-11-20,2010-11,2010,RMA,LAL,Athletic Bilbao,30,30,16-30,Left foot,"Open play, outside box",Mesut Ozil,Gorka Iraizoz,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+196,M0455,CR7,2010-11-20,2010-11,2010,RMA,LAL,Athletic Bilbao,62,62,61-75,Right foot,Direct free kick,,Gorka Iraizoz,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+197,M0455,CR7,2010-11-20,2010-11,2010,RMA,LAL,Athletic Bilbao,90+1,90,76-90,Right foot,Penalty,,Gorka Iraizoz,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+198,M0456,CR7,2010-11-23,2010-11,2010,RMA,UCL,Ajax,70,70,61-75,Left foot,"Open play, inside box",Angel Di Maria,Maarten Stekelenburg,Amsterdam Arena,Amsterdam,Netherlands,Leading,0,Exact,S02+S06
+199,M0456,CR7,2010-11-23,2010-11,2010,RMA,UCL,Ajax,81,81,76-90,Right foot,Penalty,,Maarten Stekelenburg,Amsterdam Arena,Amsterdam,Netherlands,Leading,0,Exact,S02+S06
+200,M0458,CR7,2010-12-04,2010-11,2010,RMA,LAL,Valencia,72,72,61-75,Left foot,"Open play, inside box",Mesut Ozil,Vicente Guaita,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+201,M0458,CR7,2010-12-04,2010-11,2010,RMA,LAL,Valencia,86,86,76-90,Right foot,"Open play, inside box",Lassana Diara,Vicente Guaita,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+202,M0459,CR7,2010-12-08,2010-11,2010,RMA,UCL,Auxerre,49,49,46-60,Right foot,"Open play, inside box",Marcelo,Olivier Sorin,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+203,M0460,CR7,2010-12-12,2010-11,2010,RMA,LAL,Real Zaragoza,43,43,31-45,Right foot,Direct free kick,,Leo Franco,Estadio La Romareda,Zaragoza,Spain,Leading,0,Exact,S02+S06
+204,M0462,CR7,2010-12-22,2010-11,2010,RMA,CDR,Levante,44,44,31-45,Right foot,"Open play, inside box",Karim Benzema,Gustavo Munúa,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+205,M0462,CR7,2010-12-22,2010-11,2010,RMA,CDR,Levante,72,72,61-75,Right foot,"Open play, inside box",Angel Di Maria,Gustavo Munúa,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+206,M0462,CR7,2010-12-22,2010-11,2010,RMA,CDR,Levante,73,73,61-75,Right foot,"Open play, inside box",Karim Benzema,Gustavo Munúa,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+207,M0463,CR7,2011-01-03,2010-11,2011,RMA,LAL,Getafe,11,11,01-15,Right foot,Penalty,,Jordi Codina,Coliseum Alfonso Pérez,Getafe,Spain,Level,0,Exact,S02+S06
+208,M0463,CR7,2011-01-03,2010-11,2011,RMA,LAL,Getafe,57,57,46-60,Right foot,"Open play, inside box",Karim Benzema,Jordi Codina,Coliseum Alfonso Pérez,Getafe,Spain,Leading,0,Exact,S02+S06
+209,M0464,CR7,2011-01-09,2010-11,2011,RMA,LAL,Villarreal,10,10,01-15,Right foot,"Open play, inside box",Mesut Ozil,Diego López,Estadio Bernabéu,Madrid,Spain,Trailing,0,Date differs by -1 day,S02+S06
+210,M0464,CR7,2011-01-09,2010-11,2011,RMA,LAL,Villarreal,45,45,31-45,Header,"Open play, inside box",Xabi Alonso,Diego López,Estadio Bernabéu,Madrid,Spain,Trailing,0,Date differs by -1 day,S02+S06
+211,M0464,CR7,2011-01-09,2010-11,2011,RMA,LAL,Villarreal,79,79,76-90,Left foot,"Open play, inside box",,Diego López,Estadio Bernabéu,Madrid,Spain,Level,1,Date differs by -1 day,S02+S06
+212,M0465,CR7,2011-01-13,2010-11,2011,RMA,CDR,Atletico Madrid,61,61,61-75,Right foot,"Open play, inside box",Mesut Ozil,David De Gea,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+213,M0467,CR7,2011-01-20,2010-11,2011,RMA,CDR,Atletico Madrid,22,22,16-30,Right foot,"Open play, inside box",Sergio Ramos,David De Gea,Estadio Vicente Calderón,Madrid,Spain,Leading,0,Exact,S02+S06
+214,M0472,CR7,2011-02-06,2010-11,2011,RMA,LAL,Real Sociedad,21,21,16-30,Left foot,"Open play, outside box",Kaka,Claudio Bravo,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+215,M0472,CR7,2011-02-06,2010-11,2011,RMA,LAL,Real Sociedad,42,42,31-45,Header,"Open play, inside box",Mesut Ozil,Claudio Bravo,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+216,M0473,CR7,2011-02-09,2010-11,2011,POR,FRI,Argentina,21,21,16-30,Right foot,"Open play, inside box",Hugo Almeida,Sergio Romero,Stade de Genève,Geneva,Switzerland,Trailing,0,Exact,S02+S06
+217,M0478,CR7,2011-03-03,2010-11,2011,RMA,LAL,Malaga,50,50,46-60,Left foot,"Open play, inside box",Mesut Ozil,Willy Caballero,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+218,M0478,CR7,2011-03-03,2010-11,2011,RMA,LAL,Malaga,67,67,61-75,Right foot,Penalty,,Willy Caballero,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+219,M0478,CR7,2011-03-03,2010-11,2011,RMA,LAL,Malaga,76,76,76-90,Right foot,"Open play, inside box",Sergio Canales,Willy Caballero,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+220,M0481,CR7,2011-04-05,2010-11,2011,RMA,UCL,Tottenham Hotspur,87,87,76-90,Right foot,"Open play, inside box",Kaka,Heurelho Gomes,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+221,M0482,CR7,2011-04-09,2010-11,2011,RMA,LAL,Athletic Bilbao,70,70,61-75,Right foot,"Open play, inside box",Esteban Granero,Gorka Iraizoz,San Mamés,Bilbao,Spain,Leading,0,Exact,S02+S06
+222,M0483,CR7,2011-04-13,2010-11,2011,RMA,UCL,Tottenham Hotspur,50,50,46-60,Right foot,"Open play, outside box",Sami Khedira,Heurelho Gomes,White Hart Lane,London,England,Leading,0,Exact,S02+S06
+223,M0484,CR7,2011-04-16,2010-11,2011,RMA,LAL,Barcelona,82,82,76-90,Right foot,Penalty,,José Manuel Pinto,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+224,M0485,CR7,2011-04-20,2010-11,2011,RMA,CDR,Barcelona,103,103,90+ and extra time,Header,"Open play, inside box",Angel Di Maria,José Manuel Pinto,Mestalla,Valencia,Spain,Level,1,Exact,S02+S06
+225,M0489,CR7,2011-05-07,2010-11,2011,RMA,LAL,Sevilla,31,31,31-45,Right foot,"Open play, inside box",Pepe,Javi Varas,Estadio Ramón Sánchez Pizjuan,Seville,Spain,Leading,0,Exact,S02+S06
+226,M0489,CR7,2011-05-07,2010-11,2011,RMA,LAL,Sevilla,65,65,61-75,Right foot,"Open play, inside box",,Javi Varas,Estadio Ramón Sánchez Pizjuan,Seville,Spain,Leading,0,Exact,S02+S06
+227,M0489,CR7,2011-05-07,2010-11,2011,RMA,LAL,Sevilla,70,70,61-75,Right foot,"Open play, inside box",Mesut Ozil,Javi Varas,Estadio Ramón Sánchez Pizjuan,Seville,Spain,Leading,0,Exact,S02+S06
+228,M0489,CR7,2011-05-07,2010-11,2011,RMA,LAL,Sevilla,75,75,61-75,Right foot,"Open play, inside box",Karim Benzema,Javi Varas,Estadio Ramón Sánchez Pizjuan,Seville,Spain,Leading,0,Exact,S02+S06
+229,M0490,CR7,2011-05-10,2010-11,2011,RMA,LAL,Getafe,23,23,16-30,Header,"Open play, inside box",Mesut Ozil,Óscar Ustari,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+230,M0490,CR7,2011-05-10,2010-11,2011,RMA,LAL,Getafe,57,57,46-60,Left foot,"Open play, inside box",Mesut Ozil,Óscar Ustari,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+231,M0490,CR7,2011-05-10,2010-11,2011,RMA,LAL,Getafe,90+1,90,76-90,Right foot,Penalty,,Óscar Ustari,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+232,M0491,CR7,2011-05-15,2010-11,2011,RMA,LAL,Villarreal,22,22,16-30,Right foot,Direct free kick,,Diego López,El Madrigal,Villarreal,Spain,Leading,0,Exact,S02+S06
+233,M0491,CR7,2011-05-15,2010-11,2011,RMA,LAL,Villarreal,90,90,76-90,Right foot,Direct free kick,,Diego López,El Madrigal,Villarreal,Spain,Leading,0,Exact,S02+S06
+234,M0492,CR7,2011-05-21,2010-11,2011,RMA,LAL,Almeria,04,4,01-15,Right foot,"Open play, inside box",Sergio Ramos,Jerzy Dudek,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+235,M0492,CR7,2011-05-21,2010-11,2011,RMA,LAL,Almeria,76,76,76-90,Right foot,"Open play, inside box",Sergio Ramos,Jerzy Dudek,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+236,M0494,CR7,2011-08-10,2011-12,2011,POR,FRI,Luxembourg,43,43,31-45,Right foot,Direct free kick,,Jonathan Joubert,Estádio Algarve,Loulé,Portugal,Leading,0,Exact,S02+S06
+237,M0496,CR7,2011-08-17,2011-12,2011,RMA,SCE,Barcelona,20,20,16-30,Right foot,"Open play, inside box",Karim Benzema,Victor Valdés,Camp Nou,Barcelona,Spain,Trailing,0,Exact,S02+S06
+238,M0497,CR7,2011-08-28,2011-12,2011,RMA,LAL,Real Zaragoza,23,23,16-30,Left foot,"Open play, inside box",Mesut Ozil,Roberto,Estadio La Romareda,Zaragoza,Spain,Level,1,Exact,S02+S06
+239,M0497,CR7,2011-08-28,2011-12,2011,RMA,LAL,Real Zaragoza,70,70,61-75,Right foot,"Open play, inside box",Angel Di Maria,Roberto,Estadio La Romareda,Zaragoza,Spain,Leading,0,Exact,S02+S06
+240,M0497,CR7,2011-08-28,2011-12,2011,RMA,LAL,Real Zaragoza,86,86,76-90,Right foot,"Open play, inside box",Kaka,Roberto,Estadio La Romareda,Zaragoza,Spain,Leading,0,Exact,S02+S06
+241,M0498,CR7,2011-09-02,2011-12,2011,POR,EUQ,Cyprus,35,35,31-45,Right foot,Penalty,,Antonis Georgallidis,GSP Stadium,Nicosia,Cyprus,Level,1,Exact,S02+S06
+242,M0498,CR7,2011-09-02,2011-12,2011,POR,EUQ,Cyprus,82,82,76-90,Left foot,"Open play, inside box",Nani,Antonis Georgallidis,GSP Stadium,Nicosia,Cyprus,Leading,0,Exact,S02+S06
+243,M0499,CR7,2011-09-10,2011-12,2011,RMA,LAL,Getafe,59,59,46-60,Right foot,Penalty,,Angel Moya,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+244,M0503,CR7,2011-09-24,2011-12,2011,RMA,LAL,Rayo Vallecano,39,39,31-45,Left foot,"Open play, inside box",Kaka,Dani Giménez,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+245,M0503,CR7,2011-09-24,2011-12,2011,RMA,LAL,Rayo Vallecano,51,51,46-60,Right foot,Penalty,,Dani Giménez,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+246,M0503,CR7,2011-09-24,2011-12,2011,RMA,LAL,Rayo Vallecano,84,84,76-90,Right foot,Penalty,,Dani Giménez,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+247,M0504,CR7,2011-09-27,2011-12,2011,RMA,UCL,Ajax,25,25,16-30,Right foot,"Open play, inside box",Karim Benzema,Kenneth Vermeer,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+248,M0507,CR7,2011-10-11,2011-12,2011,POR,EUQ,Denmark,90+2,90,76-90,Right foot,Direct free kick,,Thomas Sörensen,Parken Stadium,Copenhagen,Denmark,Trailing,0,Exact,S02+S06
+249,M0510,CR7,2011-10-22,2011-12,2011,RMA,LAL,Malaga,24,24,16-30,Left foot,"Open play, inside box",Angel Di Maria,Rubén Martinez,Estadio La Rosaleda,Málaga,Spain,Leading,0,Exact,S02+S06
+250,M0510,CR7,2011-10-22,2011-12,2011,RMA,LAL,Malaga,28,28,16-30,Right foot,"Open play, inside box",Angel Di Maria,Rubén Martinez,Estadio La Rosaleda,Málaga,Spain,Leading,0,Exact,S02+S06
+251,M0510,CR7,2011-10-22,2011-12,2011,RMA,LAL,Malaga,38,38,31-45,Right foot,"Open play, inside box",Sergio Ramos,Rubén Martinez,Estadio La Rosaleda,Málaga,Spain,Leading,0,Exact,S02+S06
+252,M0513,CR7,2011-11-02,2011-12,2011,RMA,UCL,Lyon,25,25,16-30,Right foot,Direct free kick,,Hugo Lloris,Stade de Gerland,Lyon,France,Level,1,Exact,S02+S06
+253,M0513,CR7,2011-11-02,2011-12,2011,RMA,UCL,Lyon,69,69,61-75,Right foot,Penalty,,Hugo Lloris,Stade de Gerland,Lyon,France,Leading,0,Exact,S02+S06
+254,M0514,CR7,2011-11-06,2011-12,2011,RMA,LAL,Osasuna,23,23,16-30,Header,"Open play, inside box",Angel Di Maria,Andrés Fernández,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+255,M0514,CR7,2011-11-06,2011-12,2011,RMA,LAL,Osasuna,55,55,46-60,Right foot,Penalty,,Andrés Fernández,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+256,M0514,CR7,2011-11-06,2011-12,2011,RMA,LAL,Osasuna,58,58,46-60,Header,"Open play, inside box",Alvaro Arbeloa,Andrés Fernández,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+257,M0516,CR7,2011-11-15,2011-12,2011,POR,EUQ,Bosnia and Herzegovina,08,8,01-15,Right foot,Direct free kick,,Asmir Begovic,Estádio da Luz,Lisbon,Portugal,Level,0,Exact,S02+S06
+258,M0516,CR7,2011-11-15,2011-12,2011,POR,EUQ,Bosnia and Herzegovina,53,53,46-60,Left foot,"Open play, inside box",Joao Moutinho,Asmir Begovic,Estádio da Luz,Lisbon,Portugal,Leading,0,Exact,S02+S06
+259,M0517,CR7,2011-11-19,2011-12,2011,RMA,LAL,Valencia,79,79,76-90,Right foot,"Open play, inside box",Pepe,Diego Alves,Mestalla,Valencia,Spain,Leading,0,Exact,S02+S06
+260,M0518,CR7,2011-11-26,2011-12,2011,RMA,LAL,Atletico Madrid,24,24,16-30,Right foot,Penalty,,Thibaut Courtois,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+261,M0518,CR7,2011-11-26,2011-12,2011,RMA,LAL,Atletico Madrid,82,82,76-90,Right foot,Penalty,,Thibaut Courtois,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+262,M0519,CR7,2011-12-03,2011-12,2011,RMA,LAL,Sporting Gijon,65,65,61-75,Right foot,"Open play, inside box",Angel Di Maria,Iván Cuéllar,Estadio El Molinón,Gijón,Spain,Leading,0,Exact,S02+S06
+263,M0521,CR7,2011-12-13,2011-12,2011,RMA,CDR,SD Ponferradina,74,74,61-75,Left foot,"Open play, inside box",Gonzalo Higuain,Orlando Quintana,Estadio El Toralín,Ponferrada,Spain,Leading,0,Exact,S02+S06
+264,M0522,CR7,2011-12-17,2011-12,2011,RMA,LAL,Sevilla,10,10,01-15,Right foot,"Open play, inside box",Angel Di Maria,Javi Varas,Estadio Ramón Sánchez Pizjuan,Seville,Spain,Level,0,Exact,S02+S06
+265,M0522,CR7,2011-12-17,2011-12,2011,RMA,LAL,Sevilla,41,41,31-45,Right foot,"Open play, outside box",Angel Di Maria,Javi Varas,Estadio Ramón Sánchez Pizjuan,Seville,Spain,Leading,0,Exact,S02+S06
+266,M0522,CR7,2011-12-17,2011-12,2011,RMA,LAL,Sevilla,86,86,76-90,Right foot,Penalty,,Javi Varas,Estadio Ramón Sánchez Pizjuan,Seville,Spain,Leading,0,Exact,S02+S06
+267,M0524,CR7,2012-01-07,2011-12,2012,RMA,LAL,Granada,89,89,76-90,Right foot,"Open play, outside box",,Roberto Fernández,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+268,M0527,CR7,2012-01-18,2011-12,2012,RMA,CDR,Barcelona,11,11,01-15,Left foot,"Open play, inside box",Karim Benzema,José Manuel Pinto,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+269,M0528,CR7,2012-01-22,2011-12,2012,RMA,LAL,Athletic Bilbao,46,46,46-60,Right foot,Penalty,,Gorka Iraizoz,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+270,M0528,CR7,2012-01-22,2011-12,2012,RMA,LAL,Athletic Bilbao,67,67,61-75,Right foot,Penalty,,Gorka Iraizoz,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+271,M0529,CR7,2012-01-25,2011-12,2012,RMA,CDR,Barcelona,68,68,61-75,Right foot,"Open play, inside box",Mesut Ozil,José Manuel Pinto,Camp Nou,Barcelona,Spain,Trailing,0,Exact,S02+S06
+272,M0530,CR7,2012-01-28,2011-12,2012,RMA,LAL,Real Zaragoza,48,48,46-60,Right foot,"Open play, inside box",Mesut Ozil,Roberto,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+273,M0532,CR7,2012-02-12,2011-12,2012,RMA,LAL,Levante,45,45,31-45,Right foot,Penalty,,Gustavo Munúa,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+274,M0532,CR7,2012-02-12,2011-12,2012,RMA,LAL,Levante,50,50,46-60,Header,"Open play, inside box",Gonzalo Higuain,Roberto,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+275,M0532,CR7,2012-02-12,2011-12,2012,RMA,LAL,Levante,57,57,46-60,Right foot,"Open play, outside box",Fabio Coentrão,Roberto,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+276,M0533,CR7,2012-02-18,2011-12,2012,RMA,LAL,Racing Santander,06,6,01-15,Header,"Open play, inside box",Kaka,Toño,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+277,M0534,CR7,2012-02-21,2011-12,2012,RMA,UCL,CSKA Moscow,28,28,16-30,Left foot,"Open play, inside box",Fabio Coentrão,Sergey Chepchugov,Luzhniki Stadium,Moscow,Russia,Level,0,Exact,S02+S06
+278,M0535,CR7,2012-02-26,2011-12,2012,RMA,LAL,Rayo Vallecano,53,53,46-60,Right foot,"Open play, inside box",Sami Khedira,Joel Robles,Vallecas,Madrid,Spain,Level,1,Exact,S02+S06
+279,M0537,CR7,2012-03-04,2011-12,2012,RMA,LAL,Espanyol,23,23,16-30,Left foot,"Open play, inside box",Gonzalo Higuain,Kiko Casilla,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+280,M0538,CR7,2012-03-10,2011-12,2012,RMA,LAL,Real Betis,52,52,46-60,Left foot,"Open play, inside box",Marcelo,Fabri,Estadio Benito Villamarin,Seville,Spain,Level,0,Exact,S02+S06
+281,M0538,CR7,2012-03-10,2011-12,2012,RMA,LAL,Real Betis,73,73,61-75,Left foot,"Open play, inside box",,Fabri,Estadio Benito Villamarin,Seville,Spain,Level,1,Exact,S02+S06
+282,M0539,CR7,2012-03-14,2011-12,2012,RMA,UCL,CSKA Moscow,55,55,46-60,Right foot,"Open play, outside box",Sergio Ramos,Sergey Chepchugov,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+283,M0539,CR7,2012-03-14,2011-12,2012,RMA,UCL,CSKA Moscow,90+4,90,76-90,Right foot,"Open play, inside box",Karim Benzema,Sergey Chepchugov,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+284,M0541,CR7,2012-03-21,2011-12,2012,RMA,LAL,Villarreal,61,61,61-75,Right foot,"Open play, inside box",Mesut Ozil,Diego López,El Madrigal,Villarreal,Spain,Level,0,Exact,S02+S06
+285,M0542,CR7,2012-03-24,2011-12,2012,RMA,LAL,Real Sociedad,32,32,31-45,Right foot,"Open play, inside box",Kaka,Claudio Bravo,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+286,M0542,CR7,2012-03-24,2011-12,2012,RMA,LAL,Real Sociedad,55,55,46-60,Right foot,"Open play, inside box",Gonzalo Higuain,Claudio Bravo,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+287,M0544,CR7,2012-03-31,2011-12,2012,RMA,LAL,Osasuna,37,37,31-45,Right foot,"Open play, outside box",Xabi Alonso,Andrés Fernández,Estadio El Sadar,Pamplona,Spain,Leading,0,Exact,S02+S06
+288,M0544,CR7,2012-03-31,2011-12,2012,RMA,LAL,Osasuna,70,70,61-75,Right foot,Direct free kick,,Andrés Fernández,Estadio El Sadar,Pamplona,Spain,Leading,0,Exact,S02+S06
+289,M0545,CR7,2012-04-04,2011-12,2012,RMA,UCL,APOEL,26,26,16-30,Right foot,"Open play, inside box",Marcelo,Urko Pardo,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+290,M0545,CR7,2012-04-04,2011-12,2012,RMA,UCL,APOEL,75,75,61-75,Right foot,Direct free kick,,Urko Pardo,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+291,M0547,CR7,2012-04-11,2011-12,2012,RMA,LAL,Atletico Madrid,24,24,16-30,Right foot,Direct free kick,,Thibaut Courtois,Estadio Vicente Calderón,Madrid,Spain,Level,0,Exact,S02+S06
+292,M0547,CR7,2012-04-11,2011-12,2012,RMA,LAL,Atletico Madrid,67,67,61-75,Right foot,"Open play, outside box",Xabi Alonso,Thibaut Courtois,Estadio Vicente Calderón,Madrid,Spain,Level,1,Exact,S02+S06
+293,M0547,CR7,2012-04-11,2011-12,2012,RMA,LAL,Atletico Madrid,82,82,76-90,Right foot,Penalty,,Thibaut Courtois,Estadio Vicente Calderón,Madrid,Spain,Leading,0,Exact,S02+S06
+294,M0548,CR7,2012-04-14,2011-12,2012,RMA,LAL,Sporting Gijon,74,74,61-75,Header,"Open play, inside box",Angel Di Maria,Juan Pablo,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+295,M0550,CR7,2012-04-21,2011-12,2012,RMA,LAL,Barcelona,73,73,61-75,Right foot,"Open play, inside box",Mesut Ozil,Victor Valdés,Camp Nou,Barcelona,Spain,Level,1,Exact,S02+S06
+296,M0551,CR7,2012-04-25,2011-12,2012,RMA,UCL,Bayern Munich,06,6,01-15,Right foot,Penalty,,Manuel Neuer,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+297,M0551,CR7,2012-04-25,2011-12,2012,RMA,UCL,Bayern Munich,14,14,01-15,Right foot,"Open play, inside box",Mesut Ozil,Manuel Neuer,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+298,M0552,CR7,2012-04-29,2011-12,2012,RMA,LAL,Sevilla,19,19,16-30,Right foot,"Open play, inside box",Karim Benzema,Javi Varas,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+299,M0553,CR7,2012-05-02,2011-12,2012,RMA,LAL,Athletic Bilbao,49,49,46-60,Header,"Open play, inside box",Xabi Alonso,Gorka Iraizoz,San Mamés (Old),Bilbao,Spain,Leading,0,Exact,S02+S06
+300,M0554,CR7,2012-05-05,2011-12,2012,RMA,LAL,Granada,81,81,76-90,Right foot,Penalty,,Antonio Adán,Nuevo Los Cármenes,Granada,Spain,Trailing,0,Exact,S02+S06
+301,M0555,CR7,2012-05-13,2011-12,2012,RMA,LAL,Mallorca,18,18,16-30,Header,"Open play, inside box",Marcelo,Dudu Aouate,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+302,M0560,CR7,2012-06-17,2011-12,2012,POR,EUR,Netherlands,28,28,16-30,Right foot,"Open play, inside box",Joao Pereira,Maarten Stekelenburg,Metalist Stadium,Kharkiv,Ukraine,Trailing,0,Exact,S02+S06
+303,M0560,CR7,2012-06-17,2011-12,2012,POR,EUR,Netherlands,74,74,61-75,Right foot,"Open play, inside box",Nani,Maarten Stekelenburg,Metalist Stadium,Kharkiv,Ukraine,Level,1,Exact,S02+S06
+304,M0561,CR7,2012-06-21,2011-12,2012,POR,EUR,Czech Republic,79,79,76-90,Header,"Open play, inside box",Joao Moutinho,Petr Cech,National Stadium,Warsaw,Poland,Level,1,Exact,S02+S06
+305,M0563,CR7,2012-08-15,2012-13,2012,POR,FRI,Panama,51,51,46-60,Right foot,"Open play, outside box",Raul Meireles,Jaime Penedo,Estádio Algarve,Loulé,Portugal,Leading,0,Exact,S02+S06
+306,M0565,CR7,2012-08-23,2012-13,2012,RMA,SCE,Barcelona,55,55,46-60,Header,"Open play, inside box",Mesut Ozil,Victor Valdés,Camp Nou,Barcelona,Spain,Level,0,Exact,S02+S06
+307,M0567,CR7,2012-08-29,2012-13,2012,RMA,SCE,Barcelona,19,19,16-30,Right foot,"Open play, inside box",Sami Khedira,Victor Valdés,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+308,M0568,CR7,2012-09-02,2012-13,2012,RMA,LAL,Granada,25,25,16-30,Left foot,"Open play, inside box",José Callejon,Toño,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+309,M0568,CR7,2012-09-02,2012-13,2012,RMA,LAL,Granada,53,53,46-60,Left foot,"Open play, inside box",,Toño,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+310,M0569,CR7,2012-09-07,2012-13,2012,POR,WCQ,Luxembourg,28,28,16-30,Right foot,"Open play, inside box",Joao Moutinho,Jonathan Joubert,Stade Josy Barthel,Luxembourg City,Luxembourg,Trailing,0,Exact,S02+S06
+311,M0572,CR7,2012-09-18,2012-13,2012,RMA,UCL,Manchester City,90,90,76-90,Right foot,"Open play, inside box",Marcelo,Joe Hart,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+312,M0573,CR7,2012-09-24,2012-13,2012,RMA,LAL,Rayo Vallecano,69,69,61-75,Right foot,Penalty,,Rubén Martinez,Vallecas,Madrid,Spain,Leading,0,Exact,S02+S06
+313,M0574,CR7,2012-09-30,2012-13,2012,RMA,LAL,Deportivo La Coruna,23,23,16-30,Right foot,Penalty,,Daniel Aranzubia,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+314,M0574,CR7,2012-09-30,2012-13,2012,RMA,LAL,Deportivo La Coruna,44,44,31-45,Header,"Open play, inside box",Sergio Ramos,Daniel Aranzubia,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+315,M0574,CR7,2012-09-30,2012-13,2012,RMA,LAL,Deportivo La Coruna,84,84,76-90,Right foot,Penalty,,Daniel Aranzubia,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+316,M0575,CR7,2012-10-03,2012-13,2012,RMA,UCL,Ajax,42,42,31-45,Right foot,"Open play, inside box",Karim Benzema,Kenneth Vermeer,Amsterdam Arena,Amsterdam,Netherlands,Level,0,Exact,S02+S06
+317,M0575,CR7,2012-10-03,2012-13,2012,RMA,UCL,Ajax,79,79,76-90,Right foot,"Open play, outside box",Karim Benzema,Kenneth Vermeer,Amsterdam Arena,Amsterdam,Netherlands,Leading,0,Exact,S02+S06
+318,M0575,CR7,2012-10-03,2012-13,2012,RMA,UCL,Ajax,81,81,76-90,Left foot,"Open play, inside box",Sami Khedira,Kenneth Vermeer,Amsterdam Arena,Amsterdam,Netherlands,Leading,0,Exact,S02+S06
+319,M0576,CR7,2012-10-07,2012-13,2012,RMA,LAL,Barcelona,22,22,16-30,Left foot,"Open play, inside box",Karim Benzema,Victor Valdés,Camp Nou,Barcelona,Spain,Level,0,Exact,S02+S06
+320,M0576,CR7,2012-10-07,2012-13,2012,RMA,LAL,Barcelona,66,66,61-75,Right foot,"Open play, inside box",Mesut Ozil,Victor Valdés,Camp Nou,Barcelona,Spain,Trailing,0,Exact,S02+S06
+321,M0579,CR7,2012-10-20,2012-13,2012,RMA,LAL,Celta Vigo,67,67,61-75,Right foot,Penalty,,Sergio Alvarez,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+322,M0580,CR7,2012-10-24,2012-13,2012,RMA,UCL,Borussia Dortmund,38,38,31-45,Right foot,"Open play, outside box",Mesut Ozil,Roman Weidenfeller,Signal Iduna Park,Dortmund,Germany,Trailing,0,Exact,S02+S06
+323,M0581,CR7,2012-10-28,2012-13,2012,RMA,LAL,Mallorca,22,22,16-30,Right foot,"Open play, inside box",Gonzalo Higuain,Dudu Aouate,Iberostar Estadi,Palma de Mallorca,Spain,Leading,0,Exact,S02+S06
+324,M0581,CR7,2012-10-28,2012-13,2012,RMA,LAL,Mallorca,73,73,61-75,Right foot,"Open play, outside box",Gonzalo Higuain,Dudu Aouate,Iberostar Estadi,Palma de Mallorca,Spain,Leading,0,Exact,S02+S06
+325,M0584,CR7,2012-11-11,2012-13,2012,RMA,LAL,Levante,20,20,16-30,Right foot,"Open play, inside box",,Gustavo Munúa,Ciudad de Valencia,Valencia,Spain,Level,0,Exact,S02+S06
+326,M0588,CR7,2012-12-01,2012-13,2012,RMA,LAL,Atletico Madrid,16,16,16-30,Right foot,Direct free kick,,Thibaut Courtois,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+327,M0589,CR7,2012-12-04,2012-13,2012,RMA,UCL,Ajax,13,13,01-15,Right foot,"Open play, inside box",Karim Benzema,Kenneth Vermeer,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+328,M0591,CR7,2012-12-12,2012-13,2012,RMA,CDR,Celta Vigo,87,87,76-90,Left foot,"Open play, inside box",Xabi Alonso,Sergio Alvarez,Estadio Balaídos,Vigo,Spain,Trailing,0,Exact,S02+S06
+329,M0592,CR7,2012-12-16,2012-13,2012,RMA,LAL,Espanyol,45,45,31-45,Right foot,"Open play, inside box",Sami Khedira,Kiko Casilla,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+330,M0594,CR7,2013-01-06,2012-13,2013,RMA,LAL,Real Sociedad,67,67,61-75,Left foot,"Open play, inside box",Karim Benzema,Claudio Bravo,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+331,M0594,CR7,2013-01-06,2012-13,2013,RMA,LAL,Real Sociedad,70,70,61-75,Right foot,Direct free kick,,Claudio Bravo,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+332,M0595,CR7,2013-01-09,2012-13,2013,RMA,CDR,Celta Vigo,02,2,01-15,Right foot,"Open play, outside box",Alvaro Arbeloa,Sergio Alvarez,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+333,M0595,CR7,2013-01-09,2012-13,2013,RMA,CDR,Celta Vigo,24,24,16-30,Left foot,"Open play, inside box",Luka Modric,Sergio Alvarez,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+334,M0595,CR7,2013-01-09,2012-13,2013,RMA,CDR,Celta Vigo,87,87,76-90,Left foot,"Open play, inside box",Gonzalo Higuain,Sergio Alvarez,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+335,M0597,CR7,2013-01-20,2012-13,2013,RMA,LAL,Valencia,35,35,31-45,Left foot,"Open play, inside box",Fabio Coentrão,Diego Alves,Mestalla,Valencia,Spain,Leading,0,Exact,S02+S06
+336,M0597,CR7,2013-01-20,2012-13,2013,RMA,LAL,Valencia,41,41,31-45,Right foot,"Open play, inside box",Mesut Ozil,Diego Alves,Mestalla,Valencia,Spain,Leading,0,Exact,S02+S06
+337,M0599,CR7,2013-01-27,2012-13,2013,RMA,LAL,Getafe,62,62,61-75,Left foot,"Open play, inside box",Mesut Ozil,Angel Moya,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+338,M0599,CR7,2013-01-27,2012-13,2013,RMA,LAL,Getafe,65,65,61-75,Header,"Open play, inside box",Angel Di Maria,Angel Moya,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+339,M0599,CR7,2013-01-27,2012-13,2013,RMA,LAL,Getafe,72,72,61-75,Right foot,Penalty,,Angel Moya,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+340,M0602,CR7,2013-02-06,2012-13,2013,POR,FRI,Ecuador,23,23,16-30,Right foot,"Open play, inside box",Fabio Coentrão,Maximo Banguera,Estádio D. Afonso Henriques,Guimarães,Portugal,Trailing,0,Exact,S02+S06
+341,M0603,CR7,2013-02-09,2012-13,2013,RMA,LAL,Sevilla,26,26,16-30,Left foot,"Open play, outside box",Kaka,Beto,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+342,M0603,CR7,2013-02-09,2012-13,2013,RMA,LAL,Sevilla,46,46,46-60,Left foot,"Open play, inside box",Alvaro Arbeloa,Beto,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+343,M0603,CR7,2013-02-09,2012-13,2013,RMA,LAL,Sevilla,59,59,46-60,Right foot,"Open play, inside box",Gonzalo Higuain,Beto,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+344,M0604,CR7,2013-02-13,2012-13,2013,RMA,UCL,Manchester United,30,30,16-30,Header,"Open play, inside box",Angel Di Maria,David De Gea,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+345,M0607,CR7,2013-02-26,2012-13,2013,RMA,CDR,Barcelona,12,12,01-15,Right foot,Penalty,,José Manuel Pinto,Camp Nou,Barcelona,Spain,Level,0,Exact,S02+S06
+346,M0607,CR7,2013-02-26,2012-13,2013,RMA,CDR,Barcelona,57,57,46-60,Left foot,"Open play, inside box",,José Manuel Pinto,Camp Nou,Barcelona,Spain,Leading,0,Exact,S02+S06
+347,M0609,CR7,2013-03-05,2012-13,2013,RMA,UCL,Manchester United,69,69,61-75,Right foot,"Open play, inside box",Gonzalo Higuain,David De Gea,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+348,M0610,CR7,2013-03-10,2012-13,2013,RMA,LAL,Celta Vigo,61,61,61-75,Left foot,"Open play, inside box",José Callejon,Javi Varas,Estadio Balaídos,Vigo,Spain,Level,0,Exact,S02+S06
+349,M0610,CR7,2013-03-10,2012-13,2013,RMA,LAL,Celta Vigo,71,71,61-75,Right foot,Penalty,,Javi Varas,Estadio Balaídos,Vigo,Spain,Level,1,Exact,S02+S06
+350,M0611,CR7,2013-03-16,2012-13,2013,RMA,LAL,Mallorca,52,52,46-60,Header,"Open play, inside box",Mesut Ozil,Dudu Aouate,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+351,M0613,CR7,2013-03-30,2012-13,2013,RMA,LAL,Real Zaragoza,38,38,31-45,Left foot,"Open play, inside box",,Roberto,Estadio La Romareda,Zaragoza,Spain,Trailing,0,Exact,S02+S06
+352,M0614,CR7,2013-04-03,2012-13,2013,RMA,UCL,Galatasaray,09,9,01-15,Left foot,"Open play, inside box",Mesut Ozil,Fernando Muslera,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+353,M0615,CR7,2013-04-06,2012-13,2013,RMA,LAL,Levante,84,84,76-90,Right foot,"Open play, inside box",Gonzalo Higuain,Gustavo Munúa,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+354,M0616,CR7,2013-04-09,2012-13,2013,RMA,UCL,Galatasaray,08,8,01-15,Right foot,"Open play, inside box",Sami Khedira,Fernando Muslera,Türk Telekom Arena,Istanbul,Turkey,Leading,0,Exact,S02+S06
+355,M0616,CR7,2013-04-09,2012-13,2013,RMA,UCL,Galatasaray,90+2,90,76-90,Right foot,"Open play, inside box",Karim Benzema,Fernando Muslera,Türk Telekom Arena,Istanbul,Turkey,Leading,0,Exact,S02+S06
+356,M0617,CR7,2013-04-14,2012-13,2013,RMA,LAL,Athletic Bilbao,02,2,01-15,Right foot,Direct free kick,,Gorka Iraizoz,San Mamés (Old),Bilbao,Spain,Level,1,Exact,S02+S06
+357,M0617,CR7,2013-04-14,2012-13,2013,RMA,LAL,Athletic Bilbao,68,68,61-75,Header,"Open play, inside box",Xabi Alonso,Gorka Iraizoz,San Mamés (Old),Bilbao,Spain,Leading,0,Exact,S02+S06
+358,M0619,CR7,2013-04-24,2012-13,2013,RMA,UCL,Borussia Dortmund,43,43,31-45,Right foot,"Open play, inside box",,Roman Weidenfeller,Signal Iduna Park,Dortmund,Germany,Trailing,0,Exact,S02+S06
+359,M0621,CR7,2013-05-04,2012-13,2013,RMA,LAL,Real Valladolid,32,32,31-45,Header,"Open play, inside box",Angel Di Maria,Jaime Jimenez,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+360,M0621,CR7,2013-05-04,2012-13,2013,RMA,LAL,Real Valladolid,70,70,61-75,Header,"Open play, inside box",Mesut Ozil,Jaime Jimenez,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+361,M0622,CR7,2013-05-08,2012-13,2013,RMA,LAL,Malaga,26,26,16-30,Right foot,Direct free kick,Xabi Alonso,Willy Caballero,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+362,M0624,CR7,2013-05-17,2012-13,2013,RMA,CDR,Atletico Madrid,14,14,01-15,Header,"Open play, inside box",Luka Modric,Thibaut Courtois,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+363,M0626,CR7,2013-06-10,2012-13,2013,POR,FRI,Croatia,36,36,31-45,Left foot,"Open play, inside box",Silvestre Varela,Danijel Subasic,Stade de Genève,Geneva,Switzerland,Level,1,Exact,S02+S06
+364,M0627,CR7,2013-08-14,2013-14,2013,POR,FRI,Netherlands,87,87,76-90,Left foot,"Open play, inside box",Pepe,Michel Vorm,Estádio Algarve,Loulé,Portugal,Trailing,0,Exact,S02+S06
+365,M0630,CR7,2013-09-01,2013-14,2013,RMA,LAL,Athletic Bilbao,45,45,31-45,Header,"Open play, inside box",Angel Di Maria,Iago Herrerín,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+366,M0631,CR7,2013-09-06,2013-14,2013,POR,WCQ,Northern Ireland,68,68,61-75,Header,"Open play, inside box",Joao Moutinho,Roy Carroll,Windsor Park,Belfast,Northern Ireland,Trailing,0,Exact,S02+S06
+367,M0631,CR7,2013-09-06,2013-14,2013,POR,WCQ,Northern Ireland,77,77,76-90,Header,"Open play, inside box",Fabio Coentrão,Roy Carroll,Windsor Park,Belfast,Northern Ireland,Level,1,Exact,S02+S06
+368,M0631,CR7,2013-09-06,2013-14,2013,POR,WCQ,Northern Ireland,83,83,76-90,Right foot,Direct free kick,,Roy Carroll,Windsor Park,Belfast,Northern Ireland,Leading,0,Exact,S02+S06
+369,M0632,CR7,2013-09-14,2013-14,2013,RMA,LAL,Villarreal,64,64,61-75,Right foot,"Open play, inside box",,Sergio Asenjo,El Madrigal,Villarreal,Spain,Level,0,Exact,S02+S06
+370,M0633,CR7,2013-09-17,2013-14,2013,RMA,UCL,Galatasaray,63,63,61-75,Left foot,"Open play, inside box",Isco,Fernando Muslera,Türk Telekom Arena,Istanbul,Turkey,Leading,0,Exact,S02+S06
+371,M0633,CR7,2013-09-17,2013-14,2013,RMA,UCL,Galatasaray,66,66,61-75,Right foot,"Open play, inside box",,Fernando Muslera,Türk Telekom Arena,Istanbul,Turkey,Leading,0,Exact,S02+S06
+372,M0633,CR7,2013-09-17,2013-14,2013,RMA,UCL,Galatasaray,90,90,76-90,Left foot,"Open play, inside box",Karim Benzema,Fernando Muslera,Türk Telekom Arena,Istanbul,Turkey,Leading,0,Exact,S02+S06
+373,M0634,CR7,2013-09-22,2013-14,2013,RMA,LAL,Getafe,34,34,31-45,Right foot,Penalty,,Angel Moya,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+374,M0634,CR7,2013-09-22,2013-14,2013,RMA,LAL,Getafe,90,90,76-90,Right foot,"Open play, inside box",Sami Khedira,Angel Moya,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+375,M0635,CR7,2013-09-25,2013-14,2013,RMA,LAL,Elche,51,51,46-60,Right foot,Direct free kick,,Manu Herrera,Estadio Martínez Valero,Elche,Spain,Level,0,Exact,S02+S06
+376,M0635,CR7,2013-09-25,2013-14,2013,RMA,LAL,Elche,90+6,90,76-90,Right foot,Penalty,,Manu Herrera,Estadio Martínez Valero,Elche,Spain,Level,1,Exact,S02+S06
+377,M0637,CR7,2013-10-02,2013-14,2013,RMA,UCL,FC Copenhagen,21,21,16-30,Header,"Open play, inside box",Marcelo,Johan Sellberg-Wiland,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+378,M0637,CR7,2013-10-02,2013-14,2013,RMA,UCL,FC Copenhagen,65,65,61-75,Header,"Open play, inside box",Angel Di Maria,Johan Sellberg-Wiland,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+379,M0638,CR7,2013-10-05,2013-14,2013,RMA,LAL,Levante,90+4,90,76-90,Right foot,"Open play, inside box",Luka Modric,Keylor Navas,Ciudad de Valencia,Valencia,Spain,Level,1,Exact,S02+S06
+380,M0640,CR7,2013-10-19,2013-14,2013,RMA,LAL,Malaga,90+1,90,76-90,Right foot,Penalty,,Willy Caballero,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+381,M0641,CR7,2013-10-23,2013-14,2013,RMA,UCL,Juventus,04,4,01-15,Right foot,"Open play, inside box",Angel Di Maria,Gianluigi Buffon,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+382,M0641,CR7,2013-10-23,2013-14,2013,RMA,UCL,Juventus,29,29,16-30,Right foot,Penalty,,Gianluigi Buffon,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+383,M0643,CR7,2013-10-30,2013-14,2013,RMA,LAL,Sevilla,31,31,31-45,Right foot,Penalty,,Beto,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+384,M0643,CR7,2013-10-30,2013-14,2013,RMA,LAL,Sevilla,60,60,46-60,Right foot,"Open play, inside box",Gareth Bale,Beto,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+385,M0643,CR7,2013-10-30,2013-14,2013,RMA,LAL,Sevilla,71,71,61-75,Right foot,"Open play, inside box",Karim Benzema,Beto,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+386,M0644,CR7,2013-11-02,2013-14,2013,RMA,LAL,Rayo Vallecano,03,3,01-15,Right foot,"Open play, inside box",Luka Modric,Rubén Martinez,Vallecas,Madrid,Spain,Level,0,Exact,S02+S06
+387,M0644,CR7,2013-11-02,2013-14,2013,RMA,LAL,Rayo Vallecano,48,48,46-60,Right foot,"Open play, inside box",Gareth Bale,Rubén Martinez,Vallecas,Madrid,Spain,Leading,0,Exact,S02+S06
+388,M0645,CR7,2013-11-05,2013-14,2013,RMA,UCL,Juventus,52,52,46-60,Right foot,"Open play, inside box",Karim Benzema,Gianluigi Buffon,Juventus Stadium,Turin,Italy,Trailing,0,Exact,S02+S06
+389,M0646,CR7,2013-11-09,2013-14,2013,RMA,LAL,Real Sociedad,12,12,01-15,Right foot,"Open play, inside box",Karim Benzema,Claudio Bravo,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+390,M0646,CR7,2013-11-09,2013-14,2013,RMA,LAL,Real Sociedad,27,27,16-30,Right foot,Penalty,,Claudio Bravo,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+391,M0646,CR7,2013-11-09,2013-14,2013,RMA,LAL,Real Sociedad,76,76,76-90,Right foot,Direct free kick,,Claudio Bravo,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+392,M0647,CR7,2013-11-15,2013-14,2013,POR,WCQ,Sweden,82,82,76-90,Header,"Open play, inside box",Miguel Veloso,Andreas Isaksson,Estádio da Luz,Lisbon,Portugal,Level,1,Exact,S02+S06
+393,M0648,CR7,2013-11-19,2013-14,2013,POR,WCQ,Sweden,50,50,46-60,Left foot,"Open play, inside box",Joao Moutinho,Andreas Isaksson,Friends Arena,Solna,Sweden,Leading,0,Exact,S02+S06
+394,M0648,CR7,2013-11-19,2013-14,2013,POR,WCQ,Sweden,77,77,76-90,Left foot,"Open play, inside box",Hugo Almeida,Andreas Isaksson,Friends Arena,Solna,Sweden,Level,1,Exact,S02+S06
+395,M0648,CR7,2013-11-19,2013-14,2013,POR,WCQ,Sweden,79,79,76-90,Right foot,"Open play, inside box",Joao Moutinho,Andreas Isaksson,Friends Arena,Solna,Sweden,Leading,0,Exact,S02+S06
+396,M0649,CR7,2013-11-23,2013-14,2013,RMA,LAL,Almeria,03,3,01-15,Left foot,"Open play, inside box",Isco,Esteban,Estadio de los Juegos Mediterráneos,Almería,Spain,Level,1,Exact,S02+S06
+397,M0650,CR7,2013-12-10,2013-14,2013,RMA,UCL,FC Copenhagen,48,48,46-60,Right foot,"Open play, inside box",Pepe,Johan Sellberg-Wiland,Parken Stadium,Copenhagen,Denmark,Leading,0,Exact,S02+S06
+398,M0652,CR7,2013-12-22,2013-14,2013,RMA,LAL,Valencia,40,40,31-45,Header,"Open play, inside box",Angel Di Maria,Vicente Guaita,Mestalla,Valencia,Spain,Level,0,Exact,S02+S06
+399,M0653,CR7,2014-01-06,2013-14,2014,RMA,LAL,Celta Vigo,82,82,76-90,Right foot,"Open play, inside box",Dani Carvajal,Yoel Rodriguez,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+400,M0653,CR7,2014-01-06,2013-14,2014,RMA,LAL,Celta Vigo,90,90,76-90,Right foot,"Open play, inside box",Gareth Bale,Yoel Rodriguez,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+401,M0656,CR7,2014-01-15,2013-14,2014,RMA,CDR,Osasuna,22,22,16-30,Right foot,Direct free kick,,Andrés Fernández,Estadio El Sadar,Pamplona,Spain,Level,1,Exact,S02+S06
+402,M0657,CR7,2014-01-18,2013-14,2014,RMA,LAL,Real Betis,10,10,01-15,Right foot,"Open play, outside box",Angel Di Maria,Stephan Andersen,Estadio Benito Villamarin,Seville,Spain,Level,1,Exact,S02+S06
+403,M0659,CR7,2014-01-25,2013-14,2014,RMA,LAL,Granada,57,57,46-60,Left foot,"Open play, inside box",Luka Modric,Roberto Fernández,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+404,M0663,CR7,2014-02-11,2013-14,2014,RMA,CDR,Atletico Madrid,06,6,01-15,Right foot,Penalty,,Daniel Aranzubia,Estadio Vicente Calderón,Madrid,Spain,Leading,0,Exact,S02+S06
+405,M0663,CR7,2014-02-11,2013-14,2014,RMA,CDR,Atletico Madrid,15,15,01-15,Right foot,Penalty,,Daniel Aranzubia,Estadio Vicente Calderón,Madrid,Spain,Leading,0,Exact,S02+S06
+406,M0664,CR7,2014-02-26,2013-14,2014,RMA,UCL,Schalke,52,52,46-60,Left foot,"Open play, inside box",Gareth Bale,Ralf Fahrmann,Veltins-Arena,Gelsenkirchen,Germany,Leading,0,Exact,S02+S06
+407,M0664,CR7,2014-02-26,2013-14,2014,RMA,UCL,Schalke,89,89,76-90,Right foot,"Open play, inside box",Karim Benzema,Ralf Fahrmann,Veltins-Arena,Gelsenkirchen,Germany,Leading,0,Exact,S02+S06
+408,M0665,CR7,2014-03-02,2013-14,2014,RMA,LAL,Atletico Madrid,82,82,76-90,Right foot,"Open play, inside box",Gareth Bale,Thibaut Courtois,Estadio Vicente Calderón,Madrid,Spain,Trailing,0,Exact,S02+S06
+409,M0666,CR7,2014-03-05,2013-14,2014,POR,FRI,Cameroon,21,21,16-30,Right foot,"Open play, inside box",Joao Pereira,Charles Itandje,Estádio Dr. Magalhães Pessoa,Leiria,Portugal,Level,0,Exact,S02+S06
+410,M0666,CR7,2014-03-05,2013-14,2014,POR,FRI,Cameroon,83,83,76-90,Right foot,"Open play, inside box",Miguel Veloso,Charles Itandje,Estádio Dr. Magalhães Pessoa,Leiria,Portugal,Leading,0,Exact,S02+S06
+411,M0667,CR7,2014-03-09,2013-14,2014,RMA,LAL,Levante,11,11,01-15,Header,"Open play, inside box",Angel Di Maria,Keylor Navas,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+412,M0668,CR7,2014-03-15,2013-14,2014,RMA,LAL,Malaga,23,23,16-30,Right foot,"Open play, inside box",Gareth Bale,Willy Caballero,Estadio La Rosaleda,Málaga,Spain,Level,1,Exact,S02+S06
+413,M0669,CR7,2014-03-18,2013-14,2014,RMA,UCL,Schalke,22,22,16-30,Right foot,"Open play, inside box",Gareth Bale,Ralf Fahrmann,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+414,M0669,CR7,2014-03-18,2013-14,2014,RMA,UCL,Schalke,74,74,61-75,Right foot,"Open play, inside box",,Ralf Fahrmann,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+415,M0670,CR7,2014-03-23,2013-14,2014,RMA,LAL,Barcelona,55,55,46-60,Right foot,Penalty,,Victor Valdés,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+416,M0671,CR7,2014-03-26,2013-14,2014,RMA,LAL,Sevilla,14,14,01-15,Right foot,Direct free kick,,Beto,Estadio Ramón Sánchez Pizjuan,Seville,Spain,Level,0,Exact,S02+S06
+417,M0672,CR7,2014-03-29,2013-14,2014,RMA,LAL,Rayo Vallecano,15,15,01-15,Right foot,"Open play, inside box",Gareth Bale,Rubén Martinez,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+418,M0673,CR7,2014-04-02,2013-14,2014,RMA,UCL,Borussia Dortmund,57,57,46-60,Left foot,"Open play, inside box",Luka Modric,Roman Weidenfeller,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+419,M0675,CR7,2014-04-26,2013-14,2014,RMA,LAL,Osasuna,06,6,01-15,Right foot,"Open play, outside box",Angel Di Maria,Andrés Fernández,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+420,M0675,CR7,2014-04-26,2013-14,2014,RMA,LAL,Osasuna,52,52,46-60,Right foot,"Open play, outside box",Isco,Andrés Fernández,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+421,M0676,CR7,2014-04-29,2013-14,2014,RMA,UCL,Bayern Munich,34,34,31-45,Right foot,"Open play, inside box",Gareth Bale,Manuel Neuer,Allianz Arena,Munich,Germany,Leading,0,Exact,S02+S06
+422,M0676,CR7,2014-04-29,2013-14,2014,RMA,UCL,Bayern Munich,90,90,76-90,Right foot,Direct free kick,,Manuel Neuer,Allianz Arena,Munich,Germany,Leading,0,Exact,S02+S06
+423,M0677,CR7,2014-05-04,2013-14,2014,RMA,LAL,Valencia,90,90,76-90,Right foot,"Open play, inside box",Angel Di Maria,Diego Alves,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+424,M0679,CR7,2014-05-24,2013-14,2014,RMA,UCL,Atletico Madrid,120,120,90+ and extra time,Right foot,Penalty,,Thibaut Courtois,Estádio da Luz,Lisbon,Portugal,Leading,0,Exact,S02+S06
+425,M0683,CR7,2014-06-26,2013-14,2014,POR,WC,Ghana,80,80,76-90,Left foot,"Open play, inside box",,Fatau Dauda,Estádio Nacional Mané Garrincha,Brasília,Brazil,Level,1,Exact,S02+S06
+426,M0684,CR7,2014-08-12,2014-15,2014,RMA,USC,Sevilla,30,30,16-30,Right foot,"Open play, inside box",Gareth Bale,Beto,Cardiff City Stadium,Cardiff,Wales,Level,1,Exact,S02+S06
+427,M0684,CR7,2014-08-12,2014-15,2014,RMA,USC,Sevilla,49,49,46-60,Left foot,"Open play, inside box",Karim Benzema,Beto,Cardiff City Stadium,Cardiff,Wales,Leading,0,Exact,S02+S06
+428,M0687,CR7,2014-08-25,2014-15,2014,RMA,LAL,Cordoba,90,90,76-90,Right foot,"Open play, outside box",Isco,Juan Carlos,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+429,M0688,CR7,2014-09-13,2014-15,2014,RMA,LAL,Atletico Madrid,25,25,16-30,Right foot,Penalty,,Angel Moya,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+430,M0689,CR7,2014-09-16,2014-15,2014,RMA,UCL,FC Basel,31,31,31-45,Right foot,"Open play, inside box",Gareth Bale,Tomás Vaclik,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+431,M0690,CR7,2014-09-20,2014-15,2014,RMA,LAL,Deportivo La Coruna,29,29,16-30,Header,"Open play, inside box",Alvaro Arbeloa,Germán Lux,Estadio Riazor,A Coruña,Spain,Level,0,Exact,S02+S06
+432,M0690,CR7,2014-09-20,2014-15,2014,RMA,LAL,Deportivo La Coruna,41,41,31-45,Left foot,"Open play, outside box",Karim Benzema,Germán Lux,Estadio Riazor,A Coruña,Spain,Leading,0,Exact,S02+S06
+433,M0690,CR7,2014-09-20,2014-15,2014,RMA,LAL,Deportivo La Coruna,78,78,76-90,Left foot,"Open play, inside box",James Rodriguez,Germán Lux,Estadio Riazor,A Coruña,Spain,Leading,0,Exact,S02+S06
+434,M0691,CR7,2014-09-23,2014-15,2014,RMA,LAL,Elche,28,28,16-30,Right foot,Penalty,,Manu Herrera,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+435,M0691,CR7,2014-09-23,2014-15,2014,RMA,LAL,Elche,32,32,31-45,Header,"Open play, inside box",Marcelo,Manu Herrera,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+436,M0691,CR7,2014-09-23,2014-15,2014,RMA,LAL,Elche,80,80,76-90,Right foot,Penalty,,Manu Herrera,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+437,M0691,CR7,2014-09-23,2014-15,2014,RMA,LAL,Elche,90,90,76-90,Right foot,"Open play, inside box",Gareth Bale,Manu Herrera,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+438,M0692,CR7,2014-09-27,2014-15,2014,RMA,LAL,Villarreal,40,40,31-45,Right foot,"Open play, inside box",Karim Benzema,Sergio Asenjo,El Madrigal,Villarreal,Spain,Leading,0,Exact,S02+S06
+439,M0693,CR7,2014-10-01,2014-15,2014,RMA,UCL,Ludogorets,25,25,16-30,Right foot,Penalty,,Vladislav Stoyanov,Vasil Levski National Stadium,Sofia,Bulgaria,Trailing,0,Exact,S02+S06
+440,M0694,CR7,2014-10-05,2014-15,2014,RMA,LAL,Athletic Bilbao,03,3,01-15,Header,"Open play, inside box",Gareth Bale,Gorka Iraizoz,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+441,M0694,CR7,2014-10-05,2014-15,2014,RMA,LAL,Athletic Bilbao,55,55,46-60,Right foot,"Open play, inside box",Gareth Bale,Gorka Iraizoz,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+442,M0694,CR7,2014-10-05,2014-15,2014,RMA,LAL,Athletic Bilbao,89,89,76-90,Other,"Open play, inside box",Pepe,Gorka Iraizoz,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+443,M0696,CR7,2014-10-14,2014-15,2014,POR,EUQ,Denmark,90+5,90,76-90,Header,"Open play, inside box",Ricardo Quaresma,Kasper Schmeichel,Parken Stadium,Copenhagen,Denmark,Level,1,Exact,S02+S06
+444,M0697,CR7,2014-10-18,2014-15,2014,RMA,LAL,Levante,13,13,01-15,Right foot,Penalty,,Diego Marino,Ciudad de Valencia,Valencia,Spain,Level,1,Exact,S02+S06
+445,M0697,CR7,2014-10-18,2014-15,2014,RMA,LAL,Levante,61,61,61-75,Right foot,"Open play, inside box",Isco,Diego Marino,Ciudad de Valencia,Valencia,Spain,Leading,0,Exact,S02+S06
+446,M0698,CR7,2014-10-22,2014-15,2014,RMA,UCL,Liverpool,23,23,16-30,Right foot,"Open play, inside box",James Rodriguez,Simon Mignolet,Anfield,Liverpool,England,Level,1,Exact,S02+S06
+447,M0699,CR7,2014-10-25,2014-15,2014,RMA,LAL,Barcelona,35,35,31-45,Right foot,Penalty,,Claudio Bravo,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+448,M0700,CR7,2014-11-01,2014-15,2014,RMA,LAL,Granada,02,2,01-15,Right foot,"Open play, inside box",Karim Benzema,Roberto Fernández,Nuevo Los Cármenes,Granada,Spain,Level,1,Exact,S02+S06
+449,M0702,CR7,2014-11-08,2014-15,2014,RMA,LAL,Rayo Vallecano,83,83,76-90,Right foot,"Open play, inside box",Isco,Cristian Alvarez,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+450,M0703,CR7,2014-11-14,2014-15,2014,POR,EUQ,Armenia,72,72,61-75,Right foot,"Open play, inside box",Nani,Roman Berezovskiy,Estádio Algarve,Loulé,Portugal,Level,1,Exact,S02+S06
+451,M0705,CR7,2014-11-22,2014-15,2014,RMA,LAL,Eibar,43,43,31-45,Right foot,"Open play, inside box",Dani Carvajal,Xabi Irurerta,Estadio Municipal de Ipurúa,Eibar,Spain,Leading,0,Exact,S02+S06
+452,M0705,CR7,2014-11-22,2014-15,2014,RMA,LAL,Eibar,83,83,76-90,Right foot,Penalty,,Xabi Irurerta,Estadio Municipal de Ipurúa,Eibar,Spain,Leading,0,Exact,S02+S06
+453,M0706,CR7,2014-11-26,2014-15,2014,RMA,UCL,FC Basel,35,35,31-45,Left foot,"Open play, inside box",Karim Benzema,Tomás Vaclik,Sankt Jakob-Park,Basel,Switzerland,Level,1,Exact,S02+S06
+454,M0708,CR7,2014-12-06,2014-15,2014,RMA,LAL,Celta Vigo,36,36,31-45,Right foot,Penalty,,Sergio Alvarez,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+455,M0708,CR7,2014-12-06,2014-15,2014,RMA,LAL,Celta Vigo,65,65,61-75,Right foot,"Open play, inside box",,Sergio Alvarez,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+456,M0708,CR7,2014-12-06,2014-15,2014,RMA,LAL,Celta Vigo,81,81,76-90,Left foot,"Open play, inside box",Marcelo,Sergio Alvarez,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+457,M0709,CR7,2014-12-09,2014-15,2014,RMA,UCL,Ludogorets,20,20,16-30,Right foot,Penalty,,Vladislav Stoyanov,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+458,M0710,CR7,2014-12-12,2014-15,2014,RMA,LAL,Almeria,81,81,76-90,Right foot,"Open play, inside box",Karim Benzema,Rubén Martinez,Estadio de los Juegos Mediterráneos,Almería,Spain,Leading,0,Exact,S02+S06
+459,M0710,CR7,2014-12-12,2014-15,2014,RMA,LAL,Almeria,89,89,76-90,Right foot,"Open play, inside box",Dani Carvajal,Rubén Martinez,Estadio de los Juegos Mediterráneos,Almería,Spain,Leading,0,Exact,S02+S06
+460,M0713,CR7,2015-01-04,2014-15,2015,RMA,LAL,Valencia,14,14,01-15,Right foot,Penalty,,Diego Alves,Mestalla,Valencia,Spain,Level,0,Exact,S02+S06
+461,M0716,CR7,2015-01-15,2014-15,2015,RMA,CDR,Atletico Madrid,54,54,46-60,Header,"Open play, inside box",Gareth Bale,Jan Oblak,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+462,M0717,CR7,2015-01-18,2014-15,2015,RMA,LAL,Getafe,63,63,61-75,Left foot,"Open play, inside box",Karim Benzema,Jordi Codina,Coliseum Alfonso Pérez,Getafe,Spain,Level,1,Exact,S02+S06
+463,M0717,CR7,2015-01-18,2014-15,2015,RMA,LAL,Getafe,79,79,76-90,Header,"Open play, inside box",James Rodriguez,Jordi Codina,Coliseum Alfonso Pérez,Getafe,Spain,Leading,0,Exact,S02+S06
+464,M0721,CR7,2015-02-18,2014-15,2015,RMA,UCL,Schalke,26,26,16-30,Header,"Open play, inside box",Dani Carvajal,Timon Wellenreuther,Veltins-Arena,Gelsenkirchen,Germany,Level,1,Exact,S02+S06
+465,M0722,CR7,2015-02-22,2014-15,2015,RMA,LAL,Elche,69,69,61-75,Header,"Open play, inside box",Isco,Przemysław Tytoń,Estadio Martínez Valero,Elche,Spain,Leading,0,Exact,S02+S06
+466,M0723,CR7,2015-03-01,2014-15,2015,RMA,LAL,Villarreal,52,52,46-60,Right foot,Penalty,,Sergio Asenjo,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+467,M0725,CR7,2015-03-10,2014-15,2015,RMA,UCL,Schalke,25,25,16-30,Header,"Open play, inside box",Toni Kroos,Timon Wellenreuther,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+468,M0725,CR7,2015-03-10,2014-15,2015,RMA,UCL,Schalke,45,45,31-45,Header,"Open play, inside box",Fabio Coentrão,Timon Wellenreuther,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+469,M0727,CR7,2015-03-22,2014-15,2015,RMA,LAL,Barcelona,31,31,31-45,Right foot,"Open play, inside box",Karim Benzema,Claudio Bravo,Camp Nou,Barcelona,Spain,Trailing,0,Exact,S02+S06
+470,M0729,CR7,2015-04-05,2014-15,2015,RMA,LAL,Granada,30,30,16-30,Right foot,"Open play, inside box",James Rodriguez,Oier Olazábal,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+471,M0729,CR7,2015-04-05,2014-15,2015,RMA,LAL,Granada,36,36,31-45,Right foot,"Open play, inside box",,Oier Olazábal,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+472,M0729,CR7,2015-04-05,2014-15,2015,RMA,LAL,Granada,38,38,31-45,Right foot,"Open play, outside box",Gareth Bale,Oier Olazábal,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+473,M0729,CR7,2015-04-05,2014-15,2015,RMA,LAL,Granada,54,54,46-60,Header,"Open play, inside box",Gareth Bale,Oier Olazábal,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+474,M0729,CR7,2015-04-05,2014-15,2015,RMA,LAL,Granada,90,90,76-90,Header,"Open play, inside box",Luka Modric,Oier Olazábal,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+475,M0730,CR7,2015-04-08,2014-15,2015,RMA,LAL,Rayo Vallecano,68,68,61-75,Header,"Open play, inside box",Dani Carvajal,David Cabeno,Vallecas,Madrid,Spain,Level,1,Exact,S02+S06
+476,M0731,CR7,2015-04-11,2014-15,2015,RMA,LAL,Eibar,21,21,16-30,Right foot,Direct free kick,,Xabi Irurerta,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+477,M0733,CR7,2015-04-18,2014-15,2015,RMA,LAL,Malaga,90+2,90,76-90,Left foot,"Open play, inside box",Chicharito,Carlos Kameni,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+478,M0737,CR7,2015-05-02,2014-15,2015,RMA,LAL,Sevilla,36,36,31-45,Header,"Open play, inside box",Isco,Sergio Rico,Estadio Ramón Sánchez Pizjuan,Seville,Spain,Level,0,Exact,S02+S06
+479,M0737,CR7,2015-05-02,2014-15,2015,RMA,LAL,Sevilla,37,37,31-45,Right foot,"Open play, inside box",Chicharito,Sergio Rico,Estadio Ramón Sánchez Pizjuan,Seville,Spain,Leading,0,Exact,S02+S06
+480,M0737,CR7,2015-05-02,2014-15,2015,RMA,LAL,Sevilla,69,69,61-75,Header,"Open play, inside box",Gareth Bale,Sergio Rico,Estadio Ramón Sánchez Pizjuan,Seville,Spain,Leading,0,Exact,S02+S06
+481,M0738,CR7,2015-05-05,2014-15,2015,RMA,UCL,Juventus,27,27,16-30,Header,"Open play, inside box",James Rodriguez,Gianluigi Buffon,Juventus Stadium,Turin,Italy,Trailing,0,Exact,S02+S06
+482,M0740,CR7,2015-05-13,2014-15,2015,RMA,UCL,Juventus,23,23,16-30,Right foot,Penalty,,Gianluigi Buffon,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+483,M0741,CR7,2015-05-17,2014-15,2015,RMA,LAL,Espanyol,59,59,46-60,Left foot,"Open play, inside box",Karim Benzema,Kiko Casilla,Power8 Stadium,Barcelona,Spain,Level,0,Exact,S02+S06
+484,M0741,CR7,2015-05-17,2014-15,2015,RMA,LAL,Espanyol,83,83,76-90,Right foot,"Open play, inside box",Chicharito,Kiko Casilla,Power8 Stadium,Barcelona,Spain,Leading,0,Exact,S02+S06
+485,M0741,CR7,2015-05-17,2014-15,2015,RMA,LAL,Espanyol,90+1,90,76-90,Header,"Open play, inside box",James Rodriguez,Kiko Casilla,Power8 Stadium,Barcelona,Spain,Leading,0,Exact,S02+S06
+486,M0742,CR7,2015-05-23,2014-15,2015,RMA,LAL,Getafe,13,13,01-15,Header,"Open play, inside box",Marcelo,Jordi Codina,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+487,M0742,CR7,2015-05-23,2014-15,2015,RMA,LAL,Getafe,32,32,31-45,Right foot,Direct free kick,,Jordi Codina,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+488,M0742,CR7,2015-05-23,2014-15,2015,RMA,LAL,Getafe,34,34,31-45,Right foot,Penalty,,Jordi Codina,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+489,M0743,CR7,2015-06-13,2014-15,2015,POR,EUQ,Armenia,29,29,16-30,Right foot,Penalty,,Roman Berezovskiy,Vazgen Sargsyan Republican Stadium,Yerevan,Armenia,Trailing,0,Exact,S02+S06
+490,M0743,CR7,2015-06-13,2014-15,2015,POR,EUQ,Armenia,55,55,46-60,Right foot,"Open play, inside box",Bruno Alves,Roman Berezovskiy,Vazgen Sargsyan Republican Stadium,Yerevan,Armenia,Level,1,Exact,S02+S06
+491,M0743,CR7,2015-06-13,2014-15,2015,POR,EUQ,Armenia,58,58,46-60,Right foot,"Open play, outside box",Rui Patricio,Roman Berezovskiy,Vazgen Sargsyan Republican Stadium,Yerevan,Armenia,Leading,0,Exact,S02+S06
+492,M0748,CR7,2015-09-12,2015-16,2015,RMA,LAL,Espanyol,07,7,01-15,Right foot,"Open play, inside box",Luka Modric,Pau López,Power8 Stadium,Barcelona,Spain,Level,1,Exact,S02+S06
+493,M0748,CR7,2015-09-12,2015-16,2015,RMA,LAL,Espanyol,17,17,16-30,Right foot,Penalty,,Pau López,Power8 Stadium,Barcelona,Spain,Leading,0,Exact,S02+S06
+494,M0748,CR7,2015-09-12,2015-16,2015,RMA,LAL,Espanyol,20,20,16-30,Left foot,"Open play, inside box",Gareth Bale,Pau López,Power8 Stadium,Barcelona,Spain,Leading,0,Exact,S02+S06
+495,M0748,CR7,2015-09-12,2015-16,2015,RMA,LAL,Espanyol,62,62,61-75,Right foot,"Open play, inside box",Gareth Bale,Pau López,Power8 Stadium,Barcelona,Spain,Leading,0,Exact,S02+S06
+496,M0748,CR7,2015-09-12,2015-16,2015,RMA,LAL,Espanyol,81,81,76-90,Right foot,"Open play, inside box",Lucas Vazquez,Pau López,Power8 Stadium,Barcelona,Spain,Leading,0,Exact,S02+S06
+497,M0749,CR7,2015-09-15,2015-16,2015,RMA,UCL,Shakhtar Donetsk,56,56,46-60,Right foot,Penalty,,Andriy Pyatov,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+498,M0749,CR7,2015-09-15,2015-16,2015,RMA,UCL,Shakhtar Donetsk,64,64,61-75,Right foot,Penalty,,Andriy Pyatov,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+499,M0749,CR7,2015-09-15,2015-16,2015,RMA,UCL,Shakhtar Donetsk,82,82,76-90,Header,"Open play, inside box",,Andriy Pyatov,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+500,M0753,CR7,2015-09-30,2015-16,2015,RMA,UCL,Malmo,29,29,16-30,Right foot,"Open play, inside box",Isco,Johan Sellberg-Wiland,Swedbank Stadion,Malmö,Sweden,Level,1,Exact,S02+S06
+501,M0753,CR7,2015-09-30,2015-16,2015,RMA,UCL,Malmo,90,90,76-90,Left foot,"Open play, inside box",Lucas Vazquez,Johan Sellberg-Wiland,Swedbank Stadion,Malmö,Sweden,Leading,0,Exact,S02+S06
+502,M0756,CR7,2015-10-17,2015-16,2015,RMA,LAL,Levante,30,30,16-30,Right foot,"Open play, outside box",Toni Kroos,Rubén Martinez,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+503,M0758,CR7,2015-10-24,2015-16,2015,RMA,LAL,Celta Vigo,08,8,01-15,Right foot,"Open play, inside box",Lucas Vazquez,Sergio Alvarez,Estadio Balaídos,Vigo,Spain,Level,0,Exact,S02+S06
+504,M0759,CR7,2015-10-31,2015-16,2015,RMA,LAL,Las Palmas,14,14,01-15,Header,"Open play, inside box",Marcelo,Javi Varas,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+505,M0763,CR7,2015-11-25,2015-16,2015,RMA,UCL,Shakhtar Donetsk,18,18,16-30,Header,"Open play, inside box",Gareth Bale,Andriy Pyatov,Arena Lviv,Lviv,Ukraine,Level,0,Exact,S02+S06
+506,M0763,CR7,2015-11-25,2015-16,2015,RMA,UCL,Shakhtar Donetsk,70,70,61-75,Right foot,"Open play, inside box",Gareth Bale,Andriy Pyatov,Arena Lviv,Lviv,Ukraine,Leading,0,Exact,S02+S06
+507,M0764,CR7,2015-11-29,2015-16,2015,RMA,LAL,Eibar,82,82,76-90,Right foot,Penalty,,Asier Riesgo,Estadio Municipal de Ipurúa,Eibar,Spain,Leading,0,Exact,S02+S06
+508,M0765,CR7,2015-12-05,2015-16,2015,RMA,LAL,Getafe,38,38,31-45,Right foot,"Open play, inside box",Toni Kroos,Vicente Guaita,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+509,M0766,CR7,2015-12-08,2015-16,2015,RMA,UCL,Malmo,39,39,31-45,Right foot,Direct free kick,,Johan Sellberg-Wiland,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+510,M0766,CR7,2015-12-08,2015-16,2015,RMA,UCL,Malmo,47,47,46-60,Left foot,"Open play, inside box",,Johan Sellberg-Wiland,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+511,M0766,CR7,2015-12-08,2015-16,2015,RMA,UCL,Malmo,50,50,46-60,Right foot,"Open play, inside box",Danilo,Johan Sellberg-Wiland,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+512,M0766,CR7,2015-12-08,2015-16,2015,RMA,UCL,Malmo,59,59,46-60,Right foot,"Open play, inside box",Isco,Johan Sellberg-Wiland,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+513,M0768,CR7,2015-12-20,2015-16,2015,RMA,LAL,Rayo Vallecano,30,30,16-30,Right foot,Penalty,,Yoel Rodriguez,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+514,M0768,CR7,2015-12-20,2015-16,2015,RMA,LAL,Rayo Vallecano,54,54,46-60,Header,"Open play, inside box",James Rodriguez,Yoel Rodriguez,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+515,M0769,CR7,2015-12-30,2015-16,2015,RMA,LAL,Real Sociedad,42,42,31-45,Right foot,Penalty,,Geronimo Rulli,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+516,M0769,CR7,2015-12-30,2015-16,2015,RMA,LAL,Real Sociedad,68,68,61-75,Left foot,"Open play, inside box",Marcelo,Geronimo Rulli,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+517,M0772,CR7,2016-01-17,2015-16,2016,RMA,LAL,Sporting Gijon,09,9,01-15,Left foot,"Open play, inside box",Karim Benzema,Iván Cuéllar,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+518,M0772,CR7,2016-01-17,2015-16,2016,RMA,LAL,Sporting Gijon,18,18,16-30,Left foot,"Open play, inside box",Dani Carvajal,Iván Cuéllar,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+519,M0774,CR7,2016-01-31,2015-16,2016,RMA,LAL,Espanyol,12,12,01-15,Right foot,Penalty,,Giedrius Arlauskis,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+520,M0774,CR7,2016-01-31,2015-16,2016,RMA,LAL,Espanyol,45,45,31-45,Left foot,"Open play, outside box",,Giedrius Arlauskis,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+521,M0774,CR7,2016-01-31,2015-16,2016,RMA,LAL,Espanyol,82,82,76-90,Header,"Open play, inside box",Jesé,Giedrius Arlauskis,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+522,M0776,CR7,2016-02-13,2015-16,2016,RMA,LAL,Athletic Bilbao,03,3,01-15,Right foot,"Open play, inside box",Karim Benzema,Gorka Iraizoz,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+523,M0776,CR7,2016-02-13,2015-16,2016,RMA,LAL,Athletic Bilbao,87,87,76-90,Right foot,"Open play, inside box",Lucas Vazquez,Gorka Iraizoz,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+524,M0777,CR7,2016-02-17,2015-16,2016,RMA,UCL,Roma,57,57,46-60,Right foot,"Open play, inside box",Marcelo,Wojciech Szczęsny,Stadio Olimpico,Rome,Italy,Level,1,Exact,S02+S06
+525,M0778,CR7,2016-02-21,2015-16,2016,RMA,LAL,Malaga,33,33,31-45,Header,"Open play, inside box",Toni Kroos,Carlos Kameni,Estadio La Rosaleda,Málaga,Spain,Level,0,Exact,S02+S06
+526,M0780,CR7,2016-03-02,2015-16,2016,RMA,LAL,Levante,34,34,31-45,Right foot,Penalty,,Diego Marino,Ciudad de Valencia,Valencia,Spain,Level,0,Exact,S02+S06
+527,M0781,CR7,2016-03-05,2015-16,2016,RMA,LAL,Celta Vigo,50,50,46-60,Right foot,"Open play, outside box",Sergio Ramos,Ruben Blanco,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+528,M0781,CR7,2016-03-05,2015-16,2016,RMA,LAL,Celta Vigo,58,58,46-60,Right foot,Direct free kick,,Ruben Blanco,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+529,M0781,CR7,2016-03-05,2015-16,2016,RMA,LAL,Celta Vigo,64,64,61-75,Right foot,"Open play, inside box",Isco,Ruben Blanco,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+530,M0781,CR7,2016-03-05,2015-16,2016,RMA,LAL,Celta Vigo,76,76,76-90,Header,"Open play, inside box",Jesé,Ruben Blanco,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+531,M0782,CR7,2016-03-08,2015-16,2016,RMA,UCL,Roma,64,64,61-75,Right foot,"Open play, inside box",Lucas Vazquez,Wojciech Szczęsny,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+532,M0784,CR7,2016-03-20,2015-16,2016,RMA,LAL,Sevilla,64,64,61-75,Left foot,"Open play, inside box",Danilo,Sergio Rico,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+533,M0786,CR7,2016-03-29,2015-16,2016,POR,FRI,Belgium,40,40,31-45,Header,"Open play, inside box",Joao Mario,Thibaut Courtois,Estádio Dr. Magalhães Pessoa,Leiria,Portugal,Leading,0,Exact,S02+S06
+534,M0787,CR7,2016-04-02,2015-16,2016,RMA,LAL,Barcelona,85,85,76-90,Right foot,"Open play, inside box",Gareth Bale,Claudio Bravo,Camp Nou,Barcelona,Spain,Level,1,Exact,S02+S06
+535,M0789,CR7,2016-04-09,2015-16,2016,RMA,LAL,Eibar,19,19,16-30,Right foot,"Open play, inside box",Jesé,Asier Riesgo,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+536,M0790,CR7,2016-04-12,2015-16,2016,RMA,UCL,Wolfsburg,16,16,16-30,Right foot,"Open play, inside box",,Diego Benaglio,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+537,M0790,CR7,2016-04-12,2015-16,2016,RMA,UCL,Wolfsburg,17,17,16-30,Header,"Open play, inside box",Dani Carvajal,Diego Benaglio,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+538,M0790,CR7,2016-04-12,2015-16,2016,RMA,UCL,Wolfsburg,77,77,76-90,Right foot,Direct free kick,,Diego Benaglio,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+539,M0791,CR7,2016-04-16,2015-16,2016,RMA,LAL,Getafe,90+2,90,76-90,Left foot,"Open play, inside box",Jesé,Vicente Guaita,Coliseum Alfonso Pérez,Getafe,Spain,Leading,0,Exact,S02+S06
+540,M0794,CR7,2016-05-08,2015-16,2016,RMA,LAL,Valencia,26,26,16-30,Right foot,"Open play, outside box",Marcelo,Diego Alves,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+541,M0794,CR7,2016-05-08,2015-16,2016,RMA,LAL,Valencia,59,59,46-60,Left foot,"Open play, inside box",James Rodriguez,Diego Alves,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+542,M0795,CR7,2016-05-14,2015-16,2016,RMA,LAL,Deportivo La Coruna,08,8,01-15,Left foot,"Open play, inside box",Karim Benzema,Stipe Pletikosa,Estadio Riazor,A Coruña,Spain,Level,1,Exact,S02+S06
+543,M0795,CR7,2016-05-14,2015-16,2016,RMA,LAL,Deportivo La Coruna,25,25,16-30,Header,"Open play, inside box",Toni Kroos,Stipe Pletikosa,Estadio Riazor,A Coruña,Spain,Leading,0,Exact,S02+S06
+544,M0797,CR7,2016-06-09,2015-16,2016,POR,FRI,Estonia,36,36,31-45,Header,"Open play, inside box",Ricardo Quaresma,Pavel Londak,Estádio da Luz,Lisbon,Portugal,Level,1,Date differs by -1 day,S02+S06
+545,M0797,CR7,2016-06-09,2015-16,2016,POR,FRI,Estonia,45,45,31-45,Right foot,"Open play, inside box",Joao Mario,Pavel Londak,Estádio da Luz,Lisbon,Portugal,Leading,0,Date differs by -1 day,S02+S06
+546,M0800,CR7,2016-06-22,2015-16,2016,POR,EUR,Hungary,50,50,46-60,Right foot,"Open play, inside box",Joao Mario,Gabor Kiraly,Parc Olympique Lyonnais,Lyon,France,Trailing,0,Exact,S02+S06
+547,M0800,CR7,2016-06-22,2015-16,2016,POR,EUR,Hungary,62,62,61-75,Header,"Open play, inside box",Ricardo Quaresma,Gabor Kiraly,Parc Olympique Lyonnais,Lyon,France,Trailing,0,Exact,S02+S06
+548,M0803,CR7,2016-07-06,2015-16,2016,POR,EUR,Wales,50,50,46-60,Header,"Open play, inside box",Raphael Guerreiro,Wayne Hennessey,Parc Olympique Lyonnais,Lyon,France,Level,1,Exact,S02+S06
+549,M0805,CR7,2016-09-10,2016-17,2016,RMA,LAL,Osasuna,06,6,01-15,Right foot,"Open play, inside box",Gareth Bale,Nauzet Perez,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+550,M0806,CR7,2016-09-14,2016-17,2016,RMA,UCL,Sporting CP,89,89,76-90,Right foot,Direct free kick,,Rui Patricio,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+551,M0809,CR7,2016-09-27,2016-17,2016,RMA,UCL,Borussia Dortmund,17,17,16-30,Right foot,"Open play, inside box",Gareth Bale,Roman Burki,Signal Iduna Park,Dortmund,Germany,Level,0,Exact,S02+S06
+552,M0811,CR7,2016-10-07,2016-17,2016,POR,WCQ,Andorra,02,2,01-15,Left foot,"Open play, inside box",,Josep Gomes,Estádio Municipal de Aveiro,Aveiro,Portugal,Level,1,Exact,S02+S06
+553,M0811,CR7,2016-10-07,2016-17,2016,POR,WCQ,Andorra,04,4,01-15,Header,"Open play, inside box",Ricardo Quaresma,Josep Gomes,Estádio Municipal de Aveiro,Aveiro,Portugal,Leading,0,Exact,S02+S06
+554,M0811,CR7,2016-10-07,2016-17,2016,POR,WCQ,Andorra,47,47,46-60,Right foot,"Open play, inside box",André Gomes,Josep Gomes,Estádio Municipal de Aveiro,Aveiro,Portugal,Leading,0,Exact,S02+S06
+555,M0811,CR7,2016-10-07,2016-17,2016,POR,WCQ,Andorra,68,68,61-75,Left foot,"Open play, inside box",José Fonte,Josep Gomes,Estádio Municipal de Aveiro,Aveiro,Portugal,Leading,0,Exact,S02+S06
+556,M0812,CR7,2016-10-10,2016-17,2016,POR,WCQ,Faroe Islands,65,65,61-75,Left foot,"Open play, outside box",Joao Mario,Gunnar Nielsen,Tórsvøllur,Tórshavn,Faroe Islands,Leading,0,Exact,S02+S06
+557,M0813,CR7,2016-10-15,2016-17,2016,RMA,LAL,Real Betis,78,78,76-90,Right foot,"Open play, inside box",Alvaro Morata,Antonio Adán,Estadio Benito Villamarin,Seville,Spain,Leading,0,Exact,S02+S06
+558,M0816,CR7,2016-10-29,2016-17,2016,RMA,LAL,Alaves,17,17,16-30,Right foot,Penalty,,Fernando Pacheco,Estadio Mendizorroza,Vitoria,Spain,Trailing,0,Exact,S02+S06
+559,M0816,CR7,2016-10-29,2016-17,2016,RMA,LAL,Alaves,33,33,31-45,Right foot,"Open play, outside box",Karim Benzema,Fernando Pacheco,Estadio Mendizorroza,Vitoria,Spain,Level,1,Exact,S02+S06
+560,M0816,CR7,2016-10-29,2016-17,2016,RMA,LAL,Alaves,88,88,76-90,Right foot,"Open play, inside box",Marcelo,Fernando Pacheco,Estadio Mendizorroza,Vitoria,Spain,Leading,0,Exact,S02+S06
+561,M0819,CR7,2016-11-13,2016-17,2016,POR,WCQ,Latvia,28,28,16-30,Right foot,Penalty,,Andris Vanins,Estádio Algarve,Loulé,Portugal,Level,0,Exact,S02+S06
+562,M0819,CR7,2016-11-13,2016-17,2016,POR,WCQ,Latvia,85,85,76-90,Right foot,"Open play, inside box",Ricardo Quaresma,Andris Vanins,Estádio Algarve,Loulé,Portugal,Leading,0,Exact,S02+S06
+563,M0820,CR7,2016-11-19,2016-17,2016,RMA,LAL,Atletico Madrid,23,23,16-30,Right foot,Direct free kick,,Jan Oblak,Estadio Vicente Calderón,Madrid,Spain,Level,1,Exact,S02+S06
+564,M0820,CR7,2016-11-19,2016-17,2016,RMA,LAL,Atletico Madrid,71,71,61-75,Right foot,Penalty,,Jan Oblak,Estadio Vicente Calderón,Madrid,Spain,Leading,0,Exact,S02+S06
+565,M0820,CR7,2016-11-19,2016-17,2016,RMA,LAL,Atletico Madrid,77,77,76-90,Right foot,"Open play, inside box",Gareth Bale,Jan Oblak,Estadio Vicente Calderón,Madrid,Spain,Leading,0,Exact,S02+S06
+566,M0822,CR7,2016-11-26,2016-17,2016,RMA,LAL,Sporting Gijon,05,5,01-15,Right foot,Penalty,,Diego Marino,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+567,M0822,CR7,2016-11-26,2016-17,2016,RMA,LAL,Sporting Gijon,18,18,16-30,Header,"Open play, inside box",Nacho,Diego Marino,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+568,M0825,CR7,2016-12-15,2016-17,2016,RMA,CWC,Club America,90+3,90,76-90,Right foot,"Open play, inside box",James Rodriguez,Moisés Muñoz,Nissan Stadium,Yokohama,Japan,Leading,0,Exact,S02+S06
+569,M0826,CR7,2016-12-18,2016-17,2016,RMA,CWC,Kashima Antlers,60,60,46-60,Right foot,Penalty,,Hitoshi Sogahata,Nissan Stadium,Yokohama,Japan,Trailing,0,Exact,S02+S06
+570,M0826,CR7,2016-12-18,2016-17,2016,RMA,CWC,Kashima Antlers,97,97,90+ and extra time,Left foot,"Open play, inside box",Karim Benzema,Hitoshi Sogahata,Nissan Stadium,Yokohama,Japan,Level,1,Exact,S02+S06
+571,M0826,CR7,2016-12-18,2016-17,2016,RMA,CWC,Kashima Antlers,104,104,90+ and extra time,Left foot,"Open play, inside box",Toni Kroos,Hitoshi Sogahata,Nissan Stadium,Yokohama,Japan,Leading,0,Exact,S02+S06
+572,M0827,CR7,2017-01-07,2016-17,2017,RMA,LAL,Granada,27,27,16-30,Header,"Open play, inside box",Marcelo,Guillermo Ochoa,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+573,M0828,CR7,2017-01-15,2016-17,2017,RMA,LAL,Sevilla,67,67,61-75,Right foot,Penalty,,Sergio Rico,Estadio Ramón Sánchez Pizjuan,Seville,Spain,Level,0,Exact,S02+S06
+574,M0831,CR7,2017-01-25,2016-17,2017,RMA,CDR,Celta Vigo,62,62,61-75,Right foot,Direct free kick,,Sergio Alvarez,Estadio Balaídos,Vigo,Spain,Trailing,0,Exact,S02+S06
+575,M0832,CR7,2017-01-29,2016-17,2017,RMA,LAL,Real Sociedad,51,51,46-60,Right foot,"Open play, inside box",Mateo Kovacic,Geronimo Rulli,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+576,M0833,CR7,2017-02-11,2016-17,2017,RMA,LAL,Osasuna,24,24,16-30,Right foot,"Open play, inside box",Karim Benzema,Salvatore Sirigu,Estadio El Sadar,Pamplona,Spain,Level,0,Exact,S02+S06
+577,M0836,CR7,2017-02-22,2016-17,2017,RMA,LAL,Valencia,44,44,31-45,Header,"Open play, inside box",Marcelo,Diego Alves,Mestalla,Valencia,Spain,Trailing,0,Exact,S02+S06
+578,M0837,CR7,2017-02-26,2016-17,2017,RMA,LAL,Villarreal,74,74,61-75,Right foot,Penalty,,Sergio Asenjo,Estadio de la Cerámica,Villarreal,Spain,Trailing,0,Exact,S02+S06
+579,M0838,CR7,2017-03-01,2016-17,2017,RMA,LAL,Las Palmas,86,86,76-90,Right foot,Penalty,,Javi Varas,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+580,M0838,CR7,2017-03-01,2016-17,2017,RMA,LAL,Las Palmas,89,89,76-90,Header,"Open play, inside box",James Rodriguez,Javi Varas,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+581,M0840,CR7,2017-03-12,2016-17,2017,RMA,LAL,Real Betis,41,41,31-45,Header,"Open play, inside box",Marcelo,Antonio Adán,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+582,M0842,CR7,2017-03-25,2016-17,2017,POR,WCQ,Hungary,46,46,46-60,Left foot,"Open play, outside box",André Silva,Peter Gulacsi,Estádio da Luz,Lisbon,Portugal,Leading,0,Exact,S02+S06
+583,M0842,CR7,2017-03-25,2016-17,2017,POR,WCQ,Hungary,65,65,61-75,Right foot,Direct free kick,,Peter Gulacsi,Estádio da Luz,Lisbon,Portugal,Leading,0,Exact,S02+S06
+584,M0843,CR7,2017-03-28,2016-17,2017,POR,FRI,Sweden,18,18,16-30,Right foot,"Open play, inside box",Gelson Martins,Johnsson,Estádio dos Barreiros,Funchal,Portugal,Level,0,Exact,S02+S06
+585,M0846,CR7,2017-04-12,2016-17,2017,RMA,UCL,Bayern Munich,47,47,46-60,Right foot,"Open play, inside box",Dani Carvajal,Manuel Neuer,Allianz Arena,Munich,Germany,Trailing,0,Exact,S02+S06
+586,M0846,CR7,2017-04-12,2016-17,2017,RMA,UCL,Bayern Munich,77,77,76-90,Right foot,"Open play, inside box",Marco Asensio,Manuel Neuer,Allianz Arena,Munich,Germany,Level,1,Exact,S02+S06
+587,M0847,CR7,2017-04-18,2016-17,2017,RMA,UCL,Bayern Munich,76,76,76-90,Header,"Open play, inside box",Casemiro,Manuel Neuer,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+588,M0847,CR7,2017-04-18,2016-17,2017,RMA,UCL,Bayern Munich,105,105,90+ and extra time,Left foot,"Open play, inside box",Casemiro,Manuel Neuer,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+589,M0847,CR7,2017-04-18,2016-17,2017,RMA,UCL,Bayern Munich,109,109,90+ and extra time,Right foot,"Open play, inside box",Marcelo,Manuel Neuer,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+590,M0849,CR7,2017-04-29,2016-17,2017,RMA,LAL,Valencia,27,27,16-30,Header,"Open play, inside box",Dani Carvajal,Diego Alves,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+591,M0850,CR7,2017-05-02,2016-17,2017,RMA,UCL,Atletico Madrid,10,10,01-15,Header,"Open play, inside box",Casemiro,Jan Oblak,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+592,M0850,CR7,2017-05-02,2016-17,2017,RMA,UCL,Atletico Madrid,73,73,61-75,Right foot,"Open play, inside box",Karim Benzema,Jan Oblak,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+593,M0850,CR7,2017-05-02,2016-17,2017,RMA,UCL,Atletico Madrid,86,86,76-90,Right foot,"Open play, inside box",Lucas Vazquez,Jan Oblak,Estadio Bernabéu,Madrid,Spain,Leading,1,Exact,S02+S06
+594,M0852,CR7,2017-05-14,2016-17,2017,RMA,LAL,Sevilla,23,23,16-30,Right foot,"Open play, inside box",,Sergio Rico,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+595,M0852,CR7,2017-05-14,2016-17,2017,RMA,LAL,Sevilla,78,78,76-90,Left foot,"Open play, inside box",Toni Kroos,Sergio Rico,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+596,M0853,CR7,2017-05-17,2016-17,2017,RMA,LAL,Celta Vigo,10,10,01-15,Left foot,"Open play, outside box",,Sergio Alvarez,Estadio Balaídos,Vigo,Spain,Level,0,Exact,S02+S06
+597,M0853,CR7,2017-05-17,2016-17,2017,RMA,LAL,Celta Vigo,48,48,46-60,Left foot,"Open play, inside box",Isco,Sergio Alvarez,Estadio Balaídos,Vigo,Spain,Leading,0,Exact,S02+S06
+598,M0854,CR7,2017-05-21,2016-17,2017,RMA,LAL,Malaga,02,2,01-15,Right foot,"Open play, inside box",Isco,Carlos Kameni,Estadio La Rosaleda,Málaga,Spain,Level,1,Exact,S02+S06
+599,M0855,CR7,2017-06-03,2016-17,2017,RMA,UCL,Juventus,20,20,16-30,Right foot,"Open play, inside box",Dani Carvajal,Gianluigi Buffon,Principality Stadium,Cardiff,Wales,Level,0,Exact,S02+S06
+600,M0855,CR7,2017-06-03,2016-17,2017,RMA,UCL,Juventus,64,64,61-75,Right foot,"Open play, inside box",Luka Modric,Gianluigi Buffon,Principality Stadium,Cardiff,Wales,Leading,0,Exact,S02+S06
+601,M0856,CR7,2017-06-09,2016-17,2017,POR,WCQ,Latvia,41,41,31-45,Header,"Open play, inside box",José Fonte,Andris Vanins,Skonto Stadium,Riga,Latvia,Level,1,Exact,S02+S06
+602,M0856,CR7,2017-06-09,2016-17,2017,POR,WCQ,Latvia,63,63,61-75,Header,"Open play, inside box",Ricardo Quaresma,Andris Vanins,Skonto Stadium,Riga,Latvia,Leading,0,Exact,S02+S06
+603,M0858,CR7,2017-06-21,2016-17,2017,POR,CFC,Russia,08,8,01-15,Header,"Open play, inside box",Raphael Guerreiro,Igor Akinfeev,Otkritie Arena,Moscow,Russia,Level,1,Exact,S02+S06
+604,M0859,CR7,2017-06-24,2016-17,2017,POR,CFC,New Zealand,33,33,31-45,Right foot,Penalty,,Stefan Marinovic,Krestovsky Stadium,Saint Petersburg,Russia,Level,1,Exact,S02+S06
+605,M0862,CR7,2017-08-13,2017-18,2017,RMA,SCE,Barcelona,80,80,76-90,Right foot,"Open play, inside box",Isco,Marc-André ter Stegen,Camp Nou,Barcelona,Spain,Level,1,Exact,S02+S06
+606,M0863,CR7,2017-08-31,2017-18,2017,POR,WCQ,Faroe Islands,03,3,01-15,Right foot,"Open play, inside box",Bernardo Silva,Gunnar Nielsen,Estádio do Bessa Século XXI,Porto,Portugal,Level,0,Exact,S02+S06
+607,M0863,CR7,2017-08-31,2017-18,2017,POR,WCQ,Faroe Islands,29,29,16-30,Right foot,Penalty,,Gunnar Nielsen,Estádio do Bessa Século XXI,Porto,Portugal,Leading,0,Exact,S02+S06
+608,M0863,CR7,2017-08-31,2017-18,2017,POR,WCQ,Faroe Islands,64,64,61-75,Left foot,"Open play, inside box",William Carvalho,Gunnar Nielsen,Estádio do Bessa Século XXI,Porto,Portugal,Leading,0,Exact,S02+S06
+609,M0865,CR7,2017-09-13,2017-18,2017,RMA,UCL,APOEL,12,12,01-15,Right foot,"Open play, inside box",Gareth Bale,Boy Waterman,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+610,M0865,CR7,2017-09-13,2017-18,2017,RMA,UCL,APOEL,51,51,46-60,Right foot,Penalty,,Boy Waterman,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+611,M0868,CR7,2017-09-26,2017-18,2017,RMA,UCL,Borussia Dortmund,49,49,46-60,Left foot,"Open play, inside box",Gareth Bale,Roman Burki,Signal Iduna Park,Dortmund,Germany,Leading,0,Exact,S02+S06
+612,M0868,CR7,2017-09-26,2017-18,2017,RMA,UCL,Borussia Dortmund,79,79,76-90,Right foot,"Open play, inside box",Luka Modric,Roman Burki,Signal Iduna Park,Dortmund,Germany,Leading,0,Exact,S02+S06
+613,M0870,CR7,2017-10-07,2017-18,2017,POR,WCQ,Andorra,63,63,61-75,Left foot,"Open play, inside box",,Josep Gomes,Estadi Nacional,Andorra la Vella,Andorra,Level,1,Exact,S02+S06
+614,M0872,CR7,2017-10-14,2017-18,2017,RMA,LAL,Getafe,85,85,76-90,Right foot,"Open play, inside box",Isco,Vicente Guaita,Coliseum Alfonso Pérez,Getafe,Spain,Level,1,Exact,S02+S06
+615,M0873,CR7,2017-10-17,2017-18,2017,RMA,UCL,Tottenham Hotspur,43,43,31-45,Right foot,Penalty,,Hugo Lloris,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+616,M0876,CR7,2017-11-01,2017-18,2017,RMA,UCL,Tottenham Hotspur,80,80,76-90,Right foot,"Open play, inside box",Borja Mayoral,Hugo Lloris,Wembley Stadium,London,England,Trailing,0,Exact,S02+S06
+617,M0879,CR7,2017-11-21,2017-18,2017,RMA,UCL,APOEL,49,49,46-60,Header,"Open play, inside box",Marcelo,Nauzet Perez,GSP Stadium,Nicosia,Cyprus,Leading,0,Exact,S02+S06
+618,M0879,CR7,2017-11-21,2017-18,2017,RMA,UCL,APOEL,54,54,46-60,Left foot,"Open play, inside box",Karim Benzema,Nauzet Perez,GSP Stadium,Nicosia,Cyprus,Leading,0,Exact,S02+S06
+619,M0880,CR7,2017-11-25,2017-18,2017,RMA,LAL,Malaga,76,76,76-90,Left foot,"Open play, inside box",,Roberto,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+620,M0882,CR7,2017-12-06,2017-18,2017,RMA,UCL,Borussia Dortmund,12,12,01-15,Right foot,"Open play, outside box",Mateo Kovacic,Roman Burki,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+621,M0883,CR7,2017-12-09,2017-18,2017,RMA,LAL,Sevilla,23,23,16-30,Right foot,"Open play, inside box",Marco Asensio,Sergio Rico,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+622,M0883,CR7,2017-12-09,2017-18,2017,RMA,LAL,Sevilla,31,31,31-45,Right foot,Penalty,,Sergio Rico,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+623,M0884,CR7,2017-12-13,2017-18,2017,RMA,CWC,Al Jazira,53,53,46-60,Right foot,"Open play, inside box",Luka Modric,Khaled Saif Al Senani,Zayed Sports City Stadium,Abu Dhabi,United Arab Emirates,Trailing,0,Exact,S02+S06
+624,M0885,CR7,2017-12-16,2017-18,2017,RMA,CWC,Gremio,53,53,46-60,Right foot,Direct free kick,,Marcelo Grohe,Zayed Sports City Stadium,Abu Dhabi,United Arab Emirates,Level,1,Exact,S02+S06
+625,M0889,CR7,2018-01-21,2017-18,2018,RMA,LAL,Deportivo La Coruna,78,78,76-90,Left foot,"Open play, inside box",Casemiro,Rubén Martinez,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+626,M0889,CR7,2018-01-21,2017-18,2018,RMA,LAL,Deportivo La Coruna,84,84,76-90,Header,"Open play, inside box",Lucas Vazquez,Rubén Martinez,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+627,M0890,CR7,2018-01-27,2017-18,2018,RMA,LAL,Valencia,16,16,16-30,Right foot,Penalty,,Norberto Murara Neto,Mestalla,Valencia,Spain,Level,0,Exact,S02+S06
+628,M0890,CR7,2018-01-27,2017-18,2018,RMA,LAL,Valencia,38,38,31-45,Right foot,Penalty,,Norberto Murara Neto,Mestalla,Valencia,Spain,Leading,0,Exact,S02+S06
+629,M0892,CR7,2018-02-10,2017-18,2018,RMA,LAL,Real Sociedad,27,27,16-30,Right foot,"Open play, inside box",Marcelo,Geronimo Rulli,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+630,M0892,CR7,2018-02-10,2017-18,2018,RMA,LAL,Real Sociedad,37,37,31-45,Header,"Open play, inside box",Luka Modric,Geronimo Rulli,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+631,M0892,CR7,2018-02-10,2017-18,2018,RMA,LAL,Real Sociedad,80,80,76-90,Left foot,"Open play, inside box",,Geronimo Rulli,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+632,M0893,CR7,2018-02-14,2017-18,2018,RMA,UCL,Paris Saint-Germain,45,45,31-45,Right foot,Penalty,,Alphonse Areola,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+633,M0893,CR7,2018-02-14,2017-18,2018,RMA,UCL,Paris Saint-Germain,83,83,76-90,Left foot,"Open play, inside box",,Alphonse Areola,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+634,M0894,CR7,2018-02-18,2017-18,2018,RMA,LAL,Real Betis,65,65,61-75,Right foot,"Open play, inside box",Casemiro,Antonio Adán,Estadio Benito Villamarin,Seville,Spain,Leading,0,Exact,S02+S06
+635,M0895,CR7,2018-02-24,2017-18,2018,RMA,LAL,Alaves,44,44,31-45,Left foot,"Open play, inside box",Karim Benzema,Fernando Pacheco,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+636,M0895,CR7,2018-02-24,2017-18,2018,RMA,LAL,Alaves,61,61,61-75,Right foot,"Open play, inside box",Lucas Vazquez,Fernando Pacheco,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+637,M0896,CR7,2018-03-03,2017-18,2018,RMA,LAL,Getafe,45,45,31-45,Left foot,"Open play, inside box",Karim Benzema,Emiliano Martinez,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+638,M0896,CR7,2018-03-03,2017-18,2018,RMA,LAL,Getafe,78,78,76-90,Header,"Open play, inside box",Marcelo,Emiliano Martinez,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+639,M0897,CR7,2018-03-06,2017-18,2018,RMA,UCL,Paris Saint-Germain,51,51,46-60,Header,"Open play, inside box",Lucas Vazquez,Alphonse Areola,Parc des Princes,Paris,France,Leading,0,Exact,S02+S06
+640,M0898,CR7,2018-03-10,2017-18,2018,RMA,LAL,Eibar,33,33,31-45,Right foot,"Open play, inside box",Luka Modric,Marko Dmitrovic,Estadio Municipal de Ipurúa,Eibar,Spain,Level,0,Exact,S02+S06
+641,M0898,CR7,2018-03-10,2017-18,2018,RMA,LAL,Eibar,84,84,76-90,Header,"Open play, inside box",Dani Carvajal,Marko Dmitrovic,Estadio Municipal de Ipurúa,Eibar,Spain,Level,1,Exact,S02+S06
+642,M0899,CR7,2018-03-18,2017-18,2018,RMA,LAL,Girona,11,11,01-15,Left foot,"Open play, inside box",Toni Kroos,Bono,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+643,M0899,CR7,2018-03-18,2017-18,2018,RMA,LAL,Girona,47,47,46-60,Left foot,"Open play, inside box",Karim Benzema,Bono,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+644,M0899,CR7,2018-03-18,2017-18,2018,RMA,LAL,Girona,64,64,61-75,Right foot,"Open play, inside box",,Bono,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+645,M0899,CR7,2018-03-18,2017-18,2018,RMA,LAL,Girona,90+1,90,76-90,Right foot,"Open play, inside box",Toni Kroos,Bono,Estadio Bernabéu,Madrid,Spain,Leading,0,Exact,S02+S06
+646,M0900,CR7,2018-03-23,2017-18,2018,POR,FRI,Egypt,90+2,90,76-90,Header,"Open play, inside box",Ricardo Quaresma,Mohamed El Shenawy,Letzigrund,Zurich,Switzerland,Trailing,0,Exact,S02+S06
+647,M0900,CR7,2018-03-23,2017-18,2018,POR,FRI,Egypt,90+4,90,76-90,Header,"Open play, inside box",Ricardo Quaresma,Mohamed El Shenawy,Letzigrund,Zurich,Switzerland,Level,1,Exact,S02+S06
+648,M0902,CR7,2018-04-03,2017-18,2018,RMA,UCL,Juventus,03,3,01-15,Right foot,"Open play, inside box",Isco,Gianluigi Buffon,Juventus Stadium,Turin,Italy,Level,1,Exact,S02+S06
+649,M0902,CR7,2018-04-03,2017-18,2018,RMA,UCL,Juventus,64,64,61-75,Right foot,"Open play, inside box",Dani Carvajal,Gianluigi Buffon,Juventus Stadium,Turin,Italy,Leading,0,Exact,S02+S06
+650,M0903,CR7,2018-04-08,2017-18,2018,RMA,LAL,Atletico Madrid,53,53,46-60,Right foot,"Open play, inside box",Gareth Bale,Jan Oblak,Estadio Bernabéu,Madrid,Spain,Level,0,Exact,S02+S06
+651,M0904,CR7,2018-04-11,2017-18,2018,RMA,UCL,Juventus,90+7,90,76-90,Right foot,Penalty,,Wojciech Szczęsny,Estadio Bernabéu,Madrid,Spain,Level,1,Exact,S02+S06
+652,M0905,CR7,2018-04-18,2017-18,2018,RMA,LAL,Athletic Bilbao,87,87,76-90,Right foot,"Open play, inside box",Luka Modric,Kepa,Estadio Bernabéu,Madrid,Spain,Trailing,0,Exact,S02+S06
+653,M0908,CR7,2018-05-06,2017-18,2018,RMA,LAL,Barcelona,14,14,01-15,Right foot,"Open play, inside box",Karim Benzema,Marc-André ter Stegen,Camp Nou,Barcelona,Spain,Trailing,0,Exact,S02+S06
+654,M0909,CR7,2018-05-19,2017-18,2018,RMA,LAL,Villarreal,32,32,31-45,Header,"Open play, inside box",Marcelo,Andrés Fernández,Estadio de la Cerámica,Villarreal,Spain,Leading,0,Exact,S02+S06
+655,M0912,CR7,2018-06-15,2017-18,2018,POR,WC,Spain,04,4,01-15,Right foot,Penalty,,David De Gea,Fisht Olympic Stadium,Sochi,Russia,Level,0,Exact,S02+S06
+656,M0912,CR7,2018-06-15,2017-18,2018,POR,WC,Spain,44,44,31-45,Left foot,"Open play, outside box",Gonçalo Guedes,David De Gea,Fisht Olympic Stadium,Sochi,Russia,Level,0,Exact,S02+S06
+657,M0912,CR7,2018-06-15,2017-18,2018,POR,WC,Spain,88,88,76-90,Right foot,Direct free kick,,David De Gea,Fisht Olympic Stadium,Sochi,Russia,Trailing,0,Exact,S02+S06
+658,M0913,CR7,2018-06-20,2017-18,2018,POR,WC,Morocco,04,4,01-15,Header,"Open play, inside box",Joao Moutinho,Munir,Luzhniki Stadium,Moscow,Russia,Level,1,Exact,S02+S06
+659,M0919,CR7,2018-09-16,2018-19,2018,JUV,SEA,Sassuolo,50,50,46-60,Right foot,"Open play, inside box",,Andrea Consigli,Juventus Stadium,Turin,Italy,Level,0,Exact,S02+S06
+660,M0919,CR7,2018-09-16,2018-19,2018,JUV,SEA,Sassuolo,65,65,61-75,Left foot,"Open play, inside box",Emre Can,Andrea Consigli,Juventus Stadium,Turin,Italy,Leading,0,Exact,S02+S06
+661,M0921,CR7,2018-09-23,2018-19,2018,JUV,SEA,Frosinone,81,81,76-90,Left foot,"Open play, inside box",,Marco Sportiello,Stadio Benito Stirpe,Frosinone,Italy,Level,1,Exact,S02+S06
+662,M0924,CR7,2018-10-06,2018-19,2018,JUV,SEA,Udinese,37,37,31-45,Left foot,"Open play, inside box",Mario Mandzukic,Simone Scuffet,Dacia Arena,Udine,Italy,Leading,0,Exact,S02+S06
+663,M0925,CR7,2018-10-20,2018-19,2018,JUV,SEA,Genoa,18,18,16-30,Right foot,"Open play, inside box",,Ionut Radu,Juventus Stadium,Turin,Italy,Level,0,Exact,S02+S06
+664,M0927,CR7,2018-10-27,2018-19,2018,JUV,SEA,Empoli,54,54,46-60,Right foot,Penalty,,Ivan Provedel,Stadio Carlo Castellani,Empoli,Italy,Trailing,0,Exact,S02+S06
+665,M0927,CR7,2018-10-27,2018-19,2018,JUV,SEA,Empoli,70,70,61-75,Right foot,"Open play, outside box",Blaise Matuidi,Ivan Provedel,Stadio Carlo Castellani,Empoli,Italy,Level,1,Exact,S02+S06
+666,M0929,CR7,2018-11-07,2018-19,2018,JUV,UCL,Manchester United,65,65,61-75,Right foot,"Open play, inside box",Leonardo Bonucci,David De Gea,Juventus Stadium,Turin,Italy,Level,0,Exact,S02+S06
+667,M0930,CR7,2018-11-11,2018-19,2018,JUV,SEA,AC Milan,81,81,76-90,Right foot,"Open play, inside box",,Gianluigi Donnarumma,San Siro,Milan,Italy,Leading,0,Exact,S02+S06
+668,M0931,CR7,2018-11-24,2018-19,2018,JUV,SEA,SPAL,29,29,16-30,Left foot,"Open play, inside box",Miralem Pjanic,Alfred Gomis,Juventus Stadium,Turin,Italy,Level,1,Exact,S02+S06
+669,M0933,CR7,2018-12-01,2018-19,2018,JUV,SEA,Fiorentina,79,79,76-90,Right foot,Penalty,,Alban Lafont,Stadio Artemio Franchi,Florence,Italy,Leading,0,Exact,S02+S06
+670,M0936,CR7,2018-12-15,2018-19,2018,JUV,SEA,Torino,70,70,61-75,Right foot,Penalty,,Salvatore Sirigu,Stadio Olimpico Grande Torino,Turin,Italy,Level,1,Exact,S02+S06
+671,M0938,CR7,2018-12-26,2018-19,2018,JUV,SEA,Atalanta,78,78,76-90,Header,"Open play, inside box",Georgio Chiellini,Etrit Berisha,Stadio Atleti Azzurri d'Italia,Bergamo,Italy,Trailing,0,Exact,S02+S06
+672,M0939,CR7,2018-12-29,2018-19,2018,JUV,SEA,Sampdoria,02,2,01-15,Right foot,"Open play, inside box",Paulo Dybala,Emil Audero,Juventus Stadium,Turin,Italy,Level,0,Exact,S02+S06
+673,M0939,CR7,2018-12-29,2018-19,2018,JUV,SEA,Sampdoria,65,65,61-75,Right foot,Penalty,,Emil Audero,Juventus Stadium,Turin,Italy,Level,1,Exact,S02+S06
+674,M0941,CR7,2019-01-16,2018-19,2019,JUV,SCI,AC Milan,61,61,61-75,Header,"Open play, inside box",Miralem Pjanic,Gianluigi Donnarumma,King Abdullah Sports City,Jeddah,Saudi Arabia,Level,1,Exact,S02+S06
+675,M0943,CR7,2019-01-27,2018-19,2019,JUV,SEA,Lazio,88,88,76-90,Right foot,Penalty,,Thomas Strakosha,Stadio Olimpico,Rome,Italy,Level,1,Exact,S02+S06
+676,M0945,CR7,2019-02-02,2018-19,2019,JUV,SEA,Parma,36,36,31-45,Right foot,"Open play, inside box",Blaise Matuidi,Luigi Sepe,Juventus Stadium,Turin,Italy,Level,0,Date differs by +1 day,S02+S06
+677,M0945,CR7,2019-02-02,2018-19,2019,JUV,SEA,Parma,66,66,61-75,Header,"Open play, inside box",Mario Mandzukic,Luigi Sepe,Juventus Stadium,Turin,Italy,Leading,0,Date differs by +1 day,S02+S06
+678,M0946,CR7,2019-02-10,2018-19,2019,JUV,SEA,Sassuolo,70,70,61-75,Header,"Open play, inside box",Miralem Pjanic,Andrea Consigli,Mapei Stadium – Città del Tricolore,Reggio Emilia,Italy,Leading,0,Exact,S02+S06
+679,M0947,CR7,2019-02-15,2018-19,2019,JUV,SEA,Frosinone,63,63,61-75,Right foot,"Open play, inside box",Mario Mandzukic,Marco Sportiello,Juventus Stadium,Turin,Italy,Leading,0,Exact,S02+S06
+680,M0951,CR7,2019-03-12,2018-19,2019,JUV,UCL,Atletico Madrid,27,27,16-30,Header,"Open play, inside box",Federico Bernardeschi,Jan Oblak,Juventus Stadium,Turin,Italy,Trailing,0,Exact,S02+S06
+681,M0951,CR7,2019-03-12,2018-19,2019,JUV,UCL,Atletico Madrid,49,49,46-60,Header,"Open play, inside box",Joao Cancelo,Jan Oblak,Juventus Stadium,Turin,Italy,Trailing,0,Exact,S02+S06
+682,M0951,CR7,2019-03-12,2018-19,2019,JUV,UCL,Atletico Madrid,86,86,76-90,Right foot,Penalty,,Jan Oblak,Juventus Stadium,Turin,Italy,Level,1,Exact,S02+S06
+683,M0954,CR7,2019-04-10,2018-19,2019,JUV,UCL,Ajax,45,45,31-45,Header,"Open play, inside box",Joao Cancelo,Andre Onana,Johan Cruyff Arena,Amsterdam,Netherlands,Level,0,Exact,S02+S06
+684,M0955,CR7,2019-04-16,2018-19,2019,JUV,UCL,Ajax,28,28,16-30,Header,"Open play, inside box",Miralem Pjanic,Andre Onana,Juventus Stadium,Turin,Italy,Level,0,Exact,S02+S06
+685,M0957,CR7,2019-04-27,2018-19,2019,JUV,SEA,Inter Milan,62,62,61-75,Left foot,"Open play, inside box",Miralem Pjanic,Samir Handanovic,San Siro,Milan,Italy,Trailing,0,Exact,S02+S06
+686,M0958,CR7,2019-05-03,2018-19,2019,JUV,SEA,Torino,84,84,76-90,Header,"Open play, inside box",Leonardo Spinazzola,Salvatore Sirigu,Juventus Stadium,Turin,Italy,Trailing,0,Exact,S02+S06
+687,M0961,CR7,2019-06-05,2018-19,2019,POR,UNL,Switzerland,25,25,16-30,Right foot,Direct free kick,,Yann Sommer,Estádio do Dragão,Porto,Portugal,Level,0,Exact,S02+S06
+688,M0961,CR7,2019-06-05,2018-19,2019,POR,UNL,Switzerland,88,88,76-90,Right foot,"Open play, inside box",Bernardo Silva,Yann Sommer,Estádio do Dragão,Porto,Portugal,Level,1,Exact,S02+S06
+689,M0961,CR7,2019-06-05,2018-19,2019,POR,UNL,Switzerland,90,90,76-90,Right foot,"Open play, inside box",Gonçalo Guedes,Yann Sommer,Estádio do Dragão,Porto,Portugal,Leading,0,Exact,S02+S06
+690,M0964,CR7,2019-08-31,2019-20,2019,JUV,SEA,Napoli,62,62,61-75,Left foot,"Open play, inside box",Douglas Costa,Alex Meret,Juventus Stadium,Turin,Italy,Leading,0,Exact,S02+S06
+691,M0965,CR7,2019-09-07,2019-20,2019,POR,EUQ,Serbia,80,80,76-90,Right foot,"Open play, inside box",Bernardo Silva,Marko Dmitrovic,Rajko Mitić Stadium,Belgrade,Serbia,Leading,0,Exact,S02+S06
+692,M0966,CR7,2019-09-10,2019-20,2019,POR,EUQ,Lithuania,07,7,01-15,Right foot,Penalty,,Ernestas Setkus,LFF Stadium,Vilnius,Lithuania,Level,0,Exact,S02+S06
+693,M0966,CR7,2019-09-10,2019-20,2019,POR,EUQ,Lithuania,61,61,61-75,Right foot,"Open play, outside box",Rafa Silva,Ernestas Setkus,LFF Stadium,Vilnius,Lithuania,Level,0,Exact,S02+S06
+694,M0966,CR7,2019-09-10,2019-20,2019,POR,EUQ,Lithuania,65,65,61-75,Right foot,"Open play, inside box",Bernardo Silva,Ernestas Setkus,LFF Stadium,Vilnius,Lithuania,Leading,0,Exact,S02+S06
+695,M0966,CR7,2019-09-10,2019-20,2019,POR,EUQ,Lithuania,76,76,76-90,Right foot,"Open play, inside box",Bernardo Silva,Ernestas Setkus,LFF Stadium,Vilnius,Lithuania,Leading,0,Exact,S02+S06
+696,M0969,CR7,2019-09-21,2019-20,2019,JUV,SEA,Verona,49,49,46-60,Right foot,Penalty,,Marco Silvestri,Juventus Stadium,Turin,Italy,Level,1,Exact,S02+S06
+697,M0970,CR7,2019-09-28,2019-20,2019,JUV,SEA,SPAL,78,78,76-90,Header,"Open play, inside box",Paulo Dybala,Etrit Berisha,Juventus Stadium,Turin,Italy,Leading,0,Exact,S02+S06
+698,M0971,CR7,2019-10-01,2019-20,2019,JUV,UCL,Bayer Leverkusen,89,89,76-90,Right foot,"Open play, inside box",Paulo Dybala,Lukas Hradecky,Juventus Stadium,Turin,Italy,Leading,0,Exact,S02+S06
+699,M0973,CR7,2019-10-11,2019-20,2019,POR,EUQ,Luxembourg,65,65,61-75,Right foot,"Open play, inside box",,Anthony Moris,Estádio José Alvalade,Lisbon,Portugal,Leading,0,Exact,S02+S06
+700,M0974,CR7,2019-10-14,2019-20,2019,POR,EUQ,Ukraine,72,72,61-75,Right foot,Penalty,,Andriy Pyatov,NSC Olimpiyskiy,Kyiv,Ukraine,Trailing,0,Exact,S02+S06
+701,M0975,CR7,2019-10-19,2019-20,2019,JUV,SEA,Bologna,19,19,16-30,Right foot,"Open play, inside box",,Lukasz Skorupski,Juventus Stadium,Turin,Italy,Level,0,Exact,S02+S06
+702,M0977,CR7,2019-10-30,2019-20,2019,JUV,SEA,Genoa,90+6,90,76-90,Right foot,Penalty,,Ionut Radu,Juventus Stadium,Turin,Italy,Level,1,Exact,S02+S06
+703,M0981,CR7,2019-11-14,2019-20,2019,POR,EUQ,Lithuania,07,7,01-15,Right foot,Penalty,,Ernestas Setkus,Estádio Algarve,Loulé,Portugal,Level,1,Exact,S02+S06
+704,M0981,CR7,2019-11-14,2019-20,2019,POR,EUQ,Lithuania,22,22,16-30,Right foot,"Open play, outside box",Gonçalo Paciencia,Ernestas Setkus,Estádio Algarve,Loulé,Portugal,Leading,0,Exact,S02+S06
+705,M0981,CR7,2019-11-14,2019-20,2019,POR,EUQ,Lithuania,65,65,61-75,Right foot,"Open play, inside box",Bernardo Silva,Ernestas Setkus,Estádio Algarve,Loulé,Portugal,Leading,0,Exact,S02+S06
+706,M0982,CR7,2019-11-17,2019-20,2019,POR,EUQ,Luxembourg,86,86,76-90,Right foot,"Open play, inside box",,Anthony Moris,Stade Josy Barthel,Luxembourg City,Luxembourg,Leading,0,Exact,S02+S06
+707,M0984,CR7,2019-12-01,2019-20,2019,JUV,SEA,Sassuolo,68,68,61-75,Right foot,Penalty,,Stefano Turati,Juventus Stadium,Turin,Italy,Trailing,0,Exact,S02+S06
+708,M0985,CR7,2019-12-07,2019-20,2019,JUV,SEA,Lazio,25,25,16-30,Right foot,"Open play, inside box",Rodrigo Bentancur,Thomas Strakosha,Stadio Olimpico,Rome,Italy,Level,0,Exact,S02+S06
+709,M0986,CR7,2019-12-11,2019-20,2019,JUV,UCL,Bayer Leverkusen,75,75,61-75,Right foot,"Open play, inside box",Paulo Dybala,Lukas Hradecky,BayArena,Leverkusen,Germany,Level,1,Exact,S02+S06
+710,M0987,CR7,2019-12-15,2019-20,2019,JUV,SEA,Udinese,09,9,01-15,Right foot,"Open play, inside box",,Juan Musso,Juventus Stadium,Turin,Italy,Level,0,Exact,S02+S06
+711,M0987,CR7,2019-12-15,2019-20,2019,JUV,SEA,Udinese,37,37,31-45,Left foot,"Open play, inside box",Gonzalo Higuain,Juan Musso,Juventus Stadium,Turin,Italy,Leading,1,Exact,S02+S06
+712,M0988,CR7,2019-12-18,2019-20,2019,JUV,SEA,Sampdoria,45,45,31-45,Header,"Open play, inside box",Alex Sandro,Emil Audero,Stadio Luigi Ferraris,Genoa,Italy,Level,1,Exact,S02+S06
+713,M0990,CR7,2020-01-06,2019-20,2020,JUV,SEA,Cagliari,49,49,46-60,Right foot,"Open play, inside box",,Robin Olsen,Juventus Stadium,Turin,Italy,Level,1,Exact,S02+S06
+714,M0990,CR7,2020-01-06,2019-20,2020,JUV,SEA,Cagliari,67,67,61-75,Right foot,Penalty,,Robin Olsen,Juventus Stadium,Turin,Italy,Leading,0,Exact,S02+S06
+715,M0990,CR7,2020-01-06,2019-20,2020,JUV,SEA,Cagliari,82,82,76-90,Left foot,"Open play, inside box",Douglas Costa,Robin Olsen,Juventus Stadium,Turin,Italy,Leading,0,Exact,S02+S06
+716,M0991,CR7,2020-01-12,2019-20,2020,JUV,SEA,Roma,10,10,01-15,Right foot,Penalty,,Pau López,Stadio Olimpico,Rome,Italy,Leading,0,Exact,S02+S06
+717,M0992,CR7,2020-01-19,2019-20,2020,JUV,SEA,Parma,43,43,31-45,Right foot,"Open play, inside box",Blaise Matuidi,Luigi Sepe,Juventus Stadium,Turin,Italy,Level,0,Exact,S02+S06
+718,M0992,CR7,2020-01-19,2019-20,2020,JUV,SEA,Parma,58,58,46-60,Right foot,"Open play, inside box",Paulo Dybala,Luigi Sepe,Juventus Stadium,Turin,Italy,Level,1,Exact,S02+S06
+719,M0993,CR7,2020-01-22,2019-20,2020,JUV,COI,Roma,26,26,16-30,Left foot,"Open play, inside box",Gonzalo Higuain,Pau López,Juventus Stadium,Turin,Italy,Level,0,Exact,S02+S06
+720,M0994,CR7,2020-01-26,2019-20,2020,JUV,SEA,Napoli,90,90,76-90,Right foot,"Open play, inside box",Rodrigo Bentancur,Alex Meret,Stadio San Paolo,Naples,Italy,Trailing,0,Exact,S02+S06
+721,M0995,CR7,2020-02-02,2019-20,2020,JUV,SEA,Fiorentina,40,40,31-45,Right foot,Penalty,,Bartlomiej Dragowski,Juventus Stadium,Turin,Italy,Level,1,Exact,S02+S06
+722,M0995,CR7,2020-02-02,2019-20,2020,JUV,SEA,Fiorentina,80,80,76-90,Right foot,Penalty,,Bartlomiej Dragowski,Juventus Stadium,Turin,Italy,Leading,0,Exact,S02+S06
+723,M0996,CR7,2020-02-08,2019-20,2020,JUV,SEA,Verona,65,65,61-75,Right foot,"Open play, inside box",Rodrigo Bentancur,Marco Silvestri,Stadio Marcantonio Bentegodi,Verona,Italy,Level,0,Exact,S02+S06
+724,M0997,CR7,2020-02-13,2019-20,2020,JUV,COI,AC Milan,90+1,90,76-90,Right foot,Penalty,,Gianluigi Donnarumma,San Siro,Milan,Italy,Trailing,0,Exact,S02+S06
+725,M0998,CR7,2020-02-22,2019-20,2020,JUV,SEA,SPAL,39,39,31-45,Right foot,"Open play, inside box",Juan Cuadrado,Etrit Berisha,Stadio Paolo Mazza,Ferrara,Italy,Level,0,Exact,S02+S06
+726,M1003,CR7,2020-06-22,2019-20,2020,JUV,SEA,Bologna,23,23,16-30,Right foot,Penalty,,Lukasz Skorupski,Stadio Renato Dall'Ara,Bologna,Italy,Level,1,Exact,S02+S06
+727,M1004,CR7,2020-06-26,2019-20,2020,JUV,SEA,Lecce,62,62,61-75,Right foot,Penalty,,Gabriel,Juventus Stadium,Turin,Italy,Leading,0,Exact,S02+S06
+728,M1005,CR7,2020-06-30,2019-20,2020,JUV,SEA,Genoa,56,56,46-60,Right foot,"Open play, outside box",Miralem Pjanic,Mattia Perin,Stadio Luigi Ferraris,Genoa,Italy,Leading,0,Exact,S02+S06
+729,M1006,CR7,2020-07-04,2019-20,2020,JUV,SEA,Torino,61,61,61-75,Right foot,Direct free kick,,Salvatore Sirigu,Juventus Stadium,Turin,Italy,Leading,0,Exact,S02+S06
+730,M1007,CR7,2020-07-07,2019-20,2020,JUV,SEA,AC Milan,53,53,46-60,Left foot,"Open play, inside box",Juan Cuadrado,Gianluigi Donnarumma,San Siro,Milan,Italy,Leading,0,Exact,S02+S06
+731,M1008,CR7,2020-07-11,2019-20,2020,JUV,SEA,Atalanta,55,55,46-60,Right foot,Penalty,,Pierluigi Gollini,Juventus Stadium,Turin,Italy,Trailing,0,Exact,S02+S06
+732,M1008,CR7,2020-07-11,2019-20,2020,JUV,SEA,Atalanta,90,90,76-90,Right foot,Penalty,,Pierluigi Gollini,Juventus Stadium,Turin,Italy,Trailing,0,Exact,S02+S06
+733,M1010,CR7,2020-07-20,2019-20,2020,JUV,SEA,Lazio,51,51,46-60,Right foot,Penalty,,Thomas Strakosha,Juventus Stadium,Turin,Italy,Level,0,Exact,S02+S06
+734,M1010,CR7,2020-07-20,2019-20,2020,JUV,SEA,Lazio,54,54,46-60,Left foot,"Open play, inside box",Paulo Dybala,Thomas Strakosha,Juventus Stadium,Turin,Italy,Leading,0,Exact,S02+S06
+735,M1012,CR7,2020-07-26,2019-20,2020,JUV,SEA,Sampdoria,45,45,31-45,Right foot,"Open play, inside box",Miralem Pjanic,Emil Audero,Juventus Stadium,Turin,Italy,Level,1,Exact,S02+S06
+736,M1014,CR7,2020-08-07,2019-20,2020,JUV,UCL,Lyon,43,43,31-45,Right foot,Penalty,,Anthony Lopes,Juventus Stadium,Turin,Italy,Trailing,0,Exact,S02+S06
+737,M1014,CR7,2020-08-07,2019-20,2020,JUV,UCL,Lyon,60,60,46-60,Left foot,"Open play, outside box",Federico Bernardeschi,Anthony Lopes,Juventus Stadium,Turin,Italy,Trailing,0,Exact,S02+S06
+738,M1015,CR7,2020-09-08,2020-21,2020,POR,UNL,Sweden,45,45,31-45,Right foot,Direct free kick,,Robin Olsen,Friends Arena,Solna,Sweden,Level,1,Exact,S02+S06
+739,M1015,CR7,2020-09-08,2020-21,2020,POR,UNL,Sweden,72,72,61-75,Right foot,"Open play, outside box",Joao Félix,Robin Olsen,Friends Arena,Solna,Sweden,Leading,0,Exact,S02+S06
+740,M1016,CR7,2020-09-20,2020-21,2020,JUV,SEA,Sampdoria,88,88,76-90,Right foot,"Open play, inside box",Aaron Ramsey,Emil Audero,Juventus Stadium,Turin,Italy,Leading,0,Exact,S02+S06
+741,M1017,CR7,2020-09-27,2020-21,2020,JUV,SEA,Roma,44,44,31-45,Right foot,Penalty,,Antonio Mirante,Stadio Olimpico,Rome,Italy,Trailing,0,Exact,S02+S06
+742,M1017,CR7,2020-09-27,2020-21,2020,JUV,SEA,Roma,69,69,61-75,Header,"Open play, inside box",Danilo,Antonio Mirante,Stadio Olimpico,Rome,Italy,Trailing,0,Exact,S02+S06
+743,M1020,CR7,2020-11-01,2020-21,2020,JUV,SEA,Spezia,59,59,46-60,Right foot,"Open play, inside box",Alvaro Morata,Ivan Provedel,Orogel Stadium – Dino Manuzzi,Cesena,Italy,Level,1,Exact,S02+S06
+744,M1020,CR7,2020-11-01,2020-21,2020,JUV,SEA,Spezia,76,76,76-90,Right foot,Penalty,,Ivan Provedel,Orogel Stadium – Dino Manuzzi,Cesena,Italy,Leading,0,Exact,S02+S06
+745,M1022,CR7,2020-11-08,2020-21,2020,JUV,SEA,Lazio,15,15,01-15,Right foot,"Open play, inside box",Juan Cuadrado,Pepe Reina,Stadio Olimpico,Rome,Italy,Level,0,Exact,S02+S06
+746,M1023,CR7,2020-11-11,2020-21,2020,POR,FRI,Andorra,85,85,76-90,Header,"Open play, inside box",Mario Rui,Josep Gomes,Estádio da Luz,Lisbon,Portugal,Leading,0,Exact,S02+S06
+747,M1026,CR7,2020-11-21,2020-21,2020,JUV,SEA,Cagliari,38,38,31-45,Right foot,"Open play, inside box",Alvaro Morata,Alessio Cragno,Juventus Stadium,Turin,Italy,Level,1,Exact,S02+S06
+748,M1026,CR7,2020-11-21,2020-21,2020,JUV,SEA,Cagliari,42,42,31-45,Right foot,"Open play, inside box",Merih Demiral,Alessio Cragno,Juventus Stadium,Turin,Italy,Leading,0,Exact,S02+S06
+749,M1027,CR7,2020-11-24,2020-21,2020,JUV,UCL,Ferencvaros,35,35,31-45,Left foot,"Open play, outside box",Juan Cuadrado,Dénes Dibusz,Juventus Stadium,Turin,Italy,Trailing,0,Exact,S02+S06
+750,M1028,CR7,2020-12-02,2020-21,2020,JUV,UCL,Dynamo Kyiv,57,57,46-60,Right foot,"Open play, inside box",Alvaro Morata,Georgiy Bushchan,Juventus Stadium,Turin,Italy,Leading,0,Exact,S02+S06
+751,M1030,CR7,2020-12-08,2020-21,2020,JUV,UCL,Barcelona,13,13,01-15,Right foot,Penalty,,Marc-André ter Stegen,Camp Nou,Barcelona,Spain,Level,1,Exact,S02+S06
+752,M1030,CR7,2020-12-08,2020-21,2020,JUV,UCL,Barcelona,52,52,46-60,Right foot,Penalty,,Marc-André ter Stegen,Camp Nou,Barcelona,Spain,Leading,0,Exact,S02+S06
+753,M1031,CR7,2020-12-13,2020-21,2020,JUV,SEA,Genoa,78,78,76-90,Right foot,Penalty,,Mattia Perin,Stadio Luigi Ferraris,Genoa,Italy,Level,1,Exact,S02+S06
+754,M1031,CR7,2020-12-13,2020-21,2020,JUV,SEA,Genoa,89,89,76-90,Right foot,Penalty,,Mattia Perin,Stadio Luigi Ferraris,Genoa,Italy,Leading,0,Exact,S02+S06
+755,M1033,CR7,2020-12-19,2020-21,2020,JUV,SEA,Parma,26,26,16-30,Header,"Open play, inside box",Alvaro Morata,Luigi Sepe,Stadio Ennio Tardini,Parma,Italy,Leading,0,Exact,S02+S06
+756,M1033,CR7,2020-12-19,2020-21,2020,JUV,SEA,Parma,48,48,46-60,Left foot,"Open play, inside box",Aaron Ramsey,Luigi Sepe,Stadio Ennio Tardini,Parma,Italy,Leading,0,Exact,S02+S06
+757,M1035,CR7,2021-01-03,2020-21,2021,JUV,SEA,Udinese,31,31,31-45,Right foot,"Open play, inside box",Aaron Ramsey,Juan Musso,Juventus Stadium,Turin,Italy,Level,0,Exact,S02+S06
+758,M1035,CR7,2021-01-03,2020-21,2021,JUV,SEA,Udinese,70,70,61-75,Left foot,"Open play, inside box",Rodrigo Bentancur,Juan Musso,Juventus Stadium,Turin,Italy,Leading,0,Exact,S02+S06
+759,M1037,CR7,2021-01-10,2020-21,2021,JUV,SEA,Sassuolo,90+2,90,76-90,Right foot,"Open play, inside box",Danilo,Andrea Consigli,Juventus Stadium,Turin,Italy,Leading,0,Exact,S02+S06
+760,M1040,CR7,2021-01-20,2020-21,2021,JUV,SCI,Napoli,64,64,61-75,Left foot,"Open play, inside box",,David Ospina,Mapei Stadium – Città del Tricolore,Reggio Emilia,Italy,Level,1,Exact,S02+S06
+761,M1043,CR7,2021-02-02,2020-21,2021,JUV,COI,Inter Milan,26,26,16-30,Right foot,Penalty,,Samir Handanovic,San Siro,Milan,Italy,Trailing,0,Exact,S02+S06
+762,M1043,CR7,2021-02-02,2020-21,2021,JUV,COI,Inter Milan,35,35,31-45,Left foot,"Open play, outside box",,Samir Handanovic,San Siro,Milan,Italy,Level,1,Exact,S02+S06
+763,M1044,CR7,2021-02-06,2020-21,2021,JUV,SEA,Roma,13,13,01-15,Left foot,"Open play, outside box",Alvaro Morata,Pau López,Juventus Stadium,Turin,Italy,Level,1,Exact,S02+S06
+764,M1048,CR7,2021-02-22,2020-21,2021,JUV,SEA,Crotone,38,38,31-45,Header,"Open play, inside box",Alex Sandro,Alex Cordaz,Juventus Stadium,Turin,Italy,Level,1,Exact,S02+S06
+765,M1048,CR7,2021-02-22,2020-21,2021,JUV,SEA,Crotone,45,45,31-45,Header,"Open play, inside box",Aaron Ramsey,Alex Cordaz,Juventus Stadium,Turin,Italy,Leading,0,Exact,S02+S06
+766,M1049,CR7,2021-02-27,2020-21,2021,JUV,SEA,Verona,49,49,46-60,Right foot,"Open play, inside box",Federico Chiesa,Marco Silvestri,Stadio Marcantonio Bentegodi,Verona,Italy,Level,0,Exact,S02+S06
+767,M1050,CR7,2021-03-02,2020-21,2021,JUV,SEA,Spezia,89,89,76-90,Left foot,"Open play, inside box",Rodrigo Bentancur,Ivan Provedel,Juventus Stadium,Turin,Italy,Leading,0,Exact,S02+S06
+768,M1053,CR7,2021-03-14,2020-21,2021,JUV,SEA,Cagliari,10,10,01-15,Header,"Open play, inside box",Juan Cuadrado,Alessio Cragno,Sardegna Arena,Cagliari,Italy,Level,0,Exact,S02+S06
+769,M1053,CR7,2021-03-14,2020-21,2021,JUV,SEA,Cagliari,25,25,16-30,Right foot,Penalty,,Alessio Cragno,Sardegna Arena,Cagliari,Italy,Leading,0,Exact,S02+S06
+770,M1053,CR7,2021-03-14,2020-21,2021,JUV,SEA,Cagliari,32,32,31-45,Left foot,"Open play, inside box",Federico Chiesa,Alessio Cragno,Sardegna Arena,Cagliari,Italy,Leading,0,Exact,S02+S06
+771,M1057,CR7,2021-03-30,2020-21,2021,POR,WCQ,Luxembourg,50,50,46-60,Right foot,"Open play, inside box",Joao Cancelo,Anthony Moris,Stade Josy Barthel,Luxembourg City,Luxembourg,Level,1,Exact,S02+S06
+772,M1058,CR7,2021-04-03,2020-21,2021,JUV,SEA,Torino,79,79,76-90,Header,"Open play, inside box",Georgio Chiellini,Salvatore Sirigu,Stadio Olimpico Grande Torino,Turin,Italy,Trailing,0,Exact,S02+S06
+773,M1059,CR7,2021-04-07,2020-21,2021,JUV,SEA,Napoli,13,13,01-15,Right foot,"Open play, inside box",Federico Chiesa,Alex Meret,Juventus Stadium,Turin,Italy,Level,0,Exact,S02+S06
+774,M1063,CR7,2021-05-02,2020-21,2021,JUV,SEA,Udinese,83,83,76-90,Right foot,Penalty,,Simone Scuffet,Dacia Arena,Udine,Italy,Trailing,0,Exact,S02+S06
+775,M1063,CR7,2021-05-02,2020-21,2021,JUV,SEA,Udinese,89,89,76-90,Header,"Open play, inside box",Adrien Rabiot,Simone Scuffet,Dacia Arena,Udine,Italy,Level,1,Exact,S02+S06
+776,M1065,CR7,2021-05-12,2020-21,2021,JUV,SEA,Sassuolo,45,45,31-45,Left foot,"Open play, inside box",Adrien Rabiot,Andrea Consigli,Mapei Stadium – Città del Tricolore,Reggio Emilia,Italy,Leading,0,Exact,S02+S06
+777,M1066,CR7,2021-05-15,2020-21,2021,JUV,SEA,Inter Milan,24,24,16-30,Right foot,"Open play, inside box",,Samir Handanovic,Juventus Stadium,Turin,Italy,Level,0,Exact,S02+S06
+778,M1069,CR7,2021-06-09,2020-21,2021,POR,FRI,Israel,44,44,31-45,Left foot,"Open play, inside box",Bruno Fernandes,Ofir Marciano,Estádio José Alvalade,Lisbon,Portugal,Leading,0,Exact,S02+S06
+779,M1070,CR7,2021-06-15,2020-21,2021,POR,EUR,Hungary,87,87,76-90,Right foot,Penalty,,Peter Gulacsi,Puskás Aréna,Budapest,Hungary,Leading,0,Exact,S02+S06
+780,M1070,CR7,2021-06-15,2020-21,2021,POR,EUR,Hungary,90+2,90,76-90,Left foot,"Open play, inside box",Rafa Silva,Peter Gulacsi,Puskás Aréna,Budapest,Hungary,Leading,0,Exact,S02+S06
+781,M1071,CR7,2021-06-19,2020-21,2021,POR,EUR,Germany,15,15,01-15,Left foot,"Open play, inside box",Diogo Jota,Manuel Neuer,Allianz Arena,Munich,Germany,Level,0,Exact,S02+S06
+782,M1072,CR7,2021-06-23,2020-21,2021,POR,EUR,France,31,31,31-45,Right foot,Penalty,,Hugo Lloris,Puskás Aréna,Budapest,Hungary,Level,0,Exact,S02+S06
+783,M1072,CR7,2021-06-23,2020-21,2021,POR,EUR,France,60,60,46-60,Right foot,Penalty,,Hugo Lloris,Puskás Aréna,Budapest,Hungary,Trailing,0,Exact,S02+S06
+784,M1075,CR7,2021-09-01,2021-22,2021,POR,WCQ,Republic of Ireland,89,89,76-90,Header,"Open play, inside box",Gonçalo Guedes,Gavin Bazunu,Estádio Algarve,Loulé,Portugal,Trailing,0,Exact,S02+S06
+785,M1075,CR7,2021-09-01,2021-22,2021,POR,WCQ,Republic of Ireland,90+6,90,76-90,Header,"Open play, inside box",Joao Mario,Gavin Bazunu,Estádio Algarve,Loulé,Portugal,Level,1,Exact,S02+S06
+786,M1076,CR7,2021-09-11,2021-22,2021,MU2,EPL,Newcastle United,45,45,31-45,Right foot,"Open play, inside box",,Freddie Woodman,Old Trafford,Manchester,England,Level,0,Exact,S02+S06
+787,M1076,CR7,2021-09-11,2021-22,2021,MU2,EPL,Newcastle United,62,62,61-75,Left foot,"Open play, inside box",Luke Shaw,Freddie Woodman,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+788,M1077,CR7,2021-09-14,2021-22,2021,MU2,UCL,Young Boys,13,13,01-15,Right foot,"Open play, inside box",Bruno Fernandes,David von Ballmoos,Stadion Wankdorf,Bern,Switzerland,Level,0,Exact,S02+S06
+789,M1078,CR7,2021-09-19,2021-22,2021,MU2,EPL,West Ham United,35,35,31-45,Right foot,"Open play, inside box",,Lukasz Fabianski,London Stadium,London,England,Trailing,0,Exact,S02+S06
+790,M1080,CR7,2021-09-29,2021-22,2021,MU2,UCL,Villarreal,90+5,90,76-90,Right foot,"Open play, inside box",Jesse Lingard,Geronimo Rulli,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+791,M1082,CR7,2021-10-09,2021-22,2021,POR,FRI,Qatar,37,37,31-45,Left foot,"Open play, inside box",Diogo Dalot,Saad Al-Sheeb,Estádio Algarve,Loulé,Portugal,Level,1,Exact,S02+S06
+792,M1083,CR7,2021-10-12,2021-22,2021,POR,WCQ,Luxembourg,08,8,01-15,Right foot,Penalty,,Anthony Moris,Estádio Algarve,Loulé,Portugal,Level,1,Exact,S02+S06
+793,M1083,CR7,2021-10-12,2021-22,2021,POR,WCQ,Luxembourg,13,13,01-15,Right foot,Penalty,,Anthony Moris,Estádio Algarve,Loulé,Portugal,Leading,0,Exact,S02+S06
+794,M1083,CR7,2021-10-12,2021-22,2021,POR,WCQ,Luxembourg,87,87,76-90,Header,"Open play, inside box",Ruben Neves,Anthony Moris,Estádio Algarve,Loulé,Portugal,Leading,0,Exact,S02+S06
+795,M1085,CR7,2021-10-20,2021-22,2021,MU2,UCL,Atalanta,81,81,76-90,Header,"Open play, inside box",Luke Shaw,Juan Musso,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+796,M1087,CR7,2021-10-30,2021-22,2021,MU2,EPL,Tottenham Hotspur,39,39,31-45,Right foot,"Open play, inside box",Bruno Fernandes,Hugo Lloris,Tottenham Hotspur Stadium,London,England,Level,1,Exact,S02+S06
+797,M1088,CR7,2021-11-02,2021-22,2021,MU2,UCL,Atalanta,45,45,31-45,Right foot,"Open play, inside box",Bruno Fernandes,Juan Musso,Gewiss Stadium,Bergamo,Italy,Trailing,0,Exact,S02+S06
+798,M1088,CR7,2021-11-02,2021-22,2021,MU2,UCL,Atalanta,90+1,90,76-90,Right foot,"Open play, outside box",Mason Greenwood,Juan Musso,Gewiss Stadium,Bergamo,Italy,Trailing,0,Exact,S02+S06
+799,M1093,CR7,2021-11-23,2021-22,2021,MU2,UCL,Villarreal,78,78,76-90,Right foot,"Open play, outside box",,Geronimo Rulli,Estadio de la Cerámica,Villarreal,Spain,Level,1,Exact,S02+S06
+800,M1095,CR7,2021-12-02,2021-22,2021,MU2,EPL,Arsenal,52,52,46-60,Right foot,"Open play, inside box",Marcus Rashford,Aaron Ramsdale,Old Trafford,Manchester,England,Level,0,Exact,S02+S06
+801,M1095,CR7,2021-12-02,2021-22,2021,MU2,EPL,Arsenal,70,70,61-75,Right foot,Penalty,,Aaron Ramsdale,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+802,M1097,CR7,2021-12-11,2021-22,2021,MU2,EPL,Norwich City,75,75,61-75,Right foot,Penalty,,Tim Krul,Carrow Road,Norwich,England,Level,1,Exact,S02+S06
+803,M1099,CR7,2021-12-30,2021-22,2021,MU2,EPL,Burnley,35,35,31-45,Right foot,"Open play, inside box",,Wayne Hennessey,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+804,M1106,CR7,2022-02-15,2021-22,2022,MU2,EPL,Brighton,51,51,46-60,Right foot,"Open play, outside box",Scott McTominay,Robert Sanchez,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+805,M1110,CR7,2022-03-12,2021-22,2022,MU2,EPL,Tottenham Hotspur,12,12,01-15,Right foot,"Open play, outside box",Fred,Hugo Lloris,Old Trafford,Manchester,England,Level,0,Exact,S02+S06
+806,M1110,CR7,2022-03-12,2021-22,2022,MU2,EPL,Tottenham Hotspur,38,38,31-45,Right foot,"Open play, inside box",Jadon Sancho,Hugo Lloris,Old Trafford,Manchester,England,Level,0,Exact,S02+S06
+807,M1110,CR7,2022-03-12,2021-22,2022,MU2,EPL,Tottenham Hotspur,81,81,76-90,Header,"Open play, inside box",Alex Telles,Hugo Lloris,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+808,M1115,CR7,2022-04-16,2021-22,2022,MU2,EPL,Norwich City,07,7,01-15,Right foot,"Open play, inside box",Anthony Elanga,Tim Krul,Old Trafford,Manchester,England,Level,0,Exact,S02+S06
+809,M1115,CR7,2022-04-16,2021-22,2022,MU2,EPL,Norwich City,32,32,31-45,Header,"Open play, inside box",Alex Telles,Tim Krul,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+810,M1115,CR7,2022-04-16,2021-22,2022,MU2,EPL,Norwich City,76,76,76-90,Right foot,Direct free kick,,Tim Krul,Old Trafford,Manchester,England,Level,1,Exact,S02+S06
+811,M1116,CR7,2022-04-23,2021-22,2022,MU2,EPL,Arsenal,34,34,31-45,Left foot,"Open play, inside box",Nemanja Matic,Aaron Ramsdale,Emirates Stadium,London,England,Trailing,0,Exact,S02+S06
+812,M1117,CR7,2022-04-28,2021-22,2022,MU2,EPL,Chelsea,62,62,61-75,Right foot,"Open play, inside box",Nemanja Matic,Edouard Mendy,Old Trafford,Manchester,England,Trailing,0,Exact,S02+S06
+813,M1118,CR7,2022-05-02,2021-22,2022,MU2,EPL,Brentford,61,61,61-75,Right foot,Penalty,,David Raya,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+814,M1121,CR7,2022-06-05,2021-22,2022,POR,UNL,Switzerland,35,35,31-45,Right foot,"Open play, inside box",Diogo Jota,Gregor Kobel,Estádio José Alvalade,Lisbon,Portugal,Leading,0,Exact,S02+S06
+815,M1121,CR7,2022-06-05,2021-22,2022,POR,UNL,Switzerland,40,40,31-45,Right foot,"Open play, inside box",,Gregor Kobel,Estádio José Alvalade,Lisbon,Portugal,Leading,0,Exact,S02+S06
+816,M1130,CR7,2022-09-15,2022-23,2022,MU2,UEL,FC Sheriff,39,39,31-45,Right foot,Penalty,,Maksym Koval,Zimbru Stadium,Chișinău,Moldova,Leading,0,Exact,S02+S06
+817,M1134,CR7,2022-10-09,2022-23,2022,MU2,EPL,Everton,44,44,31-45,Left foot,"Open play, inside box",Casemiro,Jordan Pickford,Goodison Park,Liverpool,England,Level,1,Exact,S02+S06
+818,M1137,CR7,2022-10-27,2022-23,2022,MU2,UEL,FC Sheriff,81,81,76-90,Left foot,"Open play, inside box",,Maksym Koval,Old Trafford,Manchester,England,Leading,0,Exact,S02+S06
+819,M1141,CR7,2022-11-24,2022-23,2022,POR,WC,Ghana,65,65,61-75,Right foot,Penalty,,Lawrence Ati-Zigi,Stadium 974,Doha,Qatar,Level,0,Exact,S02+S06
+820,M1148,CR7,2023-02-03,2022-23,2023,NAS,SPL,Al Fateh,90,90,76-90,Right foot,Penalty,,Jacob Rinne,Prince Abdullah bin Jalawi Stadium,Hofuf,Saudi Arabia,Trailing,0,Exact,S02+S06
+821,M1149,CR7,2023-02-09,2022-23,2023,NAS,SPL,Al-Wehda,21,21,16-30,Left foot,"Open play, inside box",Abdulrahman Ghareeb,Abdulquddus Atiah,King Abdulaziz Sports City Stadium,Mecca,Saudi Arabia,Level,1,Exact,S02+S06
+822,M1149,CR7,2023-02-09,2022-23,2023,NAS,SPL,Al-Wehda,40,40,31-45,Right foot,"Open play, inside box",Sami Al-Najei,Abdulquddus Atiah,King Abdulaziz Sports City Stadium,Mecca,Saudi Arabia,Leading,0,Exact,S02+S06
+823,M1149,CR7,2023-02-09,2022-23,2023,NAS,SPL,Al-Wehda,53,53,46-60,Right foot,Penalty,Abdulrahman Ghareeb,Abdulquddus Atiah,King Abdulaziz Sports City Stadium,Mecca,Saudi Arabia,Leading,0,Exact,S02+S06
+824,M1149,CR7,2023-02-09,2022-23,2023,NAS,SPL,Al-Wehda,61,61,61-75,Right foot,"Open play, inside box",,Abdulquddus Atiah,King Abdulaziz Sports City Stadium,Mecca,Saudi Arabia,Leading,0,Exact,S02+S06
+825,M1151,CR7,2023-02-25,2022-23,2023,NAS,SPL,Damac,18,18,16-30,Right foot,Penalty,,Moustapha Zeghba,Prince Sultan bin Abdul Aziz Stadium,Abha,Saudi Arabia,Level,1,Exact,S02+S06
+826,M1151,CR7,2023-02-25,2022-23,2023,NAS,SPL,Damac,23,23,16-30,Left foot,"Open play, inside box",Sultan Al-Ghannam,Moustapha Zeghba,Prince Sultan bin Abdul Aziz Stadium,Abha,Saudi Arabia,Leading,0,Exact,S02+S06
+827,M1151,CR7,2023-02-25,2022-23,2023,NAS,SPL,Damac,44,44,31-45,Right foot,"Open play, outside box",Ayman Yahya,Moustapha Zeghba,Prince Sultan bin Abdul Aziz Stadium,Abha,Saudi Arabia,Leading,0,Exact,S02+S06
+828,M1155,CR7,2023-03-18,2022-23,2023,NAS,SPL,Abha,79,79,76-90,Right foot,Direct free kick,,Devis Epassy,King Saud University Stadium,Riyadh,Saudi Arabia,Trailing,0,Exact,S02+S06
+829,M1156,CR7,2023-03-23,2022-23,2023,POR,EUQ,Liechtenstein,51,51,46-60,Right foot,Penalty,,Benjamin Büchel,Estádio José Alvalade,Lisbon,Portugal,Leading,0,Exact,S02+S06
+830,M1156,CR7,2023-03-23,2022-23,2023,POR,EUQ,Liechtenstein,63,63,61-75,Right foot,Direct free kick,,Benjamin Büchel,Estádio José Alvalade,Lisbon,Portugal,Leading,0,Exact,S02+S06
+831,M1157,CR7,2023-03-26,2022-23,2023,POR,EUQ,Luxembourg,09,9,01-15,Left foot,"Open play, inside box",Nuno Mendes,Anthony Moris,Stade de Luxembourg,Luxembourg City,Luxembourg,Level,1,Exact,S02+S06
+832,M1157,CR7,2023-03-26,2022-23,2023,POR,EUQ,Luxembourg,31,31,31-45,Left foot,"Open play, inside box",Bruno Fernandes,Anthony Moris,Stade de Luxembourg,Luxembourg City,Luxembourg,Leading,0,Exact,S02+S06
+833,M1158,CR7,2023-04-04,2022-23,2023,NAS,SPL,Al-Adalah,40,40,31-45,Right foot,Penalty,,Milan Mijatović,Prince Abdullah bin Jalawi Stadium,Hofuf,Saudi Arabia,Level,1,Exact,S02+S06
+834,M1158,CR7,2023-04-04,2022-23,2023,NAS,SPL,Al-Adalah,66,66,61-75,Left foot,"Open play, inside box",Talisca,Milan Mijatović,Prince Abdullah bin Jalawi Stadium,Hofuf,Saudi Arabia,Leading,0,Exact,S02+S06
+835,M1162,CR7,2023-04-28,2022-23,2023,NAS,SPL,Al-Raed,04,4,01-15,Header,"Open play, inside box",Sultan Al-Ghanam,Silviu Lung Jr,King Saud University Stadium,Riyadh,Saudi Arabia,Level,1,Exact,S02+S06
+836,M1164,CR7,2023-05-16,2022-23,2023,NAS,SPL,Al Taee,52,52,46-60,Right foot,Penalty,,Victor Braga,Prince Abdul Aziz bin Musa'ed Stadium,Ha'il,Saudi Arabia,Level,1,Exact,S02+S06
+837,M1165,CR7,2023-05-23,2022-23,2023,NAS,SPL,Al Shabab,59,59,46-60,Right foot,"Open play, outside box",Luiz Gustavo,Seung-gyu Kim,King Saud University Stadium,Riyadh,Saudi Arabia,Level,1,Exact,S02+S06
+838,M1168,CR7,2023-06-20,2022-23,2023,POR,EUQ,Iceland,89,89,76-90,Right foot,"Open play, inside box",Gonçalo Inacio,Runar Alex Runarsson,Laugardalsvöllur,Reykjavík,Iceland,Level,1,Exact,S02+S06
+839,M1170,CR7,2023-07-31,2023-24,2023,NAS,ARC,US Monastir,74,74,61-75,Header,"Open play, inside box",Sultan Al-Ghanam,Bechir Ben Said,King Fahd Stadium,Taif,Saudi Arabia,Level,1,Exact,S02+S06
+840,M1171,CR7,2023-08-03,2023-24,2023,NAS,ARC,Zamalek,87,87,76-90,Header,"Open play, inside box",Ghislain Konan,Mohamed Sobhi,King Fahd Stadium,Taif,Saudi Arabia,Trailing,0,Exact,S02+S06
+841,M1172,CR7,2023-08-06,2023-24,2023,NAS,ARC,Raja CA,19,19,16-30,Left foot,"Open play, inside box",Talisca,Anas Zniti,Prince Sultan bin Abdul Aziz Stadium,Abha,Saudi Arabia,Level,0,Exact,S02+S06
+842,M1173,CR7,2023-08-09,2023-24,2023,NAS,ARC,Al-Shorta,75,75,61-75,Right foot,Penalty,,Ahmed Basil,Prince Sultan bin Abdul Aziz Stadium,Abha,Saudi Arabia,Level,1,Exact,S02+S06
+843,M1174,CR7,2023-08-12,2023-24,2023,NAS,ARC,Al Hilal,74,74,61-75,Right foot,"Open play, inside box",Sultan Al-Ghanam,Mohammed Al-Owais,King Fahd Stadium,Taif,Saudi Arabia,Trailing,0,Exact,S02+S06
+844,M1174,CR7,2023-08-12,2023-24,2023,NAS,ARC,Al Hilal,98,98,90+ and extra time,Header,"Open play, inside box",,Mohammed Al-Owais,King Fahd Stadium,Taif,Saudi Arabia,Level,1,Exact,S02+S06
+845,M1177,CR7,2023-08-25,2023-24,2023,NAS,SPL,Al Fateh,38,38,31-45,Header,"Open play, inside box",Sultan Al-Ghanam,Jacob Rinne,Prince Abdullah bin Jalawi Stadium,Hofuf,Saudi Arabia,Leading,0,Exact,S02+S06
+846,M1177,CR7,2023-08-25,2023-24,2023,NAS,SPL,Al Fateh,55,55,46-60,Left foot,"Open play, inside box",Abdulrahman Ghareeb,Jacob Rinne,Prince Abdullah bin Jalawi Stadium,Hofuf,Saudi Arabia,Leading,0,Exact,S02+S06
+847,M1177,CR7,2023-08-25,2023-24,2023,NAS,SPL,Al Fateh,90+6,90,76-90,Left foot,"Open play, inside box",Nawaf Boushal,Jacob Rinne,Prince Abdullah bin Jalawi Stadium,Hofuf,Saudi Arabia,Leading,0,Exact,S02+S06
+848,M1178,CR7,2023-08-29,2023-24,2023,NAS,SPL,Al Shabab,13,13,01-15,Right foot,Penalty,,Seung-gyu Kim,King Saud University Stadium,Riyadh,Saudi Arabia,Level,1,Exact,S02+S06
+849,M1178,CR7,2023-08-29,2023-24,2023,NAS,SPL,Al Shabab,38,38,31-45,Right foot,Penalty,,Seung-gyu Kim,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+850,M1179,CR7,2023-09-02,2023-24,2023,NAS,SPL,Al-Hazem,68,68,61-75,Right foot,"Open play, inside box",Abdulrahman Ghareeb,Aymen Dahmen,King Abdullah Sport City Stadium,Buraidah,Saudi Arabia,Leading,0,Exact,S02+S06
+851,M1181,CR7,2023-09-16,2023-24,2023,NAS,SPL,Al-Raed,78,78,76-90,Left foot,"Open play, inside box",Talisca,André Moreira,King Abdullah Sport City Stadium,Buraidah,Saudi Arabia,Leading,0,Exact,S02+S06
+852,M1183,CR7,2023-09-22,2023-24,2023,NAS,SPL,Al-Ahli,04,4,01-15,Left foot,"Open play, inside box",Sadio Mané,Edouard Mendy,King Saud University Stadium,Riyadh,Saudi Arabia,Level,0,Exact,S02+S06
+853,M1183,CR7,2023-09-22,2023-24,2023,NAS,SPL,Al-Ahli,52,52,46-60,Left foot,"Open play, outside box",Talisca,Edouard Mendy,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+854,M1184,CR7,2023-09-29,2023-24,2023,NAS,SPL,Al Taee,87,87,76-90,Right foot,Penalty,,Victor Braga,Prince Abdul Aziz bin Musa'ed Stadium,Ha'il,Saudi Arabia,Level,1,Exact,S02+S06
+855,M1185,CR7,2023-10-02,2023-24,2023,NAS,ACL,Istiklol,66,66,61-75,Left foot,"Open play, inside box",,Rustam Yatimov,King Saud University Stadium,Riyadh,Saudi Arabia,Trailing,0,Exact,S02+S06
+856,M1187,CR7,2023-10-13,2023-24,2023,POR,EUQ,Slovakia,29,29,16-30,Right foot,Penalty,,Martin Dúbravka,Estádio do Dragão,Porto,Portugal,Leading,0,Exact,S02+S06
+857,M1187,CR7,2023-10-13,2023-24,2023,POR,EUQ,Slovakia,72,72,61-75,Right foot,"Open play, inside box",Bruno Fernandes,Martin Dúbravka,Estádio do Dragão,Porto,Portugal,Leading,0,Exact,S02+S06
+858,M1188,CR7,2023-10-16,2023-24,2023,POR,EUQ,Bosnia and Herzegovina,05,5,01-15,Right foot,Penalty,,Ibrahim Sehic,Bilino Polje Stadium,Zenica,Bosnia and Herzegovina,Level,1,Exact,S02+S06
+859,M1188,CR7,2023-10-16,2023-24,2023,POR,EUQ,Bosnia and Herzegovina,20,20,16-30,Right foot,"Open play, inside box",Joao Félix,Ibrahim Sehic,Bilino Polje Stadium,Zenica,Bosnia and Herzegovina,Leading,0,Exact,S02+S06
+860,M1189,CR7,2023-10-21,2023-24,2023,NAS,SPL,Damac,56,56,46-60,Right foot,Direct free kick,,Moustapha Zeghba,King Saud University Stadium,Riyadh,Saudi Arabia,Level,1,Exact,S02+S06
+861,M1190,CR7,2023-10-24,2023-24,2023,NAS,ACL,Al Duhail,61,61,61-75,Left foot,"Open play, outside box",Sultan Al-Ghanam,Salah Zakaria,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+862,M1190,CR7,2023-10-24,2023-24,2023,NAS,ACL,Al Duhail,81,81,76-90,Left foot,"Open play, inside box",Sultan Al-Ghanam,Salah Zakaria,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+863,M1193,CR7,2023-11-04,2023-24,2023,NAS,SPL,Al-Khaleej,26,26,16-30,Right foot,"Open play, outside box",Abdulrahman Ghareeb,Marwan Al-Haidari,King Saud University Stadium,Riyadh,Saudi Arabia,Level,1,Exact,S02+S06
+864,M1194,CR7,2023-11-11,2023-24,2023,NAS,SPL,Al-Wehda,49,49,46-60,Right foot,"Open play, inside box",,Monir El Kajoui,King Abdulaziz Sports City Stadium,Mecca,Saudi Arabia,Leading,0,Exact,S02+S06
+865,M1195,CR7,2023-11-16,2023-24,2023,POR,EUQ,Liechtenstein,47,47,46-60,Left foot,"Open play, inside box",Diogo Jota,Benjamin Büchel,Rheinpark Stadion,Vaduz,Liechtenstein,Level,1,Exact,S02+S06
+866,M1197,CR7,2023-11-24,2023-24,2023,NAS,SPL,Al-Okhdood,77,77,76-90,Right foot,"Open play, inside box",,Paulo Vitor,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+867,M1197,CR7,2023-11-24,2023-24,2023,NAS,SPL,Al-Okhdood,80,80,76-90,Right foot,"Open play, outside box",,Paulo Vitor,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+868,M1200,CR7,2023-12-08,2023-24,2023,NAS,SPL,Al Riyadh,31,31,31-45,Right foot,"Open play, inside box",Sadio Mané,Martín Campaña,King Saud University Stadium,Riyadh,Saudi Arabia,Level,0,Exact,S02+S06
+869,M1201,CR7,2023-12-11,2023-24,2023,NAS,SKC,Al Shabab,74,74,61-75,Right foot,"Open play, inside box",Otavio,Seung-gyu Kim,Al-Shabab Club Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+870,M1202,CR7,2023-12-22,2023-24,2023,NAS,SPL,Al-Ettifaq,73,73,61-75,Right foot,Penalty,,Paulo Vitor,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+871,M1203,CR7,2023-12-26,2023-24,2023,NAS,SPL,Al-Ittihad,19,19,16-30,Right foot,Penalty,,Abdullah Al-Mayouf,Prince Abdullah Al-Faisal Stadium,Jeddah,Saudi Arabia,Trailing,0,Exact,S02+S06
+872,M1203,CR7,2023-12-26,2023-24,2023,NAS,SPL,Al-Ittihad,68,68,61-75,Right foot,Penalty,,Abdullah Al-Mayouf,Prince Abdullah Al-Faisal Stadium,Jeddah,Saudi Arabia,Level,1,Exact,S02+S06
+873,M1204,CR7,2023-12-30,2023-24,2023,NAS,SPL,Al-Taawoun,90+2,90,76-90,Header,"Open play, inside box",Seko Fofana,Mohammed Al-Absi,King Abdullah Sport City Stadium,Buraidah,Saudi Arabia,Leading,0,Exact,S02+S06
+874,M1205,CR7,2024-02-14,2023-24,2024,NAS,ACL,Al Feiha,81,81,76-90,Right foot,"Open play, inside box",Marcelo Brozovic,Vladimir Stojković,Prince Faisal bin Fahd Stadium,Riyadh,Saudi Arabia,Level,1,Exact,S02+S06
+875,M1206,CR7,2024-02-17,2023-24,2024,NAS,SPL,Al Fateh,17,17,16-30,Right foot,"Open play, inside box",Sultan Al-Ghanam,Raghid Najjar,King Saud University Stadium,Riyadh,Saudi Arabia,Level,0,Exact,S02+S06
+876,M1207,CR7,2024-02-21,2023-24,2024,NAS,ACL,Al Feiha,86,86,76-90,Right foot,"Open play, inside box",,Vladimir Stojković,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+877,M1208,CR7,2024-02-25,2023-24,2024,NAS,SPL,Al Shabab,21,21,16-30,Right foot,Penalty,,Mohammed Al-Absi,Al-Shabab Club Stadium,Riyadh,Saudi Arabia,Level,0,Exact,S02+S06
+878,M1211,CR7,2024-03-11,2023-24,2024,NAS,ACL,Al-Ain,118,118,90+ and extra time,Right foot,Penalty,,Khalid Eisa,King Saud University Stadium,Riyadh,Saudi Arabia,Trailing,0,Exact,S02+S06
+879,M1212,CR7,2024-03-15,2023-24,2024,NAS,SPL,Al-Ahli,68,68,61-75,Right foot,Penalty,,Edouard Mendy,King Abdullah Sports City,Jeddah,Saudi Arabia,Level,1,Exact,S02+S06
+880,M1214,CR7,2024-03-30,2023-24,2024,NAS,SPL,Al Taee,64,64,61-75,Right foot,"Open play, inside box",Sadio Mané,Moataz Al-Baqaawi,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+881,M1214,CR7,2024-03-30,2023-24,2024,NAS,SPL,Al Taee,67,67,61-75,Right foot,"Open play, inside box",,Moataz Al-Baqaawi,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+882,M1214,CR7,2024-03-30,2023-24,2024,NAS,SPL,Al Taee,87,87,76-90,Header,"Open play, inside box",Abdulmajeed Al-Sulayhim,Moataz Al-Baqaawi,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+883,M1215,CR7,2024-04-02,2023-24,2024,NAS,SPL,Abha,11,11,01-15,Right foot,Direct free kick,,Ciprian Tătărușanu,Prince Sultan bin Abdul Aziz Stadium,Abha,Saudi Arabia,Level,1,Exact,S02+S06
+884,M1215,CR7,2024-04-02,2023-24,2024,NAS,SPL,Abha,21,21,16-30,Right foot,Direct free kick,,Ciprian Tătărușanu,Prince Sultan bin Abdul Aziz Stadium,Abha,Saudi Arabia,Leading,0,Exact,S02+S06
+885,M1215,CR7,2024-04-02,2023-24,2024,NAS,SPL,Abha,42,42,31-45,Right foot,"Open play, outside box",Abdulrahman Ghareeb,Ciprian Tătărușanu,Prince Sultan bin Abdul Aziz Stadium,Abha,Saudi Arabia,Leading,0,Exact,S02+S06
+886,M1219,CR7,2024-05-01,2023-24,2024,NAS,SKC,Al-Khaleej,17,17,16-30,Left foot,"Open play, inside box",Ayman Yahya,Ibrahim Sehic,King Saud University Stadium,Riyadh,Saudi Arabia,Level,0,Exact,S02+S06
+887,M1219,CR7,2024-05-01,2023-24,2024,NAS,SKC,Al-Khaleej,57,57,46-60,Left foot,"Open play, inside box",Ayman Yahya,Ibrahim Sehic,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+888,M1220,CR7,2024-05-04,2023-24,2024,NAS,SPL,Al-Wehda,05,5,01-15,Right foot,"Open play, inside box",,Munir Mohamedi,King Saud University Stadium,Riyadh,Saudi Arabia,Level,1,Exact,S02+S06
+889,M1220,CR7,2024-05-04,2023-24,2024,NAS,SPL,Al-Wehda,12,12,01-15,Header,"Open play, inside box",Marcelo Brozovic,Munir Mohamedi,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+890,M1220,CR7,2024-05-04,2023-24,2024,NAS,SPL,Al-Wehda,52,52,46-60,Left foot,"Open play, inside box",Sadio Mané,Munir Mohamedi,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+891,M1221,CR7,2024-05-09,2023-24,2024,NAS,SPL,Al-Okhdood,15,15,01-15,Right foot,"Open play, inside box",Ali Al-Hassan,Paulo Vitor,Prince Hathloul bin Abdul Aziz Sports City,Najran,Saudi Arabia,Leading,0,Exact,S02+S06
+892,M1224,CR7,2024-05-27,2023-24,2024,NAS,SPL,Al-Ittihad,45,45,31-45,Left foot,"Open play, inside box",Mohammed Al-Fatil,Mohammed Al-Mahasneh,King Saud University Stadium,Riyadh,Saudi Arabia,Level,0,Exact,S02+S06
+893,M1224,CR7,2024-05-27,2023-24,2024,NAS,SPL,Al-Ittihad,69,69,61-75,Header,"Open play, inside box",Marcelo Brozovic,Mohammed Al-Mahasneh,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+894,M1226,CR7,2024-06-11,2023-24,2024,POR,FRI,Republic of Ireland,50,50,46-60,Left foot,"Open play, inside box",Ruben Neves,Caoimhin Kelleher,Estádio Municipal de Aveiro,Aveiro,Portugal,Leading,0,Exact,S02+S06
+895,M1226,CR7,2024-06-11,2023-24,2024,POR,FRI,Republic of Ireland,60,60,46-60,Left foot,"Open play, inside box",Diogo Jota,Caoimhin Kelleher,Estádio Municipal de Aveiro,Aveiro,Portugal,Leading,0,Exact,S02+S06
+896,M1232,CR7,2024-08-14,2024-25,2024,NAS,SSC,Al-Taawoun,57,57,46-60,Right foot,"Open play, inside box",Sultan Al-Ghannam,Mailson,Prince Sultan bin Abdul Aziz Stadium,Abha,Saudi Arabia,Leading,0,Exact,S02+S06
+897,M1233,CR7,2024-08-17,2024-25,2024,NAS,SSC,Al Hilal,44,44,31-45,Right foot,"Open play, inside box",Abdulrahman Ghareeb,Bono,Prince Sultan bin Abdul Aziz Stadium,Abha,Saudi Arabia,Level,0,Exact,S02+S06
+898,M1234,CR7,2024-08-22,2024-25,2024,NAS,SPL,Al-Raed,34,34,31-45,Header,"Open play, inside box",Sadio Mané,Meshary Sanyor,King Saud University Stadium,Riyadh,Saudi Arabia,Level,0,Exact,S02+S06
+899,M1235,CR7,2024-08-27,2024-25,2024,NAS,SPL,Al Feiha,45,45,31-45,Right foot,Direct free kick,,Abdulraouf Al-Duqayl,King Abdullah Sport City Stadium,Buraidah,Saudi Arabia,Leading,0,Exact,S02+S06
+900,M1236,CR7,2024-09-05,2024-25,2024,POR,UNL,Croatia,34,34,31-45,Right foot,"Open play, inside box",Nuno Mendes,Dominik Livaković,Estádio da Luz,Lisbon,Portugal,Leading,0,Exact,S02+S06
+901,M1237,CR7,2024-09-08,2024-25,2024,POR,UNL,Scotland,88,88,76-90,Right foot,"Open play, inside box",Nuno Mendes,Angus Gunn,Estádio da Luz,Lisbon,Portugal,Level,1,Exact,S02+S06
+902,M1239,CR7,2024-09-20,2024-25,2024,NAS,SPL,Al-Ettifaq,33,33,31-45,Right foot,Penalty,,Marek Rodák,Al-Ettifaq Club Stadium,Dammam,Saudi Arabia,Level,1,Exact,S02+S06
+903,M1240,CR7,2024-09-27,2024-25,2024,NAS,SPL,Al-Wehda,56,56,46-60,Right foot,Penalty,,Abdullah Al-Oaisher,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+904,M1241,CR7,2024-09-30,2024-25,2024,NAS,ACL,Al-Rayyan,76,76,76-90,Left foot,"Open play, inside box",Abdulrahman Ghareeb,Paulo Victor,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+905,M1242,CR7,2024-10-05,2024-25,2024,NAS,SPL,Al-Orobah,17,17,16-30,Right foot,Penalty,,Gaetan Coucke,King Saud University Stadium,Riyadh,Saudi Arabia,Level,1,Exact,S02+S06
+906,M1243,CR7,2024-10-12,2024-25,2024,POR,UNL,Poland,37,37,31-45,Left foot,"Open play, inside box",,Angus Gunn,PGE Narodowy,Warsaw,Poland,Leading,0,Exact,S02+S06
+907,M1245,CR7,2024-10-18,2024-25,2024,NAS,SPL,Al Shabab,90+7,90,76-90,Right foot,Penalty,,Seung-gyu Kim,Al-Shabab Club Stadium,Riyadh,Saudi Arabia,Level,1,Exact,S02+S06
+908,M1249,CR7,2024-11-05,2024-25,2024,NAS,ACL,Al-Ain,31,31,31-45,Left foot,"Open play, inside box",,Khalid Eisa,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+909,M1251,CR7,2024-11-15,2024-25,2024,POR,UNL,Poland,72,72,61-75,Right foot,Penalty,,Marcin Bułka,Estádio do Dragão,Porto,Portugal,Leading,0,Exact,S02+S06
+910,M1251,CR7,2024-11-15,2024-25,2024,POR,UNL,Poland,87,87,76-90,Right foot,"Open play, inside box",Vitinha,Marcin Bułka,Estádio do Dragão,Porto,Portugal,Leading,0,Exact,S02+S06
+911,M1252,CR7,2024-11-22,2024-25,2024,NAS,SPL,Al Qadasiya,32,32,31-45,Right foot,"Open play, inside box",Mohamed Simakan,Koen Casteels,King Saud University Stadium,Riyadh,Saudi Arabia,Level,0,Exact,S02+S06
+912,M1253,CR7,2024-11-25,2024-25,2024,NAS,ACL,Al-Gharafa,46,46,46-60,Header,"Open play, inside box",Sultan Al-Ghannam,Sergio Rico,Al Bayt Stadium,Al Khor,Qatar,Level,0,Exact,S02+S06
+913,M1253,CR7,2024-11-25,2024-25,2024,NAS,ACL,Al-Gharafa,64,64,61-75,Right foot,"Open play, inside box",Angelo,Sergio Rico,Al Bayt Stadium,Al Khor,Qatar,Leading,0,Exact,S02+S06
+914,M1254,CR7,2024-11-29,2024-25,2024,NAS,SPL,Damac,17,17,16-30,Right foot,Penalty,,Amin Al-Bukhari,King Saud University Stadium,Riyadh,Saudi Arabia,Level,1,Exact,S02+S06
+915,M1254,CR7,2024-11-29,2024-25,2024,NAS,SPL,Damac,79,79,76-90,Left foot,"Open play, inside box",Nawaf Boushal,Amin Al-Bukhari,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+916,M1255,CR7,2024-12-06,2024-25,2024,NAS,SPL,Al-Ittihad,57,57,46-60,Right foot,"Open play, inside box",Angelo,Predrag Rajković,King Abdullah Sports City,Jeddah,Saudi Arabia,Trailing,0,Exact,S02+S06
+917,M1256,CR7,2025-01-09,2024-25,2025,NAS,SPL,Al-Okhdood,42,42,31-45,Right foot,Penalty,,Paulo Vitor,King Saud University Stadium,Riyadh,Saudi Arabia,Level,1,Exact,S02+S06
+918,M1258,CR7,2025-01-21,2024-25,2025,NAS,SPL,Al-Khaleej,65,65,61-75,Right foot,"Open play, outside box",Otavio,Ibrahim Sehic,Prince Mohamed bin Fahd Stadium,Dammam,Saudi Arabia,Level,0,Exact,S02+S06
+919,M1258,CR7,2025-01-21,2024-25,2025,NAS,SPL,Al-Khaleej,90+8,90,76-90,Left foot,"Open play, inside box",Saad Haqawi,Ibrahim Sehic,Prince Mohamed bin Fahd Stadium,Dammam,Saudi Arabia,Leading,0,Exact,S02+S06
+920,M1259,CR7,2025-01-26,2024-25,2025,NAS,SPL,Al Fateh,87,87,76-90,Right foot,"Open play, inside box",Sadio Mané,Peter Szappanos,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+921,M1260,CR7,2025-01-30,2024-25,2025,NAS,SPL,Al-Raed,35,35,31-45,Right foot,"Open play, inside box",Marcelo Brozovic,Mshari Sanyoor,King Abdullah Sport City Stadium,Buraidah,Saudi Arabia,Level,0,Exact,S02+S06
+922,M1261,CR7,2025-02-03,2024-25,2025,NAS,ACL,Al-Wasl,44,44,31-45,Right foot,Penalty,,Anas Zniti,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+923,M1261,CR7,2025-02-03,2024-25,2025,NAS,ACL,Al-Wasl,78,78,76-90,Header,"Open play, inside box",Sadio Mané,Anas Zniti,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+924,M1262,CR7,2025-02-07,2024-25,2025,NAS,SPL,Al Feiha,74,74,61-75,Right foot,"Open play, inside box",Nawaf Boushal,Orlando Mosquera,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+925,M1265,CR7,2025-02-25,2024-25,2025,NAS,SPL,Al-Wehda,48,48,46-60,Header,"Open play, inside box",Angelo,Abdullah Al-Oaisher,King Abdulaziz Sports City Stadium,Mecca,Saudi Arabia,Level,1,Exact,S02+S06
+926,M1267,CR7,2025-03-07,2024-25,2025,NAS,SPL,Al Shabab,45,45,31-45,Right foot,"Open play, inside box",,Georgiy Bushchan,King Saud University Stadium,Riyadh,Saudi Arabia,Level,0,Exact,S02+S06
+927,M1268,CR7,2025-03-10,2024-25,2025,NAS,ACL,Esteghlal,27,27,16-30,Right foot,Penalty,,Seyed Hossein Hosseini,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+928,M1269,CR7,2025-03-14,2024-25,2025,NAS,SPL,Al-Kholood,04,4,01-15,Right foot,"Open play, inside box",,Marcelo Grohe,King Saud University Stadium,Riyadh,Saudi Arabia,Level,0,Exact,S02+S06
+929,M1271,CR7,2025-03-23,2024-25,2025,POR,UNL,Denmark,72,72,61-75,Right foot,"Open play, inside box",,Kasper Schmeichel,Estádio José Alvalade,Lisbon,Portugal,Trailing,0,Exact,S02+S06
+930,M1272,CR7,2025-04-04,2024-25,2025,NAS,SPL,Al Hilal,47,47,46-60,Left foot,"Open play, inside box",Sadio Mané,Bono,Kingdom Arena,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+931,M1272,CR7,2025-04-04,2024-25,2025,NAS,SPL,Al Hilal,88,88,76-90,Right foot,Penalty,,Bono,Kingdom Arena,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+932,M1273,CR7,2025-04-12,2024-25,2025,NAS,SPL,Al Riyadh,56,56,46-60,Right foot,"Open play, inside box",Sadio Mané,Milan Borjan,King Saud University Stadium,Riyadh,Saudi Arabia,Trailing,0,Exact,S02+S06
+933,M1273,CR7,2025-04-12,2024-25,2025,NAS,SPL,Al Riyadh,64,64,61-75,Right foot,"Open play, outside box",,Milan Borjan,King Saud University Stadium,Riyadh,Saudi Arabia,Level,1,Exact,S02+S06
+934,M1275,CR7,2025-04-26,2024-25,2025,NAS,ACL,Yokohama FM,38,38,31-45,Right foot,"Open play, inside box",,Il-gyu Park,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+935,M1278,CR7,2025-05-21,2024-25,2025,NAS,SPL,Al-Khaleej,90+7,90,76-90,Right foot,Penalty,,Raed Ozaybi,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+936,M1279,CR7,2025-05-26,2024-25,2025,NAS,SPL,Al Fateh,42,42,31-45,Header,"Open play, inside box",Mohammed Al-Fatil,Nawaf Al-Aqidi,Al-Fateh Club Stadium,Hofuf,Saudi Arabia,Level,0,Exact,S02+S06
+937,M1280,CR7,2025-06-04,2024-25,2025,POR,UNL,Germany,68,68,61-75,Right foot,"Open play, inside box",Nuno Mendes,Marc-André ter Stegen,Allianz Arena,Munich,Germany,Level,1,Exact,S02+S06
+938,M1281,CR7,2025-06-08,2024-25,2025,POR,UNL,Spain,61,61,61-75,Right foot,"Open play, inside box",Nuno Mendes,Unai Simon,Allianz Arena,Munich,Germany,Trailing,0,Exact,S02+S06
+939,M1283,CR7,2025-08-23,2025-26,2025,NAS,SSC,Al-Ahli,41,41,31-45,Right foot,Penalty,,Edouard Mendy,Hong Kong Stadium,Hong Kong,Hong Kong,Level,0,Exact,S02+S06
+940,M1284,CR7,2025-08-29,2025-26,2025,NAS,SPL,Al-Taawoun,54,54,46-60,Right foot,Penalty,,Abdulquddus Atiah,King Abdullah Sport City Stadium,Buraidah,Saudi Arabia,Leading,0,Exact,S02+S06
+941,M1285,CR7,2025-09-06,2025-26,2025,POR,WCQ,Armenia,21,21,16-30,Right foot,"Open play, inside box",Pedro Neto,Henri Avagyan,Vazgen Sargsyan Republican Stadium,Yerevan,Armenia,Leading,0,Exact,S02+S06
+942,M1285,CR7,2025-09-06,2025-26,2025,POR,WCQ,Armenia,46,46,46-60,Right foot,"Open play, outside box",,Henri Avagyan,Vazgen Sargsyan Republican Stadium,Yerevan,Armenia,Leading,0,Exact,S02+S06
+943,M1286,CR7,2025-09-09,2025-26,2025,POR,WCQ,Hungary,58,58,46-60,Right foot,Penalty,,Balázs Tóth,Puskás Aréna,Budapest,Hungary,Level,0,Exact,S02+S06
+944,M1288,CR7,2025-09-20,2025-26,2025,NAS,SPL,Al Riyadh,33,33,31-45,Right foot,"Open play, inside box",Joao Félix,Milan Borjan,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+945,M1288,CR7,2025-09-20,2025-26,2025,NAS,SPL,Al Riyadh,76,76,76-90,Left foot,"Open play, inside box",Kingsley Coman,Milan Borjan,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+946,M1289,CR7,2025-09-26,2025-26,2025,NAS,SPL,Al-Ittihad,35,35,31-45,Header,"Open play, inside box",Sadio Mané,Predrag Rajković,Alinma Stadium,Jeddah,Saudi Arabia,Leading,0,Exact,S02+S06
+947,M1291,CR7,2025-10-14,2025-26,2025,POR,WCQ,Hungary,22,22,16-30,Left foot,"Open play, inside box",Nelson Semedo,Balázs Tóth,Estádio José Alvalade,Lisbon,Portugal,Trailing,0,Exact,S02+S06
+948,M1291,CR7,2025-10-14,2025-26,2025,POR,WCQ,Hungary,45,45,31-45,Right foot,"Open play, inside box",Nuno Mendes,Balázs Tóth,Estádio José Alvalade,Lisbon,Portugal,Level,0,Exact,S02+S06
+949,M1292,CR7,2025-10-18,2025-26,2025,NAS,SPL,Al Fateh,60,60,46-60,Right foot,"Open play, outside box",Sadio Mané,Amin Al-Bukhari,King Saud University Stadium,Riyadh,Saudi Arabia,Level,1,Exact,S02+S06
+950,M1293,CR7,2025-10-25,2025-26,2025,NAS,SPL,Al-Hazem,88,88,76-90,Left foot,"Open play, inside box",Wesley,Bruno Varela,King Abdullah Sport City Stadium,Buraidah,Saudi Arabia,Leading,0,Exact,S02+S06
+951,M1295,CR7,2025-11-01,2025-26,2025,NAS,SPL,Al Feiha,37,37,31-45,Right foot,"Open play, inside box",Kingsley Coman,Orlando Mosquera,King Saud University Stadium,Riyadh,Saudi Arabia,Trailing,0,Exact,S02+S06
+952,M1295,CR7,2025-11-01,2025-26,2025,NAS,SPL,Al Feiha,90+14,90,76-90,Right foot,Penalty,,Orlando Mosquera,King Saud University Stadium,Riyadh,Saudi Arabia,Level,1,Exact,S02+S06
+953,M1296,CR7,2025-11-08,2025-26,2025,NAS,SPL,Neom SC,65,65,61-75,Right foot,Penalty,,Luís Maximiano,King Khalid Sport City Stadium,Tabuk,Saudi Arabia,Leading,0,Exact,S02+S06
+954,M1298,CR7,2025-11-23,2025-26,2025,NAS,SPL,Al-Khaleej,90+6,90,76-90,Right foot,"Open play, inside box",Nawaf Boushal,Anthony Moris,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+955,M1300,CR7,2025-12-27,2025-26,2025,NAS,SPL,Al-Okhdood,31,31,31-45,Right foot,"Open play, inside box",Abdulelah Al-Amri,Samuel Portugal,King Saud University Stadium,Riyadh,Saudi Arabia,Level,1,Exact,S02+S06
+956,M1300,CR7,2025-12-27,2025-26,2025,NAS,SPL,Al-Okhdood,45,45,31-45,Right foot,"Open play, inside box",Marcelo Brozovic,Samuel Portugal,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+957,M1301,CR7,2025-12-30,2025-26,2025,NAS,SPL,Al-Ettifaq,67,67,61-75,Other,"Open play, inside box",Joao Félix,Marek Rodák,King Saud University Stadium,Riyadh,Saudi Arabia,Level,0,Exact,S02+S06
+958,M1303,CR7,2026-01-08,2025-26,2026,NAS,SPL,Al Qadasiya,81,81,76-90,Right foot,Penalty,,Ahmed Al-Kassar,King Saud University Stadium,Riyadh,Saudi Arabia,Trailing,0,Exact,S02+S06
+959,M1304,CR7,2026-01-12,2025-26,2026,NAS,SPL,Al Hilal,42,42,31-45,Right foot,"Open play, inside box",Kingsley Coman,Mohammed Al-Yami,Kingdom Arena,Riyadh,Saudi Arabia,Level,0,Exact,S02+S06
+960,M1306,CR7,2026-01-21,2025-26,2026,NAS,SPL,Damac,50,50,46-60,Right foot,"Open play, inside box",Joao Félix,Kewin,Prince Sultan bin Abdul Aziz Stadium,Abha,Saudi Arabia,Leading,0,Exact,S02+S06
+961,M1308,CR7,2026-01-30,2025-26,2026,NAS,SPL,Al-Kholood,47,47,46-60,Right foot,"Open play, inside box",Joao Félix,Juan Pablo Cozzani,King Abdullah Sport City Stadium,Buraidah,Saudi Arabia,Level,1,Exact,S02+S06
+962,M1309,CR7,2026-02-14,2025-26,2026,NAS,SPL,Al Fateh,18,18,16-30,Right foot,"Open play, inside box",Sadio Mané,Fernando Pacheco,Al-Fateh Club Stadium,Hofuf,Saudi Arabia,Level,1,Exact,S02+S06
+963,M1310,CR7,2026-02-21,2025-26,2026,NAS,SPL,Al-Hazem,13,13,01-15,Left foot,"Open play, inside box",Kingsley Coman,Ibrahim Zaied,King Saud University Stadium,Riyadh,Saudi Arabia,Level,1,Exact,S02+S06
+964,M1310,CR7,2026-02-21,2025-26,2026,NAS,SPL,Al-Hazem,79,79,76-90,Left foot,"Open play, inside box",Kingsley Coman,Ibrahim Zaied,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+965,M1311,CR7,2026-02-25,2025-26,2026,NAS,SPL,Al-Najma,07,7,01-15,Right foot,Penalty,,Victor Braga,King Abdullah Sport City Stadium,Buraidah,Saudi Arabia,Level,1,Exact,S02+S06
+966,M1313,CR7,2026-04-03,2025-26,2026,NAS,SPL,Al-Najma,56,56,46-60,Right foot,Penalty,,Victor Braga,King Saud University Stadium,Riyadh,Saudi Arabia,Level,1,Exact,S02+S06
+967,M1313,CR7,2026-04-03,2025-26,2026,NAS,SPL,Al-Najma,72,72,61-75,Right foot,"Open play, inside box",Nawaf Boushal,Victor Braga,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+968,M1314,CR7,2026-04-11,2025-26,2026,NAS,SPL,Al-Okhdood,15,15,01-15,Right foot,"Open play, inside box",Nawaf Boushal,Samuel Portugal,Prince Hathloul bin Abdul Aziz Sports City,Najran,Saudi Arabia,Level,1,Exact,S02+S06
+969,M1316,CR7,2026-04-19,2025-26,2026,NAS,AC2,Al-Wasl,11,11,01-15,Right foot,"Open play, inside box",Nawaf Boushal,Mohamed Ali,Zabeel Stadium,Dubai,United Arab Emirates,Level,1,Exact,S02+S06
+970,M1318,CR7,2026-04-29,2025-26,2026,NAS,SPL,Al-Ahli,76,76,76-90,Header,"Open play, inside box",Joao Félix,Edouard Mendy,King Saud University Stadium,Riyadh,Saudi Arabia,Level,1,Exact,S02+S06
+971,M1320,CR7,2026-05-07,2025-26,2026,NAS,SPL,Al Shabab,75,75,61-75,Left foot,"Open play, inside box",Sadio Mané,Marcelo Grohe,SHG Arena,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+972,M1323,CR7,2026-05-21,2025-26,2026,NAS,SPL,Damac,63,63,61-75,Right foot,Direct free kick,,Kewin,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+973,M1323,CR7,2026-05-21,2025-26,2026,NAS,SPL,Damac,81,81,76-90,Right foot,"Open play, inside box",,Kewin,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+974,M1327,CR7,2026-06-23,2025-26,2026,POR,WC,Uzbekistan,06,6,01-15,Right foot,"Open play, inside box",Joao Cancelo,Abduvokhid Nematov,NRG Stadium,Houston,United States of America,Level,1,Exact,S02+S06
+975,M1327,CR7,2026-06-23,2025-26,2026,POR,WC,Uzbekistan,39,39,31-45,Right foot,"Open play, inside box",Bruno Fernandes,Abduvokhid Nematov,NRG Stadium,Houston,United States of America,Leading,0,Exact,S02+S06
+976,M1329,CR7,2026-07-02,2025-26,2026,POR,WC,Croatia,68,68,61-75,Right foot,Penalty,,Dominik Livaković,BMO Field,Toronto,Canada,Trailing,0,Exact,S02+S06
+977,M1331,CR7,2026-08-21,2026-27,2026,NAS,SPL,Al Riyadh,83,83,76-90,Left foot,"Open play, inside box",Ayman Yahya,Milan Borjan,Prince Faisal bin Fahd Sports City Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+978,M1333,CR7,2026-08-28,2026-27,2026,NAS,SPL,Al-Taawoun,50,50,46-60,Right foot,"Open play, inside box",Mohamed Simakan,Mailson,King Saud University Stadium,Riyadh,Saudi Arabia,Level,1,Exact,S02+S06
+979,M1335,CR7,2026-09-09,2026-27,2026,NAS,SPL,Abha,22,22,16-30,Header,"Open play, inside box",Angelo,Donovan Leon,King Saud University Stadium,Riyadh,Saudi Arabia,Level,0,Exact,S02+S06
+980,M1339,CR7,2026-10-09,2026-27,2026,NAS,SPL,Diriyah,23,23,16-30,Right foot,"Open play, inside box",,Waleed Abdullah,King Saud University Stadium,Riyadh,Saudi Arabia,Level,1,Exact,S02+S06
+981,M1340,CR7,2026-10-12,2026-27,2026,NAS,ACL,Neftchi Fergana,42,42,31-45,Right foot,"Open play, inside box",Ayman Yahya,Botirali Ergashev,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+982,M1342,CR7,2026-10-23,2026-27,2026,NAS,SPL,Al Faisaly,49,49,46-60,Header,"Open play, inside box",Joao Félix,Fernando Pacheco,Majmaah Sports City Stadium,Majmaah,Saudi Arabia,Leading,0,Exact,S02+S06
+983,M1343,CR7,2026-10-29,2026-27,2026,NAS,SPL,Al-Kholood,66,66,61-75,Left foot,"Open play, inside box",Joao Félix,Hamed Al-Shanqity,King Saud University Stadium,Riyadh,Saudi Arabia,Level,0,Exact,S02+S06
+984,M1343,CR7,2026-10-29,2026-27,2026,NAS,SPL,Al-Kholood,72,72,61-75,Header,"Open play, inside box",Joao Félix,Hamed Al-Shanqity,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06
+985,M1343,CR7,2026-10-29,2026-27,2026,NAS,SPL,Al-Kholood,81,81,76-90,Right foot,"Open play, inside box",Sadio Mané,Hamed Al-Shanqity,King Saud University Stadium,Riyadh,Saudi Arabia,Leading,0,Exact,S02+S06

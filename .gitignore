@@ -1,0 +1,10 @@
+# Third-party source snapshots and private working notes stay local
+data/raw/
+_brief/
+.claude/
+# Generated bundles for the Claude dashboard, and full-size originals
+dashboard/store/
+dashboard/img*.js
+dashboard/images/*.jpg
+dashboard/images/*.png
+__pycache__/

@@ -1,0 +1,18 @@
+/* The theme values the dashboard runtime normally supplies. */
+:root {
+  --font-anthropic-sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-anthropic-serif: Georgia, "Times New Roman", serif;
+  --cds-font-size-caption: .8125rem; --cds-font-size-body: .9375rem; --cds-font-size-heading: 1.0625rem; --cds-font-size-title: 1.75rem;
+  --cds-font-weight-medium: 500;
+  --cds-gap-xs: 4px; --cds-gap-sm: 8px; --cds-gap-md: 16px; --cds-gap-lg: 24px;
+  --cds-pad-xs: 4px; --cds-pad-sm: 8px; --cds-pad-md: 12px; --cds-pad-lg: 20px;
+  --cds-radius: 8px; --cds-dur-slow: .3s; --cds-ease-out: cubic-bezier(.2, .8, .2, 1);
+  --cds-shadow-popover: 0 8px 24px rgba(0, 0, 0, .45);
+}
+html, body { margin: 0; background: #070B1A; }
+.dash-select { font: inherit; font-size: var(--cds-font-size-caption); padding: 5px 8px; border: 1px solid rgba(255, 255, 255, .25); border-radius: 8px; max-width: 13rem; }
+.site-foot { display: grid; gap: 6px; padding: 24px clamp(1rem, 4vw, 3rem) 32px; color: #AEB8D6; font-size: .8125rem; border-top: 1px solid rgba(255, 255, 255, .13); }
+.site-foot p { margin: 0; max-width: 90ch; }
+.site-foot a { color: #FFC400; }
+.load-error { margin: 0; padding: 12px clamp(1rem, 4vw, 3rem); background: #7A0A08; color: #FFFFFF; }
+.load-error[hidden] { display: none; }

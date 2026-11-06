@@ -1,0 +1,55 @@
+﻿check_id,area,check_name,expected,actual,status,note,source_id
+Q001,Reconciliation,Official senior matches vs Ronaldo Stats,1343,1343,PASS,,S10
+Q002,Reconciliation,Career goals vs Wikipedia goal list,985,985,PASS,,S06
+Q003,Reconciliation,Career goals in match log vs every-goal feed,985,985,PASS,,S02
+Q004,Reconciliation,Career goals vs CR7 Counter (2 Nov 2026),985,985,PASS,,S11
+Q005,Reconciliation,Goals by team: Sporting CP,5,5,PASS,,S05+S10
+Q006,Reconciliation,Goals by team: Real Madrid,450,450,PASS,,S05+S10
+Q007,Reconciliation,Goals by team: Juventus,101,101,PASS,,S05+S10
+Q008,Reconciliation,Goals by team: Al Nassr,138,138,PASS,,S05+S10
+Q009,Reconciliation,Goals by team: Portugal,146,146,PASS,,S05+S10
+Q010,Reconciliation,"Goals, Manchester United (both spells)",145,145,PASS,,S05+S10
+Q011,Reconciliation,Goal-by-goal date match against Wikipedia,985,975,EXPLAINED,"10 goals across 5 matches differ by one day, consistent with UTC vs local dating. Goal order agrees. Matches: 2009-12-19, 2010-10-03, 2011-01-09, 2016-06-09, 2019-02-02",S06
+Q012,Reconciliation,Club season-competition cells vs Wikipedia table (apps and goals),135,135,PASS,All cells agree,S05
+Q013,Reconciliation,"Portugal year rows vs Wikipedia (competitive and friendly, apps and goals)",24,24,PASS,All years agree,S05
+Q014,Reconciliation,Cap number of each international goal vs Wikipedia,146,146,PASS,All cap numbers agree,S07
+Q015,Reconciliation,World Cup goals and caps,"11 goals, 27 apps","11 goals, 27 apps",PASS,,S10
+Q016,Reconciliation,Euro goals and caps,"14 goals, 30 apps","14 goals, 30 apps",PASS,,S10
+Q017,Reconciliation,Red cards all join to a senior match,13,13,PASS,,S17
+Q018,Discrepancy,Champions League goals: UEFA 141 vs databases 140,141,141,EXPLAINED,"140 in the competition proper plus 1 qualifying goal (Debrecen, 9 August 2005). UEFA counts qualifying; most databases do not. Dashboard shows 140 with the 141 note.",S12
+Q019,Discrepancy,Real Madrid goals: club 451 vs databases 450,451,450,EXPLAINED,"One goal v Real Sociedad, 18 September 2010. La Liga and UEFA credit Pepe; Marca credits Ronaldo. The club's 451 and its La Liga 312 (vs 311) are consistent with counting it, though the club does not state this. Dashboard uses 450.",S13+S05
+Q020,Discrepancy,"Club appearances: Wikipedia 1,111 vs match log 1,109",1111,1109,EXPLAINED,Wikipedia adds 2 Sporting CP B matches. Reserve football is held out of first-team totals.,S05
+Q021,Discrepancy,International caps: Guinness 233 vs match log 234,233,233,EXPLAINED,Guinness page runs to 6 July 2026; the Wales match on 24 September 2026 is cap 234.,S15
+Q022,Discrepancy,Assists: 291 (Ronaldo Stats) vs 261 (Opta),291,261,EXPLAINED,"Opta 261 is the default. The match feed's wider definition gives 329; Ronaldo Stats gives 291 (Portugal 45 vs Opta 37). The definitions differ, so none is simply wrong.",S01+S10
+Q023,Discrepancy,"Trophies: 37 tracker, 35 Wikipedia, 34 with an appearance",37,34,EXPLAINED,"No recorded appearance in Supertaca 2002, Community Shield 2008 or UEFA Super Cup 2016. Wikipedia omits the latter two. Dashboard headline uses trophies with an appearance.",S03+S05
+Q024,Discrepancy,Red cards: ESPN 14 vs senior 13,14,13,EXPLAINED,"ESPN's list includes Portugal U17 v France U17, 28 April 2002: youth football.",S17+S18
+Q025,Discrepancy,Hat-tricks: match log 67 vs detailed list 66,67,66,REVIEW,Same provider disagrees with itself. Match-log value is used.,S01
+Q026,Discrepancy,Free-kick goals: match log 65 vs detailed list 64,65,64,EXPLAINED,"Goal-level feed also gives 65, so 65 is used; the 64-row list looks one row short.",S01+S02
+Q027,Discrepancy,"1,000th senior appearance: BBC 22 February 2020 vs match log",2020-02-22,2020-03-08,EXPLAINED,"BBC's count includes the 2 Sporting CP B matches; without them appearance 1,000 falls two games later.",S05
+Q028,Internal logic,Starts + substitute = appearances,1343,1343,PASS,,
+Q029,Internal logic,Left + right + head + other = goals,985,985,PASS,,
+Q030,Internal logic,Goal situations cover all goals,985,985,PASS,,
+Q031,Internal logic,Unique match ids,1343,1343,PASS,,
+Q032,Internal logic,Matches without a valid competition or team key,0,0,PASS,,
+Q033,Internal logic,National opponents without a confederation,0,0,PASS,,
+Q034,Internal logic,Season table rolls up to match log (club apps),1109,1109,PASS,,
+Q035,Internal logic,Season table rolls up to match log (club goals),839,839,PASS,,
+Q036,Internal logic,Tournament line-ups that fail to join a match,0,0,PASS,,S09
+Q037,Coverage,"World Cup and Euro matches with a line-up (cards, captain)",57,57,PASS,Complete,S09
+Q038,Completeness,match_statistics.yellow_cards,1343,57,INFO,"4.2% populated. Yellows exist only for World Cup and Euro matches. Transfermarkt and FBref, which carry season cards, could not be reached. Missing values are NULL, not zero.",S01
+Q039,Completeness,match_statistics.captain,1343,57,INFO,"4.2% populated. Available only for World Cup and Euro matches. Missing values are NULL, not zero.",S01
+Q040,Completeness,match_statistics.shots,1343,943,INFO,"70.2% populated. Partial before 2009-10. Missing values are NULL, not zero.",S01
+Q041,Completeness,match_statistics.shots_on_target,1343,943,INFO,"70.2% populated. Partial before 2009-10. Missing values are NULL, not zero.",S01
+Q042,Completeness,match_statistics.key_passes,1343,943,INFO,"70.2% populated. Partial before 2009-10. Missing values are NULL, not zero.",S01
+Q043,Completeness,match_statistics.xg,1343,397,INFO,"29.6% populated. Recent seasons only. Missing values are NULL, not zero.",S01
+Q044,Completeness,match_statistics.xa,1343,397,INFO,"29.6% populated. Recent seasons only. Missing values are NULL, not zero.",S01
+Q045,Completeness,match_statistics.match_rating,1343,943,INFO,"70.2% populated. Partial before 2009-10. Missing values are NULL, not zero.",S01
+Q046,Completeness,match_statistics.man_of_the_match,1343,943,INFO,"70.2% populated. Partial. Missing values are NULL, not zero.",S01
+Q047,Completeness,goal_statistics.assisted_by,985,652,INFO,"NULL means no assister (solo, penalty, free kick) or unknown.",S02
+Q048,Completeness,goal_statistics.opponent_goalkeeper,985,985,PASS,,S02
+Q049,Completeness,goal_statistics.stadium,985,985,PASS,,S02
+Q050,Completeness,goal_statistics.minute,985,985,PASS,,S02
+Q051,Coverage,Tier 1 cross-checks performed,"FIFA, UEFA, Real Madrid, Man Utd, Juventus, Saudi Pro League","UEFA, FIFA, Real Madrid, Guinness",INFO,"Man Utd, Juventus and Saudi Pro League sites were not used. Transfermarkt, FBref, WorldFootball and 11v11 could not be reached, so cross-checks rely on Wikipedia, Ronaldo Stats and CR7 Counter.",
+Q052,Coverage,Independence of cross-checks,Independent,Partly independent,INFO,"S01 is compiled mainly from Opta, S06 cites FBref, S05 cites WorldFootball and Soccerway. These may share upstream providers, so agreement is strong evidence, not proof.",
+Q053,Coverage,Data freshness (last match in log),2026-10-29,2026-10-29,PASS,Portugal play Denmark on 14 November and Norway on 17 November 2026; totals may change.,S01+S19
+Q054,Coverage,Yellow cards career total,162,162,REVIEW,"Single press source dated 14 November 2025, scope not stated. Stored in career_overview.csv only.",S18

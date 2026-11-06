@@ -1,0 +1,39 @@
+﻿competition_id,competition,competition_type,team_id,team,appearances,starts,substitute_appearances,minutes_played,goals,assists,assists_all_definitions,pens_scored,pens_missed,hat_tricks,free_kick_goals,headed_goals,left_foot_goals,right_foot_goals,winning_goals,yellow_cards,red_cards,goals_per_appearance,goals_per_90,assists_per_appearance,assists_per_90,wins,draws,losses,shots,first_match,last_match,source_id
+AC2,AFC Champions League Two,AFC club competition,NAS,Al Nassr,4,4,0,280,1,1,1,0,0,0,0,0,0,1,1,,0,0.25,0.321,0.25,0.321,3,0,1,16,2025-12-24,2026-05-16,S01+S17
+ACL,AFC Champions League / Elite,AFC club competition,NAS,Al Nassr,19,19,0,1685,15,2,2,3,0,0,0,2,5,8,1,,0,0.789,0.801,0.105,0.107,15,1,3,,2023-08-22,2026-10-12,S01+S17
+ARC,Arab Club Champions Cup,Regional club competition,NAS,Al Nassr,6,5,1,503,6,0,1,1,0,0,0,3,1,2,3,,0,1.0,1.074,0.0,0.0,4,2,0,27,2023-07-28,2023-08-12,S01+S17
+CDR,Copa del Rey,Domestic cup,RMA,Real Madrid,30,28,2,2571,22,3,3,3,0,2,2,3,6,13,4,,1,0.733,0.77,0.1,0.105,19,6,5,,2010-10-26,2017-01-25,S01+S17
+COI,Coppa Italia,Domestic cup,JUV,Juventus,10,8,2,766,4,0,0,2,1,0,0,0,2,2,1,,0,0.4,0.47,0.0,0.0,5,4,1,41,2019-01-12,2021-05-19,S01+S17
+CWC,FIFA Club World Cup,FIFA club competition,MU1,Manchester United (2003-09),2,2,0,180,1,1,1,0,0,0,0,1,0,0,0,,0,0.5,0.5,0.5,0.5,2,0,0,,2008-12-18,2008-12-21,S01+S17
+CWC,FIFA Club World Cup,FIFA club competition,RMA,Real Madrid,6,6,0,561,6,2,2,1,0,1,1,0,2,4,2,,0,1.0,0.963,0.333,0.321,6,0,0,,2014-12-16,2017-12-16,S01+S17
+ELC,Football League Cup,Domestic league cup,MU1,Manchester United (2003-09),12,10,2,930,4,1,1,2,0,0,0,1,0,3,0,,0,0.333,0.387,0.083,0.097,5,3,4,,2003-12-03,2009-03-01,S01+S17
+EPL,Premier League,Domestic league,MU1,Manchester United (2003-09),196,157,39,14553,84,34,49,11,2,1,11,11,14,58,26,,4,0.429,0.519,0.173,0.21,132,36,28,,2003-08-16,2009-05-16,S01+S17
+EPL,Premier League,Domestic league,MU2,Manchester United (2021-22),40,31,9,2980,19,3,3,3,0,2,1,2,3,14,8,,0,0.475,0.574,0.075,0.091,20,8,12,135,2021-09-11,2022-11-06,S01+S17
+FAC,FA Cup,Domestic cup,MU1,Manchester United (2003-09),26,23,3,2076,13,6,9,3,0,0,0,2,4,7,6,,0,0.5,0.564,0.231,0.26,18,5,3,,2004-01-25,2009-02-15,S01+S17
+FAC,FA Cup,Domestic cup,MU2,Manchester United (2021-22),1,1,0,120,0,0,0,0,1,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,0,1,0,10,2022-02-04,2022-02-04,S01+S17
+FCS,FA Community Shield,Domestic super cup,MU1,Manchester United (2003-09),1,1,0,120,0,0,0,0,0,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,0,1,0,,2007-08-05,2007-08-05,S01+S17
+LAL,La Liga,Domestic league,RMA,Real Madrid,292,284,8,25103,311,87,98,61,11,34,20,52,55,203,56,,4,1.065,1.115,0.298,0.312,216,44,32,1968,2009-08-29,2018-05-19,S01+S17
+PRI,Primeira Liga,Domestic league,SPO,Sporting CP,25,11,14,1069,3,4,5,0,0,0,0,1,0,2,1,,0,0.12,0.253,0.16,0.337,11,6,8,,2002-09-29,2003-06-01,S01+S17
+SCE,Supercopa de España,Domestic super cup,RMA,Real Madrid,7,5,2,474,4,0,0,0,0,0,0,1,0,3,2,,1,0.571,0.759,0.0,0.0,2,2,3,,2011-08-14,2017-08-13,S01+S17
+SCI,Supercoppa Italiana,Domestic super cup,JUV,Juventus,3,3,0,270,2,0,1,0,0,0,0,1,1,0,2,,0,0.667,0.667,0.0,0.0,2,0,1,16,2019-01-16,2021-01-20,S01+S17
+SEA,Serie A,Domestic league,JUV,Juventus,98,94,4,8440,81,16,22,23,4,2,1,13,16,52,21,,0,0.827,0.864,0.163,0.171,69,17,12,554,2018-08-18,2021-08-22,S01+S17
+SKC,King's Cup (Saudi Arabia),Domestic cup,NAS,Al Nassr,8,8,0,769,3,0,0,0,1,0,0,0,2,1,0,,0,0.375,0.351,0.0,0.0,4,1,3,43,2023-03-14,2025-10-28,S01+S17
+SPL,Saudi Pro League,Domestic league,NAS,Al Nassr,117,115,2,10100,110,18,24,27,4,7,6,14,20,75,33,,0,0.94,0.98,0.154,0.16,85,15,17,608,2023-01-22,2026-10-29,S01+S17
+SSC,Saudi Super Cup,Domestic super cup,NAS,Al Nassr,6,6,0,526,3,2,2,1,0,0,0,0,0,3,0,,1,0.5,0.513,0.333,0.342,2,1,3,27,2023-01-26,2025-08-23,S01+S17
+TDP,Taça de Portugal,Domestic cup,SPO,Sporting CP,3,2,1,172,2,0,0,0,0,0,0,0,2,0,0,,0,0.667,1.047,0.0,0.0,2,0,1,,2002-11-24,2003-03-09,S01+S17
+UCL,UEFA Champions League,UEFA club competition,JUV,Juventus,23,23,0,2031,14,4,5,4,0,1,0,4,2,8,3,,1,0.609,0.62,0.174,0.177,15,2,6,111,2018-09-19,2021-03-09,S01+S17
+UCL,UEFA Champions League,UEFA club competition,MU1,Manchester United (2003-09),52,48,4,4283,15,9,13,1,1,0,2,6,1,8,5,,0,0.288,0.315,0.173,0.189,26,14,12,232,2003-10-01,2009-05-27,S01+S17
+UCL,UEFA Champions League,UEFA club competition,MU2,Manchester United (2021-22),7,7,0,612,6,0,0,0,0,0,0,1,0,5,3,,0,0.857,0.882,0.0,0.0,3,2,2,22,2021-09-14,2022-03-15,S01+S17
+UCL,UEFA Champions League,UEFA club competition,RMA,Real Madrid,101,100,1,9018,105,28,32,14,2,7,10,14,17,74,23,,0,1.04,1.048,0.277,0.279,71,18,12,657,2009-09-15,2018-05-26,S01+S17
+UCQ,UEFA Champions League qualifying,UEFA club competition,MU1,Manchester United (2003-09),3,3,0,221,1,1,1,0,0,0,0,0,0,1,0,,0,0.333,0.407,0.333,0.407,3,0,0,,2004-08-25,2005-08-24,S01+S17
+UCQ,UEFA Champions League qualifying,UEFA club competition,SPO,Sporting CP,1,0,1,32,0,0,0,0,0,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,0,1,0,,2002-08-14,2002-08-14,S01+S17
+UEC,UEFA Cup,UEFA club competition,SPO,Sporting CP,2,1,1,119,0,0,1,0,0,0,0,0,0,0,0,,0,0.0,0.0,0.0,0.0,0,1,1,,2002-09-19,2002-10-03,S01+S17
+UEL,UEFA Europa League,UEFA club competition,MU2,Manchester United (2021-22),6,6,0,531,2,2,2,1,0,0,0,0,1,1,0,,0,0.333,0.339,0.333,0.339,5,0,1,31,2022-09-08,2022-11-03,S01+S17
+USC,UEFA Super Cup,UEFA club competition,RMA,Real Madrid,2,1,1,97,2,0,0,0,0,0,0,0,1,1,1,,0,1.0,1.856,0.0,0.0,2,0,0,7,2014-08-12,2017-08-08,S01+S17
+CFC,FIFA Confederations Cup,International tournament,POR,Portugal,4,4,0,367,2,1,1,1,0,0,0,1,0,1,2,,0,0.5,0.49,0.25,0.245,2,2,0,,2017-06-18,2017-06-28,S01+S17
+EUQ,UEFA European Championship qualifiers,International qualifier,POR,Portugal,44,44,0,3754,41,5,7,8,0,3,4,3,10,28,10,,0,0.932,0.983,0.114,0.12,32,9,3,,2006-09-06,2023-11-19,S01+S17
+EUR,UEFA European Championship,International tournament,POR,Portugal,30,28,2,2640,14,7,10,3,2,0,0,5,2,7,4,4,0,0.467,0.477,0.233,0.239,14,9,7,160,2004-06-12,2024-07-05,S01+S17
+FRI,International friendly,International friendly,POR,Portugal,56,47,9,3578,22,9,14,1,3,0,1,6,7,9,6,,0,0.393,0.553,0.161,0.226,33,9,14,,2003-08-20,2026-06-10,S01+S17
+UNL,UEFA Nations League,International league,POR,Portugal,21,19,2,1717,15,2,3,1,1,1,2,0,1,14,4,,0,0.714,0.786,0.095,0.105,14,4,3,87,2019-06-05,2026-09-24,S01+S17
+WC,FIFA World Cup,International tournament,POR,Portugal,27,25,2,2203,11,2,2,4,1,1,1,1,2,8,3,4,0,0.407,0.449,0.074,0.082,11,8,8,120,2006-06-11,2026-07-06,S01+S17
+WCQ,FIFA World Cup qualifiers,International qualifier,POR,Portugal,52,51,1,4361,41,11,14,5,3,5,3,12,11,18,12,,1,0.788,0.846,0.212,0.227,36,13,3,,2004-09-04,2025-11-13,S01+S17

@@ -1,0 +1,8 @@
+﻿career_period,team_id,club,country,league,first_match,last_match,date_left,status,appearances,goals,notes,source_id
+0,SPOB,Sporting CP B,Portugal,Segunda Divisao B,,,,Ended; excluded from totals,2,0,"Reserve-team appearances. Wikipedia includes them (club apps 1,111); the official first-team log does not (1,109).",S05
+1,SPO,Sporting CP,Portugal,Primeira Liga,2002-08-14,2003-06-01,2003-08-12,Ended,31,5,Senior debut and breakthrough,S01+S05
+2,MU1,Manchester United (first spell),England,Premier League,2003-08-16,2009-05-27,2009-07-01,Ended,292,118,"Premier League, Champions League, first Ballon d'Or",S01+S05
+3,RMA,Real Madrid,Spain,La Liga,2009-08-29,2018-05-26,2018-07-10,Ended,438,450,All-time club top scorer; four Champions League titles,S01+S05
+4,JUV,Juventus,Italy,Serie A,2018-08-18,2021-08-22,2021-08-31,Ended,134,101,Two Serie A titles; Capocannoniere,S01+S05
+5,MU2,Manchester United (second spell),England,Premier League,2021-09-11,2022-11-06,2022-11-22,Ended,54,27,Separate career period; ran into the 2022-23 season,S01+S05
+6,NAS,Al Nassr,Saudi Arabia,Saudi Pro League,2023-01-22,2026-10-29,,Current,160,138,Current club; contract to 2027,S01+S05
